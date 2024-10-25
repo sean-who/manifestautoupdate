@@ -113,7 +113,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729050790"
+	"store_asset_mtime" "1729857059"
 	"associations"
 	{
 		"0"
@@ -218,18 +218,18 @@
 		{
 			"public"
 			{
-				"gid" "138184812687292861"
-				"size" "15718781753"
-				"download" "13115519712"
+				"gid" "1792690118440327460"
+				"size" "15719556819"
+				"download" "13115843088"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"playertest"
 			{
-				"gid" "485057A51FD88250A7B48A24021E314D"
-				"size" "6DF757513A198267B3421A7AFB870203"
-				"download" "9C77B4A3BDBFD06AFE433549BCAE8AD0"
+				"gid" "E61AD86EC78125577F54DF4015DFCE99"
+				"size" "F424CA4722B46F88F2A2724E1989DEEA"
+				"download" "E6165EF2CEFFC50A436717B7FD385FEB"
 			}
 			"qianjinxian"
 			{
@@ -245,9 +245,9 @@
 			}
 			"test"
 			{
-				"gid" "D8A05F70EA704F3882667EBAA4638752"
-				"size" "E1EC94BA9CD4E3D3CA22E4014A63CE77"
-				"download" "B844BEDCA7E7CC0AEF62EBF1765D7DE0"
+				"gid" "8DA0EDB04FA9289D20EC158CC6B0E3C9"
+				"size" "D77D621FD0B9C05CCE4478A88A9A0DB7"
+				"download" "39DA1FD15993D8C75D09149EB04B6DDA"
 			}
 		}
 	}
@@ -295,15 +295,15 @@
 	{
 		"public"
 		{
-			"buildid" "16137365"
-			"timeupdated" "1729607507"
+			"buildid" "16163433"
+			"timeupdated" "1729771623"
 		}
 		"playertest"
 		{
 			"sc_schinese" "对外测试"
-			"buildid" "16149465"
+			"buildid" "16160871"
 			"pwdrequired" "1"
-			"timeupdated" "1729679429"
+			"timeupdated" "1729750080"
 		}
 		"qianjinxian"
 		{
@@ -322,13 +322,13 @@
 		"test"
 		{
 			"sc_schinese" "Steam China test"
-			"buildid" "16147186"
+			"buildid" "16163433"
 			"pwdrequired" "1"
-			"timeupdated" "1729668303"
+			"timeupdated" "1729763146"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25855586"
-"_sha" "c3e919478a48302c39931de69e99d9a93d2793de"
-"_size" "6844"
+"_change_number" "25895572"
+"_sha" "87e3bc9569e49bf5d489b60c60b8a87b8edc67e9"
+"_size" "6845"
