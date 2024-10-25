@@ -10,6 +10,55 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1729728000"
+		"tested_build_id" "15997683"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
@@ -159,7 +208,7 @@
 		"19" "1100689"
 	}
 	"review_score" "8"
-	"review_percentage" "96"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -216,9 +265,9 @@
 		{
 			"public"
 			{
-				"gid" "4122820936216343698"
-				"size" "2576159486"
-				"download" "2373878096"
+				"gid" "7096853337464459980"
+				"size" "2577122779"
+				"download" "2374746896"
 			}
 		}
 		"encryptedmanifests"
@@ -231,9 +280,9 @@
 			}
 			"internaltesting"
 			{
-				"gid" "7E8DDC79AF88D8BADD1864176116B966"
-				"size" "745AD861C8F4924CB2C99E56BB7E3EF8"
-				"download" "83A92ACAF897D77AABD14BBE5F08345A"
+				"gid" "7CCAEF764D58D7030851DC6DE92420F3"
+				"size" "E7523E8730F0E901DAE048486DAE231D"
+				"download" "CEEAA1B2498CB35B3E30B6E2D6956DCD"
 			}
 		}
 	}
@@ -241,8 +290,8 @@
 	{
 		"public"
 		{
-			"buildid" "15997683"
-			"timeupdated" "1728580644"
+			"buildid" "16154986"
+			"timeupdated" "1729708018"
 		}
 		"superinternal"
 		{
@@ -252,9 +301,9 @@
 		}
 		"internaltesting"
 		{
-			"buildid" "15997683"
+			"buildid" "16154986"
 			"pwdrequired" "1"
-			"timeupdated" "1728579926"
+			"timeupdated" "1729707224"
 		}
 	}
 }
@@ -264,6 +313,6 @@
 	"maxnumfiles" "10"
 }
 "_missing_token" "False"
-"_change_number" "25652526"
-"_sha" "887ab84b9bec655f1387e05a1b993a71f0152522"
-"_size" "4355"
+"_change_number" "25865790"
+"_sha" "e5b05a2e5e9c2fe79c50b0bc84adf7ba2e16b5df"
+"_size" "5587"
