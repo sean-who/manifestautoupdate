@@ -51,7 +51,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "58fce79205c657e645d95eafdab8c7d1b5b85a76/capsule_231x87.jpg"
+		"english" "ffd7cdb5ee56177dad16184df81731857ad9b62d/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -76,11 +76,11 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "57f98a1a22a10da80fd155fe32e1a94bd94e4701/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "57f98a1a22a10da80fd155fe32e1a94bd94e4701/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -119,7 +119,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1725891502"
+	"store_asset_mtime" "1729532798"
 	"associations"
 	{
 		"0"
@@ -137,8 +137,9 @@
 	"genres"
 	{
 		"0" "1"
-		"1" "23"
-		"2" "28"
+		"1" "25"
+		"2" "23"
+		"3" "28"
 	}
 	"category"
 	{
@@ -181,6 +182,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1706205752"
 	"community_visible_stats" "1"
@@ -197,10 +203,10 @@
 		"5" "4667"
 		"6" "3993"
 		"7" "3959"
-		"8" "3839"
-		"9" "6506"
-		"10" "1743"
-		"11" "21"
+		"8" "21"
+		"9" "3839"
+		"10" "6506"
+		"11" "1743"
 		"12" "7948"
 		"13" "1716"
 		"14" "599"
@@ -211,7 +217,7 @@
 		"19" "4821"
 	}
 	"review_score" "9"
-	"review_percentage" "97"
+	"review_percentage" "98"
 }
 "extended"
 {
@@ -219,6 +225,8 @@
 	"developer" "One Hamsa"
 	"publisher" "One Hamsa"
 	"homepage" "https://www.UNDERDOGSgame.com/"
+	"listofdlc" "3295440"
+	"dlcavailableonstore" "1"
 }
 "config"
 {
@@ -286,15 +294,15 @@
 		{
 			"public"
 			{
-				"gid" "7998664467000254867"
-				"size" "2344326020"
-				"download" "1584321520"
+				"gid" "9145016988560264229"
+				"size" "2362844836"
+				"download" "1600039472"
 			}
 			"laststable"
 			{
-				"gid" "1864298674532016900"
-				"size" "2344602532"
-				"download" "1585278576"
+				"gid" "7998664467000254867"
+				"size" "2344326020"
+				"download" "1584321520"
 			}
 			"sandboxxer"
 			{
@@ -367,9 +375,9 @@
 			}
 			"nightly"
 			{
-				"gid" "488B557BBB3AD65AB695ED032D54DBAE"
-				"size" "83C3AE83FC8EDD6A42417567CE238547"
-				"download" "B172B5FCA78E55714AF6C4E03EF9D4AC"
+				"gid" "9522D9472A7A218419EB00FFFB1C9D5F"
+				"size" "AF85FB798BAE24CF316FD1DA845EBF0D"
+				"download" "98484DFC3D985CD46DCBF1A3BC5F2615"
 			}
 			"nightly-debuggable"
 			{
@@ -385,9 +393,9 @@
 			}
 			"playtesting"
 			{
-				"gid" "9FEB6B36BC4F0178C8AF75163C3AAC2C"
-				"size" "DE6B2CC5734A4D8E1639874BFDF777DF"
-				"download" "A4CE3A64861C810E30EC41B68748ECF8"
+				"gid" "22A5314CCDB5704094E71F3483F2D147"
+				"size" "A883BCB655E1AE17B2FEFF62A3192729"
+				"download" "F4CA3F411A24F1098ED02339E5DD4327"
 			}
 			"playtesting-sandbox"
 			{
@@ -397,27 +405,33 @@
 			}
 			"qa-rc"
 			{
-				"gid" "B6C20239F792C715E6E0521D1B7B4C2D"
-				"size" "AB364D09595D39439D059A35A82DE54A"
-				"download" "6E760B3A1AD43E6339374CF8DFD925EC"
+				"gid" "60E720927D50481B768F6E0E27BD0CB6"
+				"size" "225CA9B15DE3CF79CEEEA2A86DD16386"
+				"download" "3A99E10E46D7C2995F6E25071115205F"
 			}
 			"release-candidate"
 			{
-				"gid" "E4DE1426D94BC2A714C61C4A451310ED"
-				"size" "1C7E828B8DF148F4160468EF15A57DD8"
-				"download" "6FB088C875636B0CF3C86EEB33E5C5EC"
+				"gid" "C6CD5624E62EB761F5FD33D813028168"
+				"size" "CEB5667A660632456FBFC6459333FF07"
+				"download" "DBBD380B802B7A9087AB5578EF74F1D8"
 			}
 			"staging"
 			{
-				"gid" "C27825D38A2DA28129452FCC12E8C3DC"
-				"size" "701E3648A510865CEE8CDCDDCF9D6DE3"
-				"download" "C06EB3FAC3B64ABADEDBA362735EBD36"
+				"gid" "17274BECC8386EBF9D5062103DAC5AD7"
+				"size" "E515FEA3AF031979B3CECB51A3072D02"
+				"download" "2D21C33216C77B7551E7A6E3954F28E0"
+			}
+			"time4vr"
+			{
+				"gid" "9955BE70693527E62206B21FDCEE50D0"
+				"size" "EBC4A911527E02EA5CD7CE6B5EC37AB2"
+				"download" "C85CF69655AAE75E30D246D969722A28"
 			}
 			"user-yot"
 			{
-				"gid" "BABFB65EADFFF75F054642FC34CAB29A"
-				"size" "783666596AE27E43B56CA0A097EA6768"
-				"download" "C72FC5A88685847AA9B0CCE2E484C267"
+				"gid" "9987E51F3F9BF7AF5E43C1FB1A06C245"
+				"size" "8ED27367EDFD87C193C7D499000FE405"
+				"download" "56F5EA2E8EF64D91D0794A6DC08C66A7"
 			}
 		}
 	}
@@ -425,8 +439,8 @@
 	{
 		"public"
 		{
-			"buildid" "15867144"
-			"timeupdated" "1727688082"
+			"buildid" "16147785"
+			"timeupdated" "1729789112"
 		}
 		"ci-cd-test"
 		{
@@ -484,9 +498,9 @@
 		}
 		"laststable"
 		{
-			"buildid" "15642457"
+			"buildid" "15867144"
 			"description" "Last stable build"
-			"timeupdated" "1727688037"
+			"timeupdated" "1729783215"
 		}
 		"localization-russian"
 		{
@@ -496,9 +510,9 @@
 		}
 		"nightly"
 		{
-			"buildid" "15910814"
+			"buildid" "16174765"
 			"pwdrequired" "1"
-			"timeupdated" "1727924859"
+			"timeupdated" "1729826750"
 		}
 		"nightly-debuggable"
 		{
@@ -514,9 +528,9 @@
 		}
 		"playtesting"
 		{
-			"buildid" "15511001"
+			"buildid" "16126767"
 			"pwdrequired" "1"
-			"timeupdated" "1724843860"
+			"timeupdated" "1729548990"
 		}
 		"playtesting-sandbox"
 		{
@@ -526,15 +540,15 @@
 		}
 		"qa-rc"
 		{
-			"buildid" "15867890"
+			"buildid" "16139158"
 			"pwdrequired" "1"
-			"timeupdated" "1727632459"
+			"timeupdated" "1729614495"
 		}
 		"release-candidate"
 		{
-			"buildid" "15867144"
+			"buildid" "16147785"
 			"pwdrequired" "1"
-			"timeupdated" "1727621874"
+			"timeupdated" "1729671064"
 		}
 		"sandboxxer"
 		{
@@ -544,15 +558,25 @@
 		}
 		"staging"
 		{
-			"buildid" "15867504"
+			"buildid" "16149327"
 			"pwdrequired" "1"
-			"timeupdated" "1727627198"
+			"timeupdated" "1729678379"
+		}
+		"time4vr"
+		{
+			"buildid" "15969931"
+			"pwdrequired" "1"
+			"timeupdated" "1728467653"
 		}
 		"user-yot"
 		{
-			"buildid" "15800551"
+			"buildid" "15969931"
 			"pwdrequired" "1"
-			"timeupdated" "1727170941"
+			"timeupdated" "1728406547"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25888862"
+"_sha" "4b1b16360b61b618df929f3932f3e980865d7a47"
+"_size" "11797"
