@@ -312,9 +312,9 @@
 		{
 			"public"
 			{
-				"gid" "2031186603618912285"
-				"size" "7101618800"
-				"download" "6759568688"
+				"gid" "6911242707862673804"
+				"size" "7102053578"
+				"download" "6759382000"
 			}
 		}
 		"encryptedmanifests"
@@ -333,9 +333,9 @@
 			}
 			"playtest4"
 			{
-				"gid" "C7F6C7F67AC3DB2B42A0962BE4822579"
-				"size" "D9979FFF9962EF33139E6A152B797E71"
-				"download" "8ADB86965DC7ED62F83351E5C3445183"
+				"gid" "D4D9966D6A8CAA48651D3AEA0685396E"
+				"size" "1C971556A28EF78FC6B69735C2807F3C"
+				"download" "4573F47F52BB961E517F18E797FED97A"
 			}
 			"playtestbossfight"
 			{
@@ -351,9 +351,9 @@
 			}
 			"steamdeck"
 			{
-				"gid" "DC6AE7D73920E41B46675393D5AAC88F"
-				"size" "41F42AD4FDD2F1BBC02A3A3F69622626"
-				"download" "7CB3B5C33E46A03F2E139B869E128E8D"
+				"gid" "42AB001E40F271C5748269195CD2C98B"
+				"size" "781C1D5DCA105D555C63188EF1C734F5"
+				"download" "C5C28B9E203EDE41EF1D74FA7E2015A8"
 			}
 		}
 	}
@@ -361,8 +361,8 @@
 	{
 		"public"
 		{
-			"buildid" "16138378"
-			"timeupdated" "1729615056"
+			"buildid" "16168322"
+			"timeupdated" "1729788330"
 		}
 		"demo"
 		{
@@ -378,9 +378,9 @@
 		}
 		"playtest4"
 		{
-			"buildid" "16138378"
+			"buildid" "16167154"
 			"pwdrequired" "1"
-			"timeupdated" "1729610435"
+			"timeupdated" "1729781767"
 		}
 		"playtestbossfight"
 		{
@@ -396,13 +396,13 @@
 		}
 		"steamdeck"
 		{
-			"buildid" "16150046"
+			"buildid" "16180979"
 			"pwdrequired" "1"
-			"timeupdated" "1729681823"
+			"timeupdated" "1729862281"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25856114"
-"_sha" "5ba0fdf9245b36b0d5521617515eb3e32a6c0e2b"
+"_change_number" "25896912"
+"_sha" "7c7fa67e830400419227424f7bc0603846ba6e68"
 "_size" "6808"
