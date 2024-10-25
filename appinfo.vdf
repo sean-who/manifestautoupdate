@@ -338,18 +338,18 @@
 		{
 			"public"
 			{
-				"gid" "41827989082658569"
-				"size" "6545578454"
-				"download" "3934320192"
+				"gid" "6353196963725354111"
+				"size" "6548444612"
+				"download" "3932778176"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"|develop-packing|"
 			{
-				"gid" "6C6B45C04FEE2DE978657C7FDD5B5F9F"
-				"size" "388CC6A73362E0ACEDDEB59120238BE9"
-				"download" "D989B86882E982204821FDA8B43E30B8"
+				"gid" "6FF800DFDA86A80B5F82DE6BAA2643B5"
+				"size" "E8855CF818833D02F70BD9169BD0F4A9"
+				"download" "8D67C89961C760F4B8236F30BA5D365B"
 			}
 			"|feature-dev-henry|"
 			{
@@ -365,39 +365,39 @@
 			}
 			"|preproduction-packing|"
 			{
-				"gid" "3C3783CF28B432E17969E3442618A243"
-				"size" "539C2C7DEE9C6082950DBE43673323AB"
-				"download" "4426B0BB8C8505813D8D2E4C53650F31"
+				"gid" "1C023DC09DACF28A79FDE1D22E473209"
+				"size" "08A03070D03A98D45DCF932FAB216B5C"
+				"download" "F024D94611FD90036B3FB504F668D519"
 			}
 			"|ps4-dev|"
 			{
-				"gid" "FBAA61E3A0C3967F3BA090A64B16646A"
-				"size" "DF9E4F6B7E192D789EBCAB5AA57FA63F"
-				"download" "020CB793D5A995D60745A634DE8578F3"
+				"gid" "952B4801BF258D85AAD8BD9553949092"
+				"size" "95A3DEDCC3CF66C5FB5BA184C853E044"
+				"download" "F71689B4BBE8610577462E038A4E8240"
 			}
 			"|ps4-production|"
 			{
-				"gid" "542611F7F0847E5D494D20D34575A20A"
-				"size" "79B197F0C80F2DB3C9F6813C937CC251"
-				"download" "7E9285AD740E56890C3988CF630C5DBA"
+				"gid" "F4603D2017D26962885D2BBE4AAC6BFE"
+				"size" "518B6FFC29191E974E0B074AFD8E2A8B"
+				"download" "E6F85D3D52BC8B61C68E85D2C15BA081"
 			}
 			"|ps5-dev|"
 			{
-				"gid" "EDC31536F3EE4136D74ADAC58A93D871"
-				"size" "C8AFBC77430A113F4A365F52CA13280F"
-				"download" "95DEBACAAA753DB7775E19F8C4431055"
+				"gid" "8E13D232728586C16A99B077BCD9D4D2"
+				"size" "EE7A0BC4494744917200378AA672D6FB"
+				"download" "0108494970F3D4BBEBEC1AC8EF24179C"
 			}
 			"|ps5-production|"
 			{
-				"gid" "F37330D548BF203CA6EAF23E9CE5AF58"
-				"size" "5B1307DE3B85661E174542D8E904B95F"
-				"download" "9A16984369CA8900CFF04D70A1F1A658"
+				"gid" "13D39861B58E560F29DB16396F630AFC"
+				"size" "D5D7616B2D017076E8E6166250403F55"
+				"download" "15CD686FEA7E024B948328090B54107D"
 			}
 			"|switch-dev|"
 			{
-				"gid" "CA92F5FEA3188A0FAC2D63EC02E1C00F"
-				"size" "68A03AB2DD6AC39D1A883E766ED2F525"
-				"download" "D24EFFA6B5D782591432C145C648F9FA"
+				"gid" "A1B5B33ED182CE7D95CC01FA57B495A9"
+				"size" "91EF1E830CCCA764A32DB5067A618E41"
+				"download" "AB4E72DAE1D688E14DA800E9B1D60B94"
 			}
 			"|switch-production|"
 			{
@@ -407,39 +407,39 @@
 			}
 			"|win-store-dev|"
 			{
-				"gid" "24C49FD9D0EBBBEAE3F1B8A7D8922168"
-				"size" "5E3A6EC478C947688D2DA183720C2BD0"
-				"download" "663CEE5455017383E176279D0A6D2E3F"
+				"gid" "10A41BAAE188F0C2D1B0861F2B4EB476"
+				"size" "034F8356062D453C5FBEB4C62FC97DD6"
+				"download" "AE53CEDB38378EAE361F94EEB1A755E3"
 			}
 			"|win-store-production|"
 			{
-				"gid" "6329E13028541791E09FE8B43D144255"
-				"size" "EB7A82E9543BF96FC73ECF05BDEBFAE9"
-				"download" "4D346DFFF936B1496816C0D913740190"
+				"gid" "134AFA277DC13D40B23CB48DC85A2DA4"
+				"size" "58AA50F57B9139EA7EC3B664C522A301"
+				"download" "F700FE8DC6C93ECC89929D78DD695778"
 			}
 			"|xbox-one-dev|"
 			{
-				"gid" "631E0E70360C5ED05EEC86F1C56BA364"
-				"size" "29F672C6943D0ADA5B654DEDA986DF44"
-				"download" "FC34C6FF40AB94C15F0B26E5D32ACA8A"
+				"gid" "E321A05F4C441BDC8919BD2E8090E86F"
+				"size" "058E8E5034F7CEA47800CB81533324C1"
+				"download" "BC6DBB9A1620290AD1810E45E9177D54"
 			}
 			"|xbox-one-production|"
 			{
-				"gid" "4D55828D2D1F863DB21F4195D7A182CA"
-				"size" "312C970776870C377AB8FC9936B29C8A"
-				"download" "26A92D4E9DCE2E2B9BADBD4C691C90CF"
+				"gid" "1C326DE3C318FAF22EAF00FB5FD2A69F"
+				"size" "44CDC1DDE406C717E25D923799E2DAF6"
+				"download" "9CEF84EA7C8B29677514FC166111D2F7"
 			}
 			"|xbox-series-dev|"
 			{
-				"gid" "41EBD64A6D182E94EFE4D87CF90BBBCB"
-				"size" "25EE3BC5C05629E9A57C055B78A06F74"
-				"download" "8B6970B16FB19C9A59905EBBA57BA8C4"
+				"gid" "4675879431BEEA65A8A68D362FDA824F"
+				"size" "18E398515D021FCAF849E5382B9FD7FF"
+				"download" "E6C31114B915300F668DB2B20CF8AD20"
 			}
 			"|xbox-series-production|"
 			{
-				"gid" "4223C8B61F4D0FED21440B3C0DA9EA9C"
-				"size" "090546231282E5539A0B912DA768663B"
-				"download" "873AE65152FDB5DFDE4ED14696C54A9F"
+				"gid" "6605B246D3E1329CF837BE68150CE5C7"
+				"size" "11068F0CE0D2E41BF8ACE59C37CAF084"
+				"download" "CC042C0806ECAA22F104926542CA31FF"
 			}
 			"laststabledev"
 			{
@@ -455,9 +455,9 @@
 			}
 			"lqa-test-branch"
 			{
-				"gid" "5B867393BE124DD9F3F314E9FD235B24"
-				"size" "60A3299949CF6D5E2E11E61F0864B19B"
-				"download" "0B35B86C44FB9CAA48716FF840AA3061"
+				"gid" "2A9609A6BDB9FF3ADCE05312491C0ED9"
+				"size" "81A2B24DBEE1B4FCEA5C2066A96565EC"
+				"download" "BB96427BBBADD6E65C3D68134378F0A9"
 			}
 			"speedrun20240618"
 			{
@@ -478,9 +478,9 @@
 		{
 			"public"
 			{
-				"gid" "3067605760731791957"
-				"size" "6615026888"
-				"download" "3945265056"
+				"gid" "5140515386568566677"
+				"size" "6630776010"
+				"download" "3945225072"
 			}
 			"local"
 			{
@@ -493,9 +493,9 @@
 		{
 			"|develop-packing|"
 			{
-				"gid" "4391CA075E1AA08401B75F48D6E45F44"
-				"size" "7E98004ECA8DEC1B92962BF27F53FF61"
-				"download" "2EF5627475F0FA62B416C1647E09B712"
+				"gid" "8960B7E29B927D50C6117D0112B4ECDD"
+				"size" "0C877771B0C37CA3F24F655D95FF047A"
+				"download" "7AFE32E00B45BD2752C896E2300EF345"
 			}
 			"|feature-dev-henry|"
 			{
@@ -511,9 +511,9 @@
 			}
 			"|preproduction-packing|"
 			{
-				"gid" "A637FC5D8D7841432D8BD3414A984893"
-				"size" "27FCBCE83769F49DA92CB483A714F8E3"
-				"download" "A0CBDCD107A66371F8F2D7CBE8E3A752"
+				"gid" "6C9EC0835AA82CE6F173716B1B7B7303"
+				"size" "F24AFB949BDE4535A327E839208351CB"
+				"download" "8777C3C69EAF75157236195564B7DB55"
 			}
 			"|ps4-dev|"
 			{
@@ -601,9 +601,9 @@
 			}
 			"lqa-test-branch"
 			{
-				"gid" "C7A6922781D3B4D81539812C2A81D819"
-				"size" "45C4842A7B2A0BE6740BEEEC9061F10F"
-				"download" "AB01B02C220DB0E682D887464E788E43"
+				"gid" "5560A076864AD109DAB704C4E2FEDED6"
+				"size" "0FA7EF44A1601026E412724AC2437FA9"
+				"download" "5E08C8DB3F9DA9D8ECCD5BC9522FAD21"
 			}
 			"speedrun20240618"
 			{
@@ -617,8 +617,8 @@
 	{
 		"public"
 		{
-			"buildid" "16132783"
-			"timeupdated" "1729583953"
+			"buildid" "16158775"
+			"timeupdated" "1729756271"
 		}
 		"local"
 		{
@@ -629,9 +629,9 @@
 		}
 		"|develop-packing|"
 		{
-			"buildid" "16148604"
+			"buildid" "16181067"
 			"pwdrequired" "1"
-			"timeupdated" "1729675089"
+			"timeupdated" "1729862578"
 		}
 		"|feature-dev-henry|"
 		{
@@ -647,39 +647,39 @@
 		}
 		"|preproduction-packing|"
 		{
-			"buildid" "16147210"
+			"buildid" "16169907"
 			"pwdrequired" "1"
-			"timeupdated" "1729668156"
+			"timeupdated" "1729796275"
 		}
 		"|ps4-dev|"
 		{
-			"buildid" "16138673"
+			"buildid" "16169573"
 			"pwdrequired" "1"
-			"timeupdated" "1729611974"
+			"timeupdated" "1729794471"
 		}
 		"|ps4-production|"
 		{
-			"buildid" "16147130"
+			"buildid" "16170236"
 			"pwdrequired" "1"
-			"timeupdated" "1729667673"
+			"timeupdated" "1729798313"
 		}
 		"|ps5-dev|"
 		{
-			"buildid" "16132475"
+			"buildid" "16169010"
 			"pwdrequired" "1"
-			"timeupdated" "1729580723"
+			"timeupdated" "1729790949"
 		}
 		"|ps5-production|"
 		{
-			"buildid" "16149387"
+			"buildid" "16167233"
 			"pwdrequired" "1"
-			"timeupdated" "1729678593"
+			"timeupdated" "1729782069"
 		}
 		"|switch-dev|"
 		{
-			"buildid" "16147388"
+			"buildid" "16181916"
 			"pwdrequired" "1"
-			"timeupdated" "1729669159"
+			"timeupdated" "1729867146"
 		}
 		"|switch-production|"
 		{
@@ -689,39 +689,39 @@
 		}
 		"|win-store-dev|"
 		{
-			"buildid" "16138643"
+			"buildid" "16167115"
 			"pwdrequired" "1"
-			"timeupdated" "1729611810"
+			"timeupdated" "1729781486"
 		}
 		"|win-store-production|"
 		{
-			"buildid" "16139871"
+			"buildid" "16168429"
 			"pwdrequired" "1"
-			"timeupdated" "1729618319"
+			"timeupdated" "1729788070"
 		}
 		"|xbox-one-dev|"
 		{
-			"buildid" "16138361"
+			"buildid" "16182099"
 			"pwdrequired" "1"
-			"timeupdated" "1729610336"
+			"timeupdated" "1729868216"
 		}
 		"|xbox-one-production|"
 		{
-			"buildid" "16139358"
+			"buildid" "16169012"
 			"pwdrequired" "1"
-			"timeupdated" "1729615495"
+			"timeupdated" "1729790953"
 		}
 		"|xbox-series-dev|"
 		{
-			"buildid" "16140386"
+			"buildid" "16169897"
 			"pwdrequired" "1"
-			"timeupdated" "1729621212"
+			"timeupdated" "1729796249"
 		}
 		"|xbox-series-production|"
 		{
-			"buildid" "16141343"
+			"buildid" "16168019"
 			"pwdrequired" "1"
-			"timeupdated" "1729626605"
+			"timeupdated" "1729786202"
 		}
 		"laststabledev"
 		{
@@ -737,9 +737,9 @@
 		}
 		"lqa-test-branch"
 		{
-			"buildid" "15634600"
+			"buildid" "16172211"
 			"pwdrequired" "1"
-			"timeupdated" "1726819709"
+			"timeupdated" "1729837352"
 		}
 		"speedrun20240618"
 		{
@@ -776,6 +776,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25855372"
-"_sha" "9e92b5d07ec23704496cf0158c578b40e8e63ad8"
-"_size" "16778"
+"_change_number" "25898391"
+"_sha" "14af8d1f646ad25518b9c63c5a874d2bb686a169"
+"_size" "16780"
