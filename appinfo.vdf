@@ -1,7 +1,7 @@
 "appid" "1989270"
 "common"
 {
-	"name" "Slay the Princess"
+	"name" "Slay the Princess — The Pristine Cut"
 	"type" "Game"
 	"releasestate" "released"
 	"oslist" "windows,macos,linux"
@@ -10,6 +10,22 @@
 	"clienticon" "83b6a29b4ecbf33f43d7680a739bb6c98f0d0e57"
 	"clienttga" "fbd292a163d572c62a28e640a55346cae8983968"
 	"icon" "aae15ecdf3d29d31d3f7882c6da511f3aba4ca0b"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
 	"content_descriptors"
 	{
 		"0" "1"
@@ -65,7 +81,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "e47c28b4d5f592ad6fd9c9bc3053d33226bef433/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -133,7 +149,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1706299326"
+	"store_asset_mtime" "1729096783"
 	"associations"
 	{
 		"0"
@@ -186,6 +202,66 @@
 			"full_audio" "true"
 			"subtitles" "true"
 		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1698069537"
 	"metacritic_score" "90"
@@ -201,20 +277,20 @@
 		"3" "1721"
 		"4" "4486"
 		"5" "1742"
-		"6" "9551"
-		"7" "11014"
+		"6" "11014"
+		"7" "9551"
 		"8" "1698"
 		"9" "4947"
 		"10" "21"
-		"11" "4474"
-		"12" "3854"
+		"11" "3854"
+		"12" "4474"
 		"13" "5900"
 		"14" "122"
 		"15" "599"
 		"16" "3839"
 		"17" "1751"
-		"18" "29482"
-		"19" "5923"
+		"18" "5923"
+		"19" "29482"
 	}
 	"review_score" "9"
 	"review_percentage" "97"
@@ -268,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "3834233240128371349"
-				"size" "8992638429"
-				"download" "8679071680"
+				"gid" "3468441314486160455"
+				"size" "12935595684"
+				"download" "12311178304"
 			}
 		}
 		"encryptedmanifests"
@@ -281,11 +357,11 @@
 				"size" "31276567D56A3955A7575148DB459290"
 				"download" "8B883095178AD9EA0D418D5D2A87BD31"
 			}
-			"press"
+			"endofeverthingupdate"
 			{
-				"gid" "A9F4C54BD247C868C0F019FE9C852C8F"
-				"size" "89190C183F9B0DDFCE477B6C1816986B"
-				"download" "FE8E5444A563D3D0E20D87F0FE002106"
+				"gid" "16B58E0F1078DE7D1FEDF017A69D1558"
+				"size" "065F76199DD9BEDBB4D5AFE1AACDAF09"
+				"download" "285E4062B8CC82D1FE47F18229CB1991"
 			}
 		}
 	}
@@ -308,11 +384,11 @@
 				"size" "3BCB66DD315E7ECDC25A26FA80A2A7B3"
 				"download" "62C101233BE64847CCFD0D9D7D86DEB8"
 			}
-			"press"
+			"endofeverthingupdate"
 			{
-				"gid" "D9CA174664D9448CBC843653C8E7CC1F"
-				"size" "EBF8B595FC770C1EF4DA77CDFB33CE40"
-				"download" "C67B62AEEC753BD388F70F9397E5732F"
+				"gid" "C2F0D7C0CC506BA035C7781CB23F333F"
+				"size" "C94E6DC34F96DF9CD8A6043BE1283462"
+				"download" "D93487AE9567DCE4D81B5B9FA0815DD8"
 			}
 		}
 	}
@@ -323,9 +399,9 @@
 		{
 			"public"
 			{
-				"gid" "6286056142653167693"
-				"size" "5916474714"
-				"download" "5836039136"
+				"gid" "6572445979614888774"
+				"size" "8322286136"
+				"download" "8073885856"
 			}
 		}
 		"encryptedmanifests"
@@ -336,11 +412,11 @@
 				"size" "6E9F64BA9479CBE1848E9AB6F619C1DB"
 				"download" "21B855823019962BCFCBC0135D0229B3"
 			}
-			"press"
+			"endofeverthingupdate"
 			{
-				"gid" "70B73B260885FF6FCBE1EF07EEDC7012"
-				"size" "F2D54657357E4DE256F613F2ABA27842"
-				"download" "65DCAE6EFBB8BE7E5723735B13C8CF08"
+				"gid" "13A5F664C4F16C7AC3915C7EB6E1C3F4"
+				"size" "90DF3D99B430745EC0089E5BFC592386"
+				"download" "8EB0FA17B23802AB4893023B6E57AE0D"
 			}
 		}
 	}
@@ -348,8 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "14306808"
-			"timeupdated" "1715194695"
+			"buildid" "16171211"
+			"timeupdated" "1729803857"
 		}
 		"legacybuild"
 		{
@@ -357,11 +433,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1711390880"
 		}
-		"press"
+		"endofeverthingupdate"
 		{
-			"buildid" "15743064"
+			"buildid" "16168659"
 			"pwdrequired" "1"
-			"timeupdated" "1726666167"
+			"timeupdated" "1729789181"
 		}
 	}
 }
@@ -379,3 +455,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25884720"
+"_sha" "f0beb0dcc6adda51421f24c8edc356a74113b3a7"
+"_size" "8211"
