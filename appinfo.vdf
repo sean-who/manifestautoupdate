@@ -344,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "8879458634297006382"
-				"size" "12935598496"
-				"download" "12311180928"
+				"gid" "8486885617331166518"
+				"size" "12935597947"
+				"download" "12311179504"
 			}
 		}
 		"encryptedmanifests"
@@ -424,8 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "16174274"
-			"timeupdated" "1729822929"
+			"buildid" "16180720"
+			"timeupdated" "1729860960"
 		}
 		"legacybuild"
 		{
@@ -456,6 +456,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25888209"
-"_sha" "7fd0d7b2ad79c191e2df35ca73c23fc549af57b4"
+"_change_number" "25896540"
+"_sha" "e7f108ab58125731365525823239147643ba57d4"
 "_size" "8211"
