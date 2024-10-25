@@ -12,11 +12,16 @@
 	"logo" "0012c60c10234cecb1537e2ebfde3442979e5a34"
 	"logo_small" "0012c60c10234cecb1537e2ebfde3442979e5a34_thumb"
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1708473600"
-		"tested_build_id" "13403130"
+		"test_timestamp" "1728950400"
+		"tested_build_id" "15689719"
 		"tests"
 		{
 			"0"
@@ -42,19 +47,14 @@
 			"4"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_GameOrLauncherDoesntExitCleanly"
-			}
-			"5"
-			{
-				"display" "3"
 				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
 			}
-			"6"
+			"5"
 			{
 				"display" "4"
 				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
 			}
-			"7"
+			"6"
 			{
 				"display" "1"
 				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
@@ -70,7 +70,7 @@
 			"small_text" "1"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "1"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-3RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -169,6 +169,9 @@
 		"category_36" "1"
 		"category_9" "1"
 		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_63" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -190,14 +193,15 @@
 		}
 	}
 	"steam_release_date" "1649923380"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "1477590"
 	"store_tags"
 	{
 		"0" "1752"
 		"1" "19"
-		"2" "597"
-		"3" "1621"
+		"2" "1621"
+		"3" "597"
 		"4" "701"
 		"5" "7948"
 		"6" "4182"
@@ -279,30 +283,30 @@
 		{
 			"public"
 			{
-				"gid" "5030923961692496198"
-				"size" "69445537538"
-				"download" "62700088224"
+				"gid" "8077624704962415540"
+				"size" "69445727002"
+				"download" "62701007392"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"back_version"
 			{
-				"gid" "E43F87E4F27E770055881E718C3C4D2F"
-				"size" "968413975507EC5B470E94E11731971D"
-				"download" "BEBD4D715BDE9040564004E2F26C0FB8"
+				"gid" "43B4A98FDC6C5DAFC109275CCFE0B760"
+				"size" "4F6859158C37D2714A051AAD396F6E75"
+				"download" "365D3660D72E327E8C614FE9156F1759"
 			}
 			"testserver_private"
 			{
-				"gid" "0DD284C7844822F63448D98129D2DE01"
-				"size" "B5A972D071E206C87657ABEEA2AEFEC3"
-				"download" "24F2DE1850583F46C443E2BBBA13E6C7"
+				"gid" "E1E335543D20305AED2985A4894AB855"
+				"size" "2C02B8F04858ADE50D3BFC3E61EDA8CA"
+				"download" "F052D6703EB1B40895C6EDB3BA015430"
 			}
 			"testserver_protected"
 			{
-				"gid" "695CB39B8CD7B267D03029AE6F54DFF3"
-				"size" "BBEA1CD4C23E9B3127ACA64505EF16C6"
-				"download" "6DCA142D50519736BE550E66EA2D7F20"
+				"gid" "53B94A7BA665A8D955F0E91ADBBB1ED1"
+				"size" "2B96DFC35234EC843CAE97F2839E9116"
+				"download" "33C5D877C11BBD0C3CA3F69B08EE0A68"
 			}
 		}
 	}
@@ -318,18 +322,24 @@
 		{
 			"public"
 			{
-				"gid" "7703006169632884339"
-				"size" "60147218527"
-				"download" "52955243168"
+				"gid" "246081259660385682"
+				"size" "60147407991"
+				"download" "52954773408"
 			}
 		}
 		"encryptedmanifests"
 		{
+			"back_version"
+			{
+				"gid" "A8BC4F2DA2C5DFD44E886D1B1DDE20DD"
+				"size" "B5886831DEA91B09F7305AB1C1C5421E"
+				"download" "18EF2BE2F383E4DF80548C9E54C94544"
+			}
 			"testserver_private"
 			{
-				"gid" "B0F25B95EBD697D934737756C078EAD5"
-				"size" "67B322364E1BB0776E9FEB547996786C"
-				"download" "476D5229AF7339248A9694CA99AC80F9"
+				"gid" "5B8E17E0F65E9BF3B476A63468308692"
+				"size" "93FE1AFF5E21FA4D53E55940D94F889D"
+				"download" "B685D9F46FA238D809E2799E1C0BDF1D"
 			}
 			"testserver_protected"
 			{
@@ -343,26 +353,26 @@
 	{
 		"public"
 		{
-			"buildid" "15900609"
-			"timeupdated" "1727863222"
+			"buildid" "16180061"
+			"timeupdated" "1729857524"
 		}
 		"back_version"
 		{
-			"buildid" "10211723"
+			"buildid" "16172315"
 			"pwdrequired" "1"
-			"timeupdated" "1671903100"
+			"timeupdated" "1729809980"
 		}
 		"testserver_private"
 		{
-			"buildid" "15900609"
+			"buildid" "16180047"
 			"pwdrequired" "1"
-			"timeupdated" "1727862769"
+			"timeupdated" "1729857457"
 		}
 		"testserver_protected"
 		{
-			"buildid" "15835723"
+			"buildid" "16175202"
 			"pwdrequired" "1"
-			"timeupdated" "1727349281"
+			"timeupdated" "1729829839"
 		}
 	}
 }
@@ -371,3 +381,7 @@
 	"quota" "5242880"
 	"maxnumfiles" "20"
 }
+"_missing_token" "False"
+"_change_number" "25895613"
+"_sha" "ad86ec02388c6f114f9010635a1cc77a654a7a22"
+"_size" "7343"
