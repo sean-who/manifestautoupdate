@@ -209,18 +209,9 @@
 		{
 			"public"
 			{
-				"gid" "7001024104093819268"
-				"size" "17247587932"
-				"download" "13825880944"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"closed_beta"
-			{
-				"gid" "EBEABD7F9D9EA2DA2F44835B8621095F"
-				"size" "071B7FCD5ABE656600BC7420497F4934"
-				"download" "3D40BAF52F55ABE26161403FB426EAE5"
+				"gid" "3115222151592673876"
+				"size" "18425722020"
+				"download" "14252039344"
 			}
 		}
 	}
@@ -232,14 +223,8 @@
 	{
 		"public"
 		{
-			"buildid" "15981028"
-			"timeupdated" "1728480820"
-		}
-		"closed_beta"
-		{
-			"buildid" "15994963"
-			"pwdrequired" "1"
-			"timeupdated" "1728566644"
+			"buildid" "16184041"
+			"timeupdated" "1729878721"
 		}
 	}
 }
@@ -252,6 +237,6 @@
 	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "25648278"
-"_sha" "9db768d2defc4ad26137ae46e91a55f3151e93d5"
-"_size" "4602"
+"_change_number" "25901210"
+"_sha" "7a76ae32feaced088d6058ddd777f8491c0fb5cd"
+"_size" "4283"
