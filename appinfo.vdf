@@ -264,9 +264,9 @@
 		{
 			"public"
 			{
-				"gid" "6297593683435899161"
-				"size" "2257276172"
-				"download" "883966832"
+				"gid" "3513520541614011153"
+				"size" "2257281018"
+				"download" "883970112"
 			}
 			"debug"
 			{
@@ -276,15 +276,15 @@
 			}
 			"development"
 			{
-				"gid" "6297593683435899161"
-				"size" "2257276172"
-				"download" "883966832"
+				"gid" "3513520541614011153"
+				"size" "2257281018"
+				"download" "883970112"
 			}
 			"rollback"
 			{
-				"gid" "4712365807904984179"
-				"size" "2253025096"
-				"download" "884499008"
+				"gid" "8099084218435348977"
+				"size" "2257273633"
+				"download" "883971600"
 			}
 		}
 	}
@@ -299,9 +299,9 @@
 		{
 			"public"
 			{
-				"gid" "6528806572818213683"
-				"size" "2294318309"
-				"download" "922221728"
+				"gid" "4427540510072910850"
+				"size" "2294326214"
+				"download" "922203040"
 			}
 			"debug"
 			{
@@ -311,15 +311,15 @@
 			}
 			"development"
 			{
-				"gid" "6528806572818213683"
-				"size" "2294318309"
-				"download" "922221728"
+				"gid" "4427540510072910850"
+				"size" "2294326214"
+				"download" "922203040"
 			}
 			"rollback"
 			{
-				"gid" "2000688264800768551"
-				"size" "2289824798"
-				"download" "922857296"
+				"gid" "1390654130797603910"
+				"size" "2294319439"
+				"download" "922210208"
 			}
 		}
 	}
@@ -328,8 +328,8 @@
 	{
 		"public"
 		{
-			"buildid" "16085395"
-			"timeupdated" "1729189737"
+			"buildid" "16183483"
+			"timeupdated" "1729875527"
 		}
 		"debug"
 		{
@@ -339,15 +339,15 @@
 		}
 		"development"
 		{
-			"buildid" "16085395"
+			"buildid" "16183483"
 			"description" "For playtesting the latest changes"
-			"timeupdated" "1729189693"
+			"timeupdated" "1729875476"
 		}
 		"rollback"
 		{
-			"buildid" "15606627"
+			"buildid" "16156140"
 			"description" "Contains the previous working version of the game"
-			"timeupdated" "1726065979"
+			"timeupdated" "1729875511"
 		}
 	}
 }
@@ -394,6 +394,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25772585"
-"_sha" "b5fba8616027b74ef3a5253829f1ecd2a47eb17f"
+"_change_number" "25900404"
+"_sha" "c1202d62339abb7ad8f2a416ba924e2bbce1fea1"
 "_size" "6514"
