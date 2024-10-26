@@ -29,7 +29,7 @@
 			"id" "2698780_eula_0"
 			"name" "ContractVille EULA"
 			"url" "https://store.steampowered.com//eula/2698780_eula_0"
-			"version" "2"
+			"version" "3"
 		}
 	}
 	"steam_deck_compatibility"
@@ -378,6 +378,12 @@
 		{
 			"public"
 			{
+				"gid" "3446526949714820638"
+				"size" "17182876545"
+				"download" "4732441072"
+			}
+			"old_public_0.2.2.3"
+			{
 				"gid" "1129424357115231018"
 				"size" "16446163804"
 				"download" "4461733744"
@@ -423,15 +429,15 @@
 			}
 			"forshotsdev"
 			{
-				"gid" "7DC87A3E20AA1E8A0534D26483885071"
-				"size" "58B72BD4862C283A3257E9DF93CA60F0"
-				"download" "45785E35F84C4F36A2CFE45B447F29B1"
+				"gid" "14AAB9B4688302716C2ADB455A41C4C4"
+				"size" "EA24A05D99CC9B2B47E64AB7964B0DF6"
+				"download" "25D8C014C72D44ABD4DFCD7B60F1F01F"
 			}
 			"forshots"
 			{
-				"gid" "094122097E2CFE8CFD78ED58A79835AC"
-				"size" "43FDC14CA8645833BA5C1C4A29C5B995"
-				"download" "9F20BF3E4FFCEFF7A6D08C4085F27930"
+				"gid" "461AB0230123C95892DBDF17AD0F1184"
+				"size" "25204E2FCEF8F4803B054F348BFC69D4"
+				"download" "B17CE98C4692C468A7B8585DBF5691F8"
 			}
 			"betabranchtester"
 			{
@@ -445,8 +451,8 @@
 	{
 		"public"
 		{
-			"buildid" "15997405"
-			"timeupdated" "1728578759"
+			"buildid" "16186671"
+			"timeupdated" "1729895068"
 		}
 		"betabranch"
 		{
@@ -462,15 +468,21 @@
 		}
 		"forshotsdev"
 		{
-			"buildid" "16019126"
+			"buildid" "16184628"
 			"pwdrequired" "1"
-			"timeupdated" "1728720109"
+			"timeupdated" "1729882452"
+		}
+		"old_public_0.2.2.3"
+		{
+			"buildid" "15997405"
+			"description" "old_public_0.2.2.3"
+			"timeupdated" "1729896476"
 		}
 		"forshots"
 		{
-			"buildid" "15855423"
+			"buildid" "16186297"
 			"pwdrequired" "1"
-			"timeupdated" "1727468802"
+			"timeupdated" "1729892477"
 		}
 		"betabranchtester"
 		{
@@ -534,3 +546,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25908515"
+"_sha" "aa14c8d0e2eb793998fbaa3c228a51042b505b66"
+"_size" "10308"
