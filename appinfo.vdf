@@ -182,8 +182,8 @@
 		"2" "3859"
 		"3" "128"
 		"4" "3810"
-		"5" "3993"
-		"6" "6730"
+		"5" "6730"
+		"6" "3993"
 		"7" "1695"
 		"8" "1775"
 		"9" "1684"
@@ -199,7 +199,7 @@
 		"19" "492"
 	}
 	"review_score" "5"
-	"review_percentage" "67"
+	"review_percentage" "66"
 }
 "extended"
 {
@@ -274,30 +274,24 @@
 		{
 			"public"
 			{
-				"gid" "513264717091949644"
-				"size" "20722556268"
-				"download" "14001382768"
-			}
-			"opentest"
-			{
-				"gid" "513264717091949644"
-				"size" "20722556268"
-				"download" "14001382768"
+				"gid" "8569369776890829267"
+				"size" "20756336116"
+				"download" "14024373312"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "E2C3852BA63FFFD5744A8E36BA2E8A44"
-				"size" "0712B4C34C1556A64DB288D844A5ACF2"
-				"download" "62672E98D11E08169C6E913D4A3C7B38"
+				"gid" "03F1125B5D25DAF118A741F167F6283A"
+				"size" "8B2B8384B2D700A60F4F4D58BE1CC0FF"
+				"download" "B0ED01BB1BF3A5BD72E538F3801E787A"
 			}
 			"gamedev"
 			{
-				"gid" "4F535FCC89166E09307AF39AA731F5B7"
-				"size" "F8EFDEFF9DA237202150E28FA07FE7C9"
-				"download" "F2B283E29A23ADDDE7F8D2A9CF91AC04"
+				"gid" "FB293CF7FF53459B19320E426CE83041"
+				"size" "4E99D93C93BD0FF5C0D19FCCD71C1BEB"
+				"download" "FBA1C090A3E383BD40AC2DE6177D910B"
 			}
 			"nodecraft"
 			{
@@ -317,26 +311,20 @@
 	{
 		"public"
 		{
-			"buildid" "15936313"
-			"timeupdated" "1728087552"
+			"buildid" "16185258"
+			"timeupdated" "1729886079"
 		}
 		"developer"
 		{
-			"buildid" "15936313"
+			"buildid" "16185258"
 			"pwdrequired" "1"
-			"timeupdated" "1728087517"
+			"timeupdated" "1729885970"
 		}
 		"gamedev"
 		{
-			"buildid" "15896792"
+			"buildid" "16085712"
 			"pwdrequired" "1"
-			"timeupdated" "1727835077"
-		}
-		"opentest"
-		{
-			"buildid" "15936313"
-			"description" "Public Open Testing"
-			"timeupdated" "1728087601"
+			"timeupdated" "1729191929"
 		}
 		"nodecraft"
 		{
@@ -352,3 +340,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25902766"
+"_sha" "84aefb174a75a9153dd4d7d211ffd76776002a21"
+"_size" "6496"
