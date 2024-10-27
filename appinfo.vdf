@@ -344,9 +344,9 @@
 		{
 			"public"
 			{
-				"gid" "8149112660802999691"
-				"size" "12935600018"
-				"download" "12311182976"
+				"gid" "430880653996456615"
+				"size" "12983320085"
+				"download" "12323727232"
 			}
 		}
 		"encryptedmanifests"
@@ -365,9 +365,9 @@
 			}
 			"press"
 			{
-				"gid" "9975353005448183F1AB5005F74C22E0"
-				"size" "A75C5E9F1988CB454625DF3DA205B3AF"
-				"download" "16FBDD86E491CD177FF311664B9A1EA6"
+				"gid" "7E2438743AD917C93467FBE2E49EA7DD"
+				"size" "FEA956C69EE99C186BD30071A25FD5F4"
+				"download" "30CD625250440A70F212072454968B76"
 			}
 		}
 	}
@@ -411,9 +411,9 @@
 		{
 			"public"
 			{
-				"gid" "6572445979614888774"
-				"size" "8322286136"
-				"download" "8073885856"
+				"gid" "1475979213442814800"
+				"size" "8507804466"
+				"download" "8256453424"
 			}
 		}
 		"encryptedmanifests"
@@ -442,8 +442,8 @@
 	{
 		"public"
 		{
-			"buildid" "16185806"
-			"timeupdated" "1729889144"
+			"buildid" "16194700"
+			"timeupdated" "1729991090"
 		}
 		"legacybuild"
 		{
@@ -459,9 +459,9 @@
 		}
 		"press"
 		{
-			"buildid" "16185773"
+			"buildid" "16194569"
 			"pwdrequired" "1"
-			"timeupdated" "1729888940"
+			"timeupdated" "1729989114"
 		}
 	}
 }
@@ -475,11 +475,11 @@
 		{
 			"root" "gameinstall"
 			"path" "game/saves/"
-			"pattern" "*.save"
+			"pattern" "*"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25903353"
-"_sha" "e66d55462f848d82393d3a391546c28cf7974aea"
-"_size" "8826"
+"_change_number" "25915265"
+"_sha" "29ddd1922a55617730743f80fe12184e46af304c"
+"_size" "8820"
