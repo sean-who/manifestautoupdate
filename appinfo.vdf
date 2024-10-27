@@ -354,9 +354,9 @@
 		{
 			"public"
 			{
-				"gid" "7155772844557000242"
-				"size" "91059920"
-				"download" "19671520"
+				"gid" "5353427512913110670"
+				"size" "109420472"
+				"download" "24341936"
 			}
 			"v1.9.7.7"
 			{
@@ -402,9 +402,9 @@
 			}
 			"testversion"
 			{
-				"gid" "7155772844557000242"
-				"size" "91059920"
-				"download" "19671520"
+				"gid" "5353427512913110670"
+				"size" "109420472"
+				"download" "24341936"
 			}
 			"v1.9.9.8"
 			{
@@ -418,8 +418,8 @@
 	{
 		"public"
 		{
-			"buildid" "15786110"
-			"timeupdated" "1727004636"
+			"buildid" "16197742"
+			"timeupdated" "1730040033"
 		}
 		"v1.9.7.7"
 		{
@@ -473,9 +473,9 @@
 		"testversion"
 		{
 			"sc_schinese" "新版本测试通道 1.9.9.9"
-			"buildid" "15786110"
+			"buildid" "16197742"
 			"description" "new version test 1.9.9.9"
-			"timeupdated" "1727004596"
+			"timeupdated" "1730040004"
 		}
 		"v1.9.9.8"
 		{
@@ -491,139 +491,7 @@
 	"quota" "53687091200"
 	"maxnumfiles" "10000"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#workshop" "WorkShop"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#workshop" "创意工坊"
-			}
-		}
-		"tchinese"
-		{
-			"tokens"
-			{
-				"#workshop" "工作坊"
-			}
-		}
-		"dutch"
-		{
-			"tokens"
-			{
-				"#workshop" "Workshop"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#workshop" "Workshop"
-			}
-		}
-		"german"
-		{
-			"tokens"
-			{
-				"#workshop" "Workshop"
-			}
-		}
-		"greek"
-		{
-			"tokens"
-			{
-				"#workshop" "Εργαστήρι"
-			}
-		}
-		"italian"
-		{
-			"tokens"
-			{
-				"#workshop" "Workshop"
-			}
-		}
-		"japanese"
-		{
-			"tokens"
-			{
-				"#workshop" "ワークショップ"
-			}
-		}
-		"koreana"
-		{
-			"tokens"
-			{
-				"#workshop" "창작마당"
-			}
-		}
-		"portuguese"
-		{
-			"tokens"
-			{
-				"#workshop" "Workshop"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#workshop" "Oficina"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#workshop" "Мастерская"
-			}
-		}
-		"spanish"
-		{
-			"tokens"
-			{
-				"#workshop" "Workshop"
-			}
-		}
-		"swedish"
-		{
-			"tokens"
-			{
-				"#workshop" "Workshop"
-			}
-		}
-		"thai"
-		{
-			"tokens"
-			{
-				"#workshop" "เวิร์กชอป"
-			}
-		}
-		"ukrainian"
-		{
-			"tokens"
-			{
-				"#workshop" "Майстерня"
-			}
-		}
-		"sc_schinese"
-		{
-			"tokens"
-			{
-				"#workshop" "创意工坊"
-			}
-		}
-	}
-}
 "_missing_token" "False"
-"_change_number" "25338051"
-"_sha" "208112036d6c71643b65bdb9e1fe0188af3edda4"
-"_size" "10175"
+"_change_number" "25919455"
+"_sha" "71a18c0719ca8e2f160207217b6f56a04ed18adf"
+"_size" "8663"
