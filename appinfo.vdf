@@ -15,6 +15,12 @@
 		"schinese" "守护者之魂"
 		"japanese" "ソウル ハンター~血の輪舞"
 	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"japanese" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -69,6 +75,7 @@
 	"header_image"
 	{
 		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
 	}
 	"library_assets"
 	{
@@ -129,7 +136,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726143766"
+	"store_asset_mtime" "1730120245"
 	"associations"
 	{
 		"0"
@@ -154,7 +161,6 @@
 		"0" "1"
 		"1" "23"
 		"2" "3"
-		"3" "70"
 	}
 	"category"
 	{
@@ -226,8 +232,13 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
-	"steam_release_date" "1683121778"
+	"steam_release_date" "1730120464"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2002220"
@@ -290,42 +301,30 @@
 		{
 			"public"
 			{
-				"gid" "8886194632068540663"
-				"size" "1492749782"
-				"download" "253278944"
+				"gid" "2612479676737746508"
+				"size" "1521047600"
+				"download" "257315648"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "A124194B9E6F069C7CDE1A66EBCC578D"
-				"size" "433930AF78C574C589503B73CB269EF9"
-				"download" "7762F6159EE2457A811D617BBE8EE492"
+				"gid" "0354987764A950406F57214A51D8D529"
+				"size" "D23E73ED7A621AFF19B8E57A0841ACF7"
+				"download" "CDCEB261D69062E6BD63F5D0156D44A6"
 			}
 			"beta_private"
 			{
-				"gid" "F8331E8C3A25AF702D82EA34BC028BC4"
-				"size" "78857058796A02F2B5A220F876EC38DB"
-				"download" "7376DB7AA8EB1B6569191EFD045A7127"
+				"gid" "91068E703656A17FB35DBCAB9464E97D"
+				"size" "656A22AE888A960C80A2FD07774176D7"
+				"download" "49AC4B294B539BC6CBC424C360020C64"
 			}
-			"hibachi"
+			"meta"
 			{
-				"gid" "5B12AA61F9161F2CBB98A092232A23E9"
-				"size" "C79838095C31B3A7D8034EA04863077E"
-				"download" "C00F72BD3A4A2C672FAF4609ECC6580A"
-			}
-			"language_testing"
-			{
-				"gid" "8A687FB7CC3B024CAB8B72FA3FF171B3"
-				"size" "D76A449544A83446B9D30B535B05B983"
-				"download" "74EB0C1FB1138FC7FDFD3DFBF0A42D74"
-			}
-			"lighting"
-			{
-				"gid" "2C3057C7462E1FAAA2BD430BB1750D78"
-				"size" "BFAB113B8869C3E7EF261D49CD014BE5"
-				"download" "2CEF41741519D79C00161DCDDFBDBEAA"
+				"gid" "6CE5466FB1B89A25B06C04357C1127B5"
+				"size" "BD0483205BB153EC74546690DA279561"
+				"download" "0E923CA681E5914A2084D1927F6445AD"
 			}
 		}
 	}
@@ -333,38 +332,26 @@
 	{
 		"public"
 		{
-			"buildid" "15825249"
-			"timeupdated" "1727282309"
+			"buildid" "16202127"
+			"timeupdated" "1730120081"
 		}
 		"beta"
 		{
-			"buildid" "15825249"
+			"buildid" "16202127"
 			"pwdrequired" "1"
-			"timeupdated" "1727281864"
+			"timeupdated" "1730120041"
 		}
 		"beta_private"
 		{
-			"buildid" "15826625"
+			"buildid" "16202127"
 			"pwdrequired" "1"
-			"timeupdated" "1727289712"
+			"timeupdated" "1730094436"
 		}
-		"hibachi"
+		"meta"
 		{
-			"buildid" "15825249"
+			"buildid" "16202127"
 			"pwdrequired" "1"
-			"timeupdated" "1727282256"
-		}
-		"language_testing"
-		{
-			"buildid" "15825249"
-			"pwdrequired" "1"
-			"timeupdated" "1727282269"
-		}
-		"lighting"
-		{
-			"buildid" "15825249"
-			"pwdrequired" "1"
-			"timeupdated" "1727282280"
+			"timeupdated" "1730120052"
 		}
 	}
 }
@@ -382,3 +369,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25931154"
+"_sha" "1208234d57f04a9fb7fc663a26c5687e92a3ff55"
+"_size" "6727"
