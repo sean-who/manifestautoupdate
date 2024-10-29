@@ -158,7 +158,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726825576"
+	"store_asset_mtime" "1730122357"
 	"associations"
 	{
 		"0"
@@ -324,7 +324,7 @@
 		"19" "4175"
 	}
 	"review_score" "8"
-	"review_percentage" "80"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -377,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "5887048257631731546"
-				"size" "8000148669"
-				"download" "6823652416"
+				"gid" "3989593241222406065"
+				"size" "8931124883"
+				"download" "7608937760"
 			}
 		}
 		"encryptedmanifests"
@@ -392,33 +392,33 @@
 			}
 			"akali"
 			{
-				"gid" "87DF93323D8DC7327F6D01C45584A2E2"
-				"size" "3F1C287DE9818A93F1FAC3744CE0A22A"
-				"download" "20FFF5B6AC5DA3622B7797EF9AAEB95B"
+				"gid" "C87172B0AB007555EC0D1ACCE671021C"
+				"size" "05E7DC061D4A49316E77B449DAD8A37A"
+				"download" "FD74058D23CA92812F125CF2C4E90AED"
 			}
 			"annie"
 			{
-				"gid" "B1A546BBF552913A1AA38A21B5B8F46F"
-				"size" "6E0F1398AF6F53672F93484B90B37FB9"
-				"download" "E464345887C39F3BFE2E0951EAAEA844"
+				"gid" "56E761605A29515EFC7A69A5F2579B86"
+				"size" "8AD33810537371640E48B523BB715CDE"
+				"download" "4F537B11357B6ADF036CFE7D7A492274"
 			}
 			"bleeding-develop"
 			{
-				"gid" "CF7482232C5C6A26EC807FF804993C49"
-				"size" "F248B63BCE2DC8CA55881B8FA4FC3A93"
-				"download" "E90E2749C6F1E80F52399F5E41566D24"
+				"gid" "3125E7405EFBAFB92A316228D693F990"
+				"size" "17309D10E4001C55E168D7E378DF1CE1"
+				"download" "A8589372D7756055F99C1A5D8DC89838"
 			}
 			"bleeding-master"
 			{
-				"gid" "0958DD64D3324578361D83D5FEEE1BF1"
-				"size" "E950934CBB5305F2DCFF6403D626DD35"
-				"download" "1F67EC5BE4E08FD446C6BA5292D17BF2"
+				"gid" "EF3B76EA07485FBB6DB317A88FE5A818"
+				"size" "FA27BEF0EB16D4F2C9BC6960B9BD1232"
+				"download" "39D9961A1B08E8C1B5C9E2CC8FFE051B"
 			}
 			"garen"
 			{
-				"gid" "316B5EB704F9424D7EC026E376417AAC"
-				"size" "ABF61B05DFA85390B3B72D1186F5A6D2"
-				"download" "C5C052186E7CB7276759A2A99399D6C6"
+				"gid" "11E86E21C4AA57729B6D2C19A93B6271"
+				"size" "58490C35ED2CBE8C7F7D861EFB53D9E2"
+				"download" "08A6384D71C763231E901A831CA0B751"
 			}
 			"hardcore-tiktoking"
 			{
@@ -440,15 +440,15 @@
 			}
 			"manual-build"
 			{
-				"gid" "923633E893291DE0C5A6EE89B90B81B8"
-				"size" "CE249E019453C8084430DAAAF1B51B62"
-				"download" "64F62320586F4DDE37339F57CC6051D8"
+				"gid" "1E15087203B867A2FD60B450F7A6051C"
+				"size" "C5EA7D4541845B46C1E9CDF510E3FAF6"
+				"download" "F3974E6EFDC4B7F1F5FEDF68D553AD9F"
 			}
 			"pw-playtest"
 			{
-				"gid" "361FE6FB1F7111878C43B81BDF4F7076"
-				"size" "E005B0D34CF3397E3DA697F8FC193498"
-				"download" "0642EB92A8B1D4732B823209DAF26BB7"
+				"gid" "ED08063AB5C81E1F7C611E0B7321F527"
+				"size" "0F30E7F6C6FF281ABFBD2198F6E2AC45"
+				"download" "06E1F1EEEFC45FDF772D40E710141158"
 			}
 			"reazell"
 			{
@@ -458,9 +458,9 @@
 			}
 			"release"
 			{
-				"gid" "EDA3EF0E7A020A8022F7A5AEAF475C26"
-				"size" "14A56C4235EE3B88351E92A2CE1098C6"
-				"download" "5A4755B60DD2DCDC7CEE68CE03B995A9"
+				"gid" "6BF3F0711E00EB4F9D932355ACF08F66"
+				"size" "69ACB410E665BE3C3249FB02A0F7C218"
+				"download" "2CBDC240FAA8A8729BB7FA11558DDF25"
 			}
 			"stale-develop"
 			{
@@ -650,8 +650,8 @@
 	{
 		"public"
 		{
-			"buildid" "16033158"
-			"timeupdated" "1728905495"
+			"buildid" "16191891"
+			"timeupdated" "1730124650"
 		}
 		"amd-testing"
 		{
@@ -661,33 +661,33 @@
 		}
 		"akali"
 		{
-			"buildid" "15756105"
+			"buildid" "16185433"
 			"pwdrequired" "1"
-			"timeupdated" "1726746768"
+			"timeupdated" "1729887015"
 		}
 		"annie"
 		{
-			"buildid" "15916606"
+			"buildid" "16151644"
 			"pwdrequired" "1"
-			"timeupdated" "1727962039"
+			"timeupdated" "1729690167"
 		}
 		"bleeding-develop"
 		{
-			"buildid" "16045622"
+			"buildid" "16214053"
 			"pwdrequired" "1"
-			"timeupdated" "1728958434"
+			"timeupdated" "1730164612"
 		}
 		"bleeding-master"
 		{
-			"buildid" "16030023"
+			"buildid" "16213937"
 			"pwdrequired" "1"
-			"timeupdated" "1728863916"
+			"timeupdated" "1730163869"
 		}
 		"garen"
 		{
-			"buildid" "15999872"
+			"buildid" "16135070"
 			"pwdrequired" "1"
-			"timeupdated" "1728592288"
+			"timeupdated" "1729696393"
 		}
 		"hardcore-tiktoking"
 		{
@@ -709,15 +709,15 @@
 		}
 		"manual-build"
 		{
-			"buildid" "16033158"
+			"buildid" "16191891"
 			"pwdrequired" "1"
-			"timeupdated" "1728892972"
+			"timeupdated" "1729953634"
 		}
 		"pw-playtest"
 		{
-			"buildid" "15932914"
+			"buildid" "16191891"
 			"pwdrequired" "1"
-			"timeupdated" "1728289282"
+			"timeupdated" "1729953722"
 		}
 		"reazell"
 		{
@@ -727,9 +727,9 @@
 		}
 		"release"
 		{
-			"buildid" "15664451"
+			"buildid" "16191891"
 			"pwdrequired" "1"
-			"timeupdated" "1726060204"
+			"timeupdated" "1729953683"
 		}
 		"stale-develop"
 		{
@@ -878,6 +878,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25719984"
-"_sha" "47d5526936824c6a76671cb7e0c5ab32ac2d28d0"
+"_change_number" "25941992"
+"_sha" "e9a3806e40d2ad39e02f7e61be61bad953e108e4"
 "_size" "18478"
