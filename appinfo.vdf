@@ -181,7 +181,7 @@
 		"19" "3859"
 	}
 	"review_score" "6"
-	"review_percentage" "75"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -352,6 +352,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25896843"
-"_sha" "2261fea4d59f36ba872dd9d20d47254be8e23e03"
+"_change_number" "25941767"
+"_sha" "1ad2a41f100433b199e410d10e66373c08ac07de"
 "_size" "6711"
