@@ -10,6 +10,12 @@
 	"osarch" "64"
 	"osextended" ""
 	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -166,6 +172,18 @@
 		"english"
 		{
 			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
 		}
 	}
 	"steam_release_date" "1727454714"
@@ -251,18 +269,18 @@
 		{
 			"public"
 			{
-				"gid" "5910179015913429038"
-				"size" "15769589274"
-				"download" "15427891984"
+				"gid" "8947614783523634566"
+				"size" "15776182698"
+				"download" "15434643600"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "BB0A55C18779551C742C40B9DAD20AC8"
-				"size" "5DF4727772BE1FE504E393EF6C5CC5D3"
-				"download" "99944740177A7B193D10A5D5CA20BA66"
+				"gid" "88C3825796372E859BCE64BF285BC989"
+				"size" "44C17540EA721D18294ACF5BC8210A60"
+				"download" "4109CD6517973B32E4663B76DEF24D62"
 			}
 		}
 	}
@@ -278,14 +296,14 @@
 	{
 		"public"
 		{
-			"buildid" "16182575"
-			"timeupdated" "1729870902"
+			"buildid" "16198467"
+			"timeupdated" "1730066444"
 		}
 		"beta"
 		{
-			"buildid" "16146843"
+			"buildid" "16191733"
 			"pwdrequired" "1"
-			"timeupdated" "1729672521"
+			"timeupdated" "1729951805"
 		}
 	}
 }
@@ -308,6 +326,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25899096"
-"_sha" "2369d54c27d206ecb733ac22fdb548d0e734a68a"
-"_size" "5361"
+"_change_number" "25946636"
+"_sha" "3103f8dcb9a860a3c1e8714c739131f3ff514046"
+"_size" "5630"
