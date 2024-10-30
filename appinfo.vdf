@@ -238,7 +238,7 @@
 		"19" "4085"
 	}
 	"review_score" "8"
-	"review_percentage" "81"
+	"review_percentage" "80"
 }
 "extended"
 {
@@ -273,9 +273,9 @@
 		{
 			"public"
 			{
-				"gid" "1694216901892503586"
-				"size" "1639072264"
-				"download" "727476048"
+				"gid" "1530711739774115026"
+				"size" "1639073516"
+				"download" "727477600"
 			}
 		}
 		"encryptedmanifests"
@@ -288,9 +288,9 @@
 			}
 			"test"
 			{
-				"gid" "6DDD793917A01353AF3F986A0F974F69"
-				"size" "647310358AEE4164BC77FCC2CFBD231A"
-				"download" "27D3758E8A09ABAAF9098E49B6B6DA7A"
+				"gid" "3E6A9E2D39BD751C7BF50C7BFE290BA4"
+				"size" "19244D12A6ADC2FD147C88131683BDE7"
+				"download" "5F40F837E6BACB054543EB2AA11817E3"
 			}
 		}
 	}
@@ -299,8 +299,8 @@
 	{
 		"public"
 		{
-			"buildid" "15978389"
-			"timeupdated" "1728466963"
+			"buildid" "16233312"
+			"timeupdated" "1730279397"
 		}
 		"console"
 		{
@@ -310,9 +310,9 @@
 		}
 		"test"
 		{
-			"buildid" "15978389"
+			"buildid" "16233312"
 			"pwdrequired" "1"
-			"timeupdated" "1728466138"
+			"timeupdated" "1730276249"
 		}
 	}
 }
@@ -337,6 +337,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "25625421"
-"_sha" "a29f7904fe4563cacdcd54a0f8553b4ccdb01710"
+"_change_number" "25966733"
+"_sha" "31bdc7d6fe9126f181a9f8c4c84a24120bb3118b"
 "_size" "6256"
