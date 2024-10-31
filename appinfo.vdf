@@ -174,8 +174,8 @@
 		"13" "492"
 		"14" "4667"
 		"15" "13190"
-		"16" "4345"
-		"17" "4182"
+		"16" "4182"
+		"17" "4345"
 		"18" "1708"
 		"19" "5611"
 	}
@@ -258,18 +258,18 @@
 		{
 			"public"
 			{
-				"gid" "3079422654855772949"
-				"size" "13377030911"
-				"download" "13388020240"
+				"gid" "1538275569556335483"
+				"size" "14340638175"
+				"download" "14372806592"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"dev-branch"
 			{
-				"gid" "3629E2A807E522140615D469063777A4"
-				"size" "950CBA086783112B8CCD3C06A860CBEB"
-				"download" "D248C7422A512B23A26180E77AE276CD"
+				"gid" "F9A091FCE41E05A53A60B50BCD8CF76E"
+				"size" "547E2EE2809DE40D0D4DFC1CF5B9B675"
+				"download" "E76D8B1C0B6228F7EDC78B271D7B2055"
 			}
 		}
 	}
@@ -278,14 +278,14 @@
 	{
 		"public"
 		{
-			"buildid" "15393399"
-			"timeupdated" "1723803539"
+			"buildid" "16244536"
+			"timeupdated" "1730330870"
 		}
 		"dev-branch"
 		{
-			"buildid" "15730095"
+			"buildid" "16244536"
 			"pwdrequired" "1"
-			"timeupdated" "1726582679"
+			"timeupdated" "1730330339"
 		}
 	}
 }
@@ -304,17 +304,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_where" "%Where%"
-				"#status_what_where_who" "%What% at %Where% as %Who%"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "25980306"
+"_sha" "ad37031d18257b5e2e2ad2f6037f54df6b858f76"
+"_size" "5250"
