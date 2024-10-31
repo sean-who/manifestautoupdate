@@ -7,8 +7,8 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
-	"clienttga" "c164f0e6ccb3e88ef5e7cbb0ef27f6cb533ac999"
-	"clienticon" "07ab609a60c35182fcbb3179bb444f1ca48730c1"
+	"clienttga" "c46087de4e9aafc6c973dcdcf8c9b8adbf322445"
+	"clienticon" "c32a1762be012801f41b782b4c3effeeb042bfe2"
 	"icon" "e47bac1bf1dcbfacba741aa860fcf6a44394122c"
 	"languages"
 	{
@@ -26,31 +26,35 @@
 		"brazilian" "1"
 		"latam" "1"
 	}
+	"name_localized"
+	{
+		"schinese" "吸血鬼猎人"
+	}
 	"content_descriptors"
 	{
 		"0" "5"
 	}
 	"steam_deck_compatibility"
 	{
-		"category" "2"
-		"test_timestamp" "1723248000"
-		"tested_build_id" "15268146"
+		"category" "3"
+		"test_timestamp" "1730160000"
+		"tested_build_id" "16185434"
 		"tests"
 		{
 			"0"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"1"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
 			}
 			"2"
 			{
 				"display" "4"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"3"
 			{
@@ -64,11 +68,11 @@
 			"requires_manual_keyboard_invoke" "0"
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
-			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-9.0-2RC"
+			"recommended_runtime" "proton-stable"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
 			"hdr_support" "0"
@@ -79,22 +83,24 @@
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
+		"schinese" "543ba0f9f25da80bc3b4b66a64c38ce52c445f7f/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,zh-cn"
 		"library_hero" "en"
 		"library_logo" "en"
-		"library_header" "en"
+		"library_header" "en,zh-cn"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "26.310688693190883"
-			"height_pct" "58.3459418939451"
+			"pinned_position" "CenterCenter"
+			"width_pct" "36.911869410570176"
+			"height_pct" "88.20705300505622"
 		}
 	}
 	"library_assets_full"
@@ -104,17 +110,19 @@
 			"image"
 			{
 				"english" "library_600x900.jpg"
+				"schinese" "4e4b5d86ee19c69b286b44cfa6edb3847516ffda/library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
 				"english" "library_600x900_2x.jpg"
+				"schinese" "4e4b5d86ee19c69b286b44cfa6edb3847516ffda/library_600x900_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "880f862d6441425e630d41e578d77b00f0d99883/library_hero.jpg"
 			}
 			"image2x"
 			{
@@ -125,17 +133,17 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
+				"english" "d559f6fd2c0ceef760e253c68cae6c7abed25633/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "d559f6fd2c0ceef760e253c68cae6c7abed25633/logo_2x.png"
 			}
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "26.310688693190883"
-				"height_pct" "58.3459418939451"
+				"pinned_position" "CenterCenter"
+				"width_pct" "36.911869410570176"
+				"height_pct" "88.20705300505622"
 			}
 		}
 		"library_header"
@@ -143,10 +151,11 @@
 			"image"
 			{
 				"english" "library_header.jpg"
+				"schinese" "c04bd695dd06144aed5eda4c36ee998e786eff3d/library_header_schinese.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1717265783"
+	"store_asset_mtime" "1730227324"
 	"associations"
 	{
 		"0"
@@ -165,7 +174,6 @@
 	{
 		"0" "1"
 		"1" "23"
-		"2" "70"
 	}
 	"category"
 	{
@@ -178,6 +186,7 @@
 		"category_57" "1"
 		"category_58" "1"
 		"category_25" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -227,7 +236,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1690391820"
+	"steam_release_date" "1730307516"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2206270"
@@ -238,12 +247,12 @@
 		"2" "4885"
 		"3" "3959"
 		"4" "1023537"
-		"5" "493"
-		"6" "5547"
-		"7" "5154"
-		"8" "4004"
-		"9" "492"
-		"10" "4018"
+		"5" "5547"
+		"6" "5154"
+		"7" "4004"
+		"8" "492"
+		"9" "4018"
+		"10" "493"
 		"11" "1716"
 		"12" "1773"
 		"13" "353880"
@@ -285,42 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "6358724378391735255"
-				"size" "4640036241"
-				"download" "930216928"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"cheats"
-			{
-				"gid" "E1D367115FE0107EFC28603FEC87D12D"
-				"size" "72374EF12B19AD8BFA96152F62FBEDD3"
-				"download" "680BECF1AD6C317B80DF79603F8FED97"
-			}
-			"debug"
-			{
-				"gid" "E99B79D6A633B2C3AFCF171D6BEE5D7A"
-				"size" "1466EC36D2029825B5C4589F7FD72D4E"
-				"download" "C105147764E4B5C3B26CE090BF0EDADA"
-			}
-			"development"
-			{
-				"gid" "1679CDF9D78FF40055A03DDE37EDAE2F"
-				"size" "BF9B7F44DB7A31C73DEB7854AA284424"
-				"download" "8E145571D2D44CA8CB10CA518334B1B4"
-			}
-			"playtest"
-			{
-				"gid" "8031D2620C539F411EE3C6917FECA1BA"
-				"size" "5DA9D22AE5D5BC9A98D339E4D7BFE8D8"
-				"download" "9AFE03146E9A342EFFB45C7AEE8522FB"
-			}
-			"steamdeck"
-			{
-				"gid" "6851395B5B264D0DFDD9285C94A036DD"
-				"size" "9E148FD76A08B19559838B55C7F9966A"
-				"download" "57D7CB5A3396E4CBDBD0521D02E6B10B"
+				"gid" "1612478054489394866"
+				"size" "7386938150"
+				"download" "1387717184"
 			}
 		}
 	}
@@ -328,38 +304,8 @@
 	{
 		"public"
 		{
-			"buildid" "15268146"
-			"timeupdated" "1722893076"
-		}
-		"cheats"
-		{
-			"buildid" "15268115"
-			"pwdrequired" "1"
-			"timeupdated" "1722889443"
-		}
-		"debug"
-		{
-			"buildid" "15016380"
-			"pwdrequired" "1"
-			"timeupdated" "1720802874"
-		}
-		"development"
-		{
-			"buildid" "15268146"
-			"pwdrequired" "1"
-			"timeupdated" "1722889465"
-		}
-		"playtest"
-		{
-			"buildid" "15841552"
-			"pwdrequired" "1"
-			"timeupdated" "1727380181"
-		}
-		"steamdeck"
-		{
-			"buildid" "15239753"
-			"pwdrequired" "1"
-			"timeupdated" "1722600891"
+			"buildid" "16206490"
+			"timeupdated" "1730305480"
 		}
 	}
 }
@@ -391,3 +337,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25976925"
+"_sha" "7b42eae204be0189cc3d5b4df97071edd16468a9"
+"_size" "6166"
