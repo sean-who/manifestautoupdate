@@ -312,8 +312,8 @@
 		"7" "5350"
 		"8" "3839"
 		"9" "9204"
-		"10" "4191"
-		"11" "1036"
+		"10" "1036"
+		"11" "4191"
 		"12" "492"
 		"13" "12472"
 		"14" "4182"
@@ -377,9 +377,9 @@
 		{
 			"public"
 			{
-				"gid" "3989593241222406065"
-				"size" "8931124883"
-				"download" "7608937760"
+				"gid" "1445111050622485442"
+				"size" "8888094648"
+				"download" "7589109760"
 			}
 		}
 		"encryptedmanifests"
@@ -404,21 +404,21 @@
 			}
 			"bleeding-develop"
 			{
-				"gid" "3125E7405EFBAFB92A316228D693F990"
-				"size" "17309D10E4001C55E168D7E378DF1CE1"
-				"download" "A8589372D7756055F99C1A5D8DC89838"
+				"gid" "1062FDBA4C694A1941415F6046965903"
+				"size" "D2EC366E606086493A6D2D373DA049E3"
+				"download" "B2E4C6064929C0072ED3D4F11EB31B3C"
 			}
 			"bleeding-master"
 			{
-				"gid" "EF3B76EA07485FBB6DB317A88FE5A818"
-				"size" "FA27BEF0EB16D4F2C9BC6960B9BD1232"
-				"download" "39D9961A1B08E8C1B5C9E2CC8FFE051B"
+				"gid" "8C5A481F914197EB491EA33AF3A1851B"
+				"size" "7E34C008C4A07FC99DCC30D0ADE9606A"
+				"download" "CD01E055A6A0F7E48A8FD8349CC34E4A"
 			}
 			"garen"
 			{
-				"gid" "11E86E21C4AA57729B6D2C19A93B6271"
-				"size" "58490C35ED2CBE8C7F7D861EFB53D9E2"
-				"download" "08A6384D71C763231E901A831CA0B751"
+				"gid" "0557011DCBAE82939B95AC5172BD2395"
+				"size" "A3D90DD1876E6C93169521F4C9968C41"
+				"download" "25E12BD7050ADF9C333861545086542C"
 			}
 			"hardcore-tiktoking"
 			{
@@ -440,15 +440,15 @@
 			}
 			"manual-build"
 			{
-				"gid" "1E15087203B867A2FD60B450F7A6051C"
-				"size" "C5EA7D4541845B46C1E9CDF510E3FAF6"
-				"download" "F3974E6EFDC4B7F1F5FEDF68D553AD9F"
+				"gid" "69CA805C3D299B7BB8B8D7BD47D917DA"
+				"size" "5415040238748D0FB8E0698F6F227430"
+				"download" "6D4FE6CDE9B346F183B6369F833162F3"
 			}
 			"pw-playtest"
 			{
-				"gid" "ED08063AB5C81E1F7C611E0B7321F527"
-				"size" "0F30E7F6C6FF281ABFBD2198F6E2AC45"
-				"download" "06E1F1EEEFC45FDF772D40E710141158"
+				"gid" "94533B04F50D5819D80663DA1B537CF3"
+				"size" "36EB8B8809CE2779F706A544F07DD694"
+				"download" "63395E52E1851D8B9A865DB22E13234D"
 			}
 			"reazell"
 			{
@@ -458,9 +458,9 @@
 			}
 			"release"
 			{
-				"gid" "6BF3F0711E00EB4F9D932355ACF08F66"
-				"size" "69ACB410E665BE3C3249FB02A0F7C218"
-				"download" "2CBDC240FAA8A8729BB7FA11558DDF25"
+				"gid" "FC97DF8F773E5738388BFA39D46F6068"
+				"size" "EC4E88F0BB7190C68A04500BFADF92C0"
+				"download" "90EC22ABCAC229ABE2DD0D1E0214FA15"
 			}
 			"stale-develop"
 			{
@@ -482,15 +482,15 @@
 			}
 			"translations"
 			{
-				"gid" "1CA38FFDFD2BFFE75C79238B0F620028"
-				"size" "91B2730BE87A3712C20C4F70CD00AD11"
-				"download" "D57B534E8A9056368CA595EE1777A46E"
+				"gid" "2A63A42CDFFED7DB9156CCB867A596E5"
+				"size" "FAD52B34A9A4085E7AB8DFD936A84DFB"
+				"download" "4B20F9FCCB595DC709246E63322A283C"
 			}
 			"tryndamare"
 			{
-				"gid" "78A0AFCF7DAEFACEDB6906334644742D"
-				"size" "DAF25FC4744DC4BB2FE3844E429C53AA"
-				"download" "A2DF5B5EC810D4CC6E62F117E2A1912C"
+				"gid" "4A395978C2EEACA3EE92FE36DC1F147A"
+				"size" "AF1811CDE5270CE05D6EBEA79AC1A266"
+				"download" "257989977821E1435FDB9F098F756720"
 			}
 			"wskrzybalski"
 			{
@@ -650,8 +650,8 @@
 	{
 		"public"
 		{
-			"buildid" "16191891"
-			"timeupdated" "1730124650"
+			"buildid" "16234134"
+			"timeupdated" "1730296997"
 		}
 		"amd-testing"
 		{
@@ -673,21 +673,21 @@
 		}
 		"bleeding-develop"
 		{
-			"buildid" "16214053"
+			"buildid" "16241617"
 			"pwdrequired" "1"
-			"timeupdated" "1730164612"
+			"timeupdated" "1730314133"
 		}
 		"bleeding-master"
 		{
-			"buildid" "16213937"
+			"buildid" "16251999"
 			"pwdrequired" "1"
-			"timeupdated" "1730163869"
+			"timeupdated" "1730380839"
 		}
 		"garen"
 		{
-			"buildid" "16135070"
+			"buildid" "16234134"
 			"pwdrequired" "1"
-			"timeupdated" "1729696393"
+			"timeupdated" "1730280113"
 		}
 		"hardcore-tiktoking"
 		{
@@ -709,15 +709,15 @@
 		}
 		"manual-build"
 		{
-			"buildid" "16191891"
+			"buildid" "16234134"
 			"pwdrequired" "1"
-			"timeupdated" "1729953634"
+			"timeupdated" "1730280073"
 		}
 		"pw-playtest"
 		{
-			"buildid" "16191891"
+			"buildid" "16234134"
 			"pwdrequired" "1"
-			"timeupdated" "1729953722"
+			"timeupdated" "1730280127"
 		}
 		"reazell"
 		{
@@ -727,9 +727,9 @@
 		}
 		"release"
 		{
-			"buildid" "16191891"
+			"buildid" "16234134"
 			"pwdrequired" "1"
-			"timeupdated" "1729953683"
+			"timeupdated" "1730280136"
 		}
 		"stale-develop"
 		{
@@ -751,15 +751,15 @@
 		}
 		"translations"
 		{
-			"buildid" "15015686"
+			"buildid" "16151644"
 			"pwdrequired" "1"
-			"timeupdated" "1720803153"
+			"timeupdated" "1730368488"
 		}
 		"tryndamare"
 		{
-			"buildid" "15930834"
+			"buildid" "16245055"
 			"pwdrequired" "1"
-			"timeupdated" "1728050037"
+			"timeupdated" "1730334143"
 		}
 		"wskrzybalski"
 		{
@@ -878,6 +878,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25941992"
-"_sha" "e9a3806e40d2ad39e02f7e61be61bad953e108e4"
+"_change_number" "25989729"
+"_sha" "419bbcfa578dab9952727bbd27a57de4f86a9493"
 "_size" "18478"
