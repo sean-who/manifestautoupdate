@@ -261,15 +261,15 @@
 		{
 			"public"
 			{
-				"gid" "535616446745890231"
-				"size" "5637156902"
-				"download" "2990456096"
+				"gid" "2681763289391058801"
+				"size" "5636883321"
+				"download" "2990163088"
 			}
 			"prerelease"
 			{
-				"gid" "535616446745890231"
-				"size" "5637156902"
-				"download" "2990456096"
+				"gid" "2681763289391058801"
+				"size" "5636883321"
+				"download" "2990163088"
 			}
 		}
 		"encryptedmanifests"
@@ -318,15 +318,15 @@
 			}
 			"internal_test"
 			{
-				"gid" "D655A47F362BF84F94B3EF2AA061F079"
-				"size" "7D2F5CF414978863457EA18A0CA36D54"
-				"download" "7C5D8574284D0FB4AC2760D031BB0DB4"
+				"gid" "F566519511B0972EE0CCAEDED7D5BCF7"
+				"size" "DA8E748E723FDA985FA9BFB5635EC0D6"
+				"download" "59FE01092333F9934A994A3F36B702B8"
 			}
 			"openbeta"
 			{
-				"gid" "CF781CA81E0FBE7ECF6EE6ED8D73A2BE"
-				"size" "81F7427941527B880529C58C2928BA28"
-				"download" "6745F3E5E93944F99CDC2954816E7FFD"
+				"gid" "B7294178951B66A1AC55F34545C269A8"
+				"size" "763DC945E18D4A38E2265DD10273D23B"
+				"download" "773A4F9B56CD9B750910A8F2910243C8"
 			}
 			"streamer_test"
 			{
@@ -341,8 +341,8 @@
 	{
 		"public"
 		{
-			"buildid" "16227228"
-			"timeupdated" "1730235461"
+			"buildid" "16241911"
+			"timeupdated" "1730315756"
 		}
 		"beta"
 		{
@@ -388,21 +388,21 @@
 		}
 		"internal_test"
 		{
-			"buildid" "16227228"
+			"buildid" "16241911"
 			"pwdrequired" "1"
-			"timeupdated" "1730235131"
+			"timeupdated" "1730315565"
 		}
 		"openbeta"
 		{
-			"buildid" "16227228"
+			"buildid" "16241911"
 			"pwdrequired" "1"
-			"timeupdated" "1730235426"
+			"timeupdated" "1730315717"
 		}
 		"prerelease"
 		{
-			"buildid" "16227228"
+			"buildid" "16241911"
 			"description" "Pre-release of updates for preview testing"
-			"timeupdated" "1730235436"
+			"timeupdated" "1730315734"
 		}
 		"streamer_test"
 		{
@@ -461,6 +461,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25971771"
-"_sha" "eaa3834a9b1125a3b2f305960ecb07eac82a4389"
-"_size" "9077"
+"_change_number" "25977115"
+"_sha" "c216cabe5c8ef2ad3384a0865890179ca2d90e89"
+"_size" "9079"
