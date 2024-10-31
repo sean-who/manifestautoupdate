@@ -120,7 +120,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726252508"
+	"store_asset_mtime" "1728493332"
 	"associations"
 	{
 		"0"
@@ -146,6 +146,7 @@
 		"category_2" "1"
 		"category_22" "1"
 		"category_18" "1"
+		"category_13" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -185,6 +186,11 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
 	"steam_release_date" "1689831908"
 	"community_visible_stats" "1"
@@ -195,8 +201,8 @@
 		"0" "1667"
 		"1" "3978"
 		"2" "4166"
-		"3" "1721"
-		"4" "1687"
+		"3" "1687"
+		"4" "1721"
 		"5" "19"
 		"6" "1659"
 		"7" "492"
@@ -220,6 +226,7 @@
 {
 	"developer" "FerriteLabs"
 	"publisher" "FerriteLabs"
+	"homepage" "https://ferritelabs.org/"
 }
 "config"
 {
@@ -280,9 +287,9 @@
 		{
 			"public"
 			{
-				"gid" "4236673873694310368"
-				"size" "3395260021"
-				"download" "3247893792"
+				"gid" "75850343446602044"
+				"size" "3412205930"
+				"download" "3264993024"
 			}
 			"version34"
 			{
@@ -302,8 +309,8 @@
 	{
 		"public"
 		{
-			"buildid" "15740984"
-			"timeupdated" "1726655232"
+			"buildid" "16255110"
+			"timeupdated" "1730396812"
 		}
 		"version34"
 		{
@@ -320,6 +327,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25277143"
-"_sha" "96e5f9a8e7f16903256694930925cd6440c460d0"
-"_size" "5605"
+"_change_number" "25994362"
+"_sha" "79e1f36fa88c7763a9b2dcab2116690dd2afbca0"
+"_size" "5740"
