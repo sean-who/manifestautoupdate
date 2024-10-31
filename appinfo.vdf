@@ -82,10 +82,16 @@
 	"small_capsule"
 	{
 		"english" "e47c28b4d5f592ad6fd9c9bc3053d33226bef433/capsule_231x87.jpg"
+		"tchinese" "8f9f63146f5648a98024920bf225aac5089770b7/capsule_231x87_tchinese.jpg"
+		"schinese" "4289a12742928f0173893282a4e0c2539c7bcc39/capsule_231x87_schinese.jpg"
+		"japanese" "a6223c9329f4279a296a7b9cab5783bb442cfd86/capsule_231x87_japanese.jpg"
 	}
 	"header_image"
 	{
 		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
 	}
 	"library_assets"
 	{
@@ -149,7 +155,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729096783"
+	"store_asset_mtime" "1730131463"
 	"associations"
 	{
 		"0"
@@ -273,8 +279,8 @@
 	{
 		"0" "3799"
 		"1" "1667"
-		"2" "6426"
-		"3" "1721"
+		"2" "1721"
+		"3" "6426"
 		"4" "4486"
 		"5" "1742"
 		"6" "11014"
@@ -344,9 +350,9 @@
 		{
 			"public"
 			{
-				"gid" "3103836150060956318"
-				"size" "12975412231"
-				"download" "12318743120"
+				"gid" "4122230730593219698"
+				"size" "12975876453"
+				"download" "12319285712"
 			}
 		}
 		"encryptedmanifests"
@@ -365,9 +371,9 @@
 			}
 			"press"
 			{
-				"gid" "B5FB7982D0FA205066A50AE38B8D8B43"
-				"size" "FE63E58DDEA087929664BD57DC097306"
-				"download" "2EBEB0B6FFF182A0B9A1D43A05F48575"
+				"gid" "18A680FE69375681DC9C5B9193C0F775"
+				"size" "6B57D6E66E7A71987F5AF612F6E47C99"
+				"download" "D454819E85EB4BBEB6E28A11B8940416"
 			}
 		}
 	}
@@ -442,8 +448,8 @@
 	{
 		"public"
 		{
-			"buildid" "16199799"
-			"timeupdated" "1730066902"
+			"buildid" "16246041"
+			"timeupdated" "1730341665"
 		}
 		"legacybuild"
 		{
@@ -459,9 +465,9 @@
 		}
 		"press"
 		{
-			"buildid" "16199186"
+			"buildid" "16246033"
 			"pwdrequired" "1"
-			"timeupdated" "1730059902"
+			"timeupdated" "1730341592"
 		}
 	}
 }
@@ -480,6 +486,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25922431"
-"_sha" "1161b5e28670b64d12818ae7bba6b858c2695013"
-"_size" "8821"
+"_change_number" "25982390"
+"_sha" "a771ee4cd81d854e2c4d54fe23d877998aeb4f8e"
+"_size" "9190"
