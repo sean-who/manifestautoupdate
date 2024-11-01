@@ -192,7 +192,7 @@
 		"0"
 		{
 			"executable" "daojianjianghulu.exe"
-			"arguments" "hualong234_xgedf432wasddfs_hualong777"
+			"arguments" "hualong197_xgedf432wasddfs_hualong777"
 		}
 	}
 	"steamcontrollertemplateindex" "4"
@@ -212,9 +212,9 @@
 		{
 			"public"
 			{
-				"gid" "5849671058151002461"
-				"size" "9627124037"
-				"download" "3951444288"
+				"gid" "750347707744501834"
+				"size" "9840998627"
+				"download" "3971387216"
 			}
 		}
 		"encryptedmanifests"
@@ -233,9 +233,9 @@
 			}
 			"neibucheshi_2"
 			{
-				"gid" "74D1B1322DC6A1EF2A891B5E7B99701E"
-				"size" "883CE91BE09645680782F135023DC67D"
-				"download" "6D7F98FC6A3F94710B6B60F167CCD3EF"
+				"gid" "45FB100A130DCA8E01735EBF2670744A"
+				"size" "0D136E16224527AA36F8E9ABF924E68D"
+				"download" "E2C1218A8A73B635393B7B14A50755EF"
 			}
 		}
 	}
@@ -250,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "7451556863717501442"
-				"size" "9627544493"
-				"download" "3951450448"
+				"gid" "2607825609392782747"
+				"size" "9841489509"
+				"download" "3971369344"
 			}
 		}
 		"encryptedmanifests"
@@ -271,9 +271,9 @@
 			}
 			"neibucheshi_2"
 			{
-				"gid" "714378CBADCD21404E07ABDC1D1A7D6C"
-				"size" "E02E976B810ECB150A56B5861911A836"
-				"download" "8A7778D7EBB4BE0A4963F5278491657D"
+				"gid" "0AE992D2A9E0445227776B5B303C0045"
+				"size" "80C83BAD2C626BB4E247C3BAACCDAF94"
+				"download" "F04C7897B864855194104DAC961274DB"
 			}
 		}
 	}
@@ -281,8 +281,8 @@
 	{
 		"public"
 		{
-			"buildid" "16179089"
-			"timeupdated" "1729852365"
+			"buildid" "16263390"
+			"timeupdated" "1730456939"
 		}
 		"fantibanben"
 		{
@@ -298,9 +298,9 @@
 		}
 		"neibucheshi_2"
 		{
-			"buildid" "16178816"
+			"buildid" "16263019"
 			"pwdrequired" "1"
-			"timeupdated" "1729851117"
+			"timeupdated" "1730454907"
 		}
 	}
 }
@@ -319,6 +319,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25894312"
-"_sha" "f34dc3927b214c43a8d8ef4d9c743a9832b2bf81"
-"_size" "6274"
+"_change_number" "26004587"
+"_sha" "a87b7b8a2ee796d876c0dba4f1f552fed55333db"
+"_size" "6273"
