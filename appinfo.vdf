@@ -144,6 +144,7 @@
 		"category_22" "1"
 		"category_23" "1"
 		"category_18" "1"
+		"category_29" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -210,16 +211,16 @@
 	"gameid" "2940490"
 	"store_tags"
 	{
-		"0" "9130"
-		"1" "4085"
-		"2" "6650"
-		"3" "1774"
-		"4" "12095"
-		"5" "3839"
-		"6" "1773"
-		"7" "597"
-		"8" "4726"
-		"9" "19"
+		"0" "6650"
+		"1" "12095"
+		"2" "9130"
+		"3" "4085"
+		"4" "597"
+		"5" "1774"
+		"6" "19"
+		"7" "3839"
+		"8" "1773"
+		"9" "4726"
 		"10" "5055"
 		"11" "1663"
 		"12" "4191"
@@ -227,18 +228,18 @@
 		"14" "7423"
 		"15" "4182"
 		"16" "4305"
-		"17" "1721"
-		"18" "493"
-		"19" "3993"
+		"17" "493"
+		"18" "1721"
+		"19" "492"
 	}
 	"review_score" "8"
-	"review_percentage" "95"
+	"review_percentage" "93"
 }
 "extended"
 {
 	"developer" "Pantsu Productions"
 	"publisher" "Pantsu Productions"
-	"listofdlc" "3078160"
+	"listofdlc" "3078160,3238760"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -293,9 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "4878770541321613319"
-				"size" "530963394"
-				"download" "409726976"
+				"gid" "8574726791365565638"
+				"size" "535985118"
+				"download" "414784176"
 			}
 			"censoredstreamermode"
 			{
@@ -309,8 +310,8 @@
 	{
 		"public"
 		{
-			"buildid" "15838273"
-			"timeupdated" "1727361945"
+			"buildid" "16254477"
+			"timeupdated" "1730393197"
 		}
 		"censoredstreamermode"
 		{
@@ -338,3 +339,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25996159"
+"_sha" "d4c64c697d4d776c70f89ee0d1047950846acc36"
+"_size" "5732"
