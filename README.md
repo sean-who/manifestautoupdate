@@ -1,17 +1,24 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-01 02:09:17
+## 更新时间：2024-11-01 09:55:43
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 730 | Counter-Strike 2| Game |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
 | 322330 | 饥荒联机版| Game |
-| 824270 | KovaaK's| Game |
-| 343050 | Don't Starve Together Dedicated Server| Tool |
-| 1222670 | The Sims™ 4| Game |
-| 1435790 | 密室逃脱模拟器| Game |
-| 494840 | UBOAT| Game |
-| 633080 | 《遗物猎人传说》| Game |
-| 489520 | 随从大师| Game |
-| 1477830 | HudSight - 十字线覆盖| Application |
+| 1188930 | 超时空方舟| Game |
+| 1811950 | 英雄传说 黎之轨迹| Game |
+| 1874490 | 魔药经济学：神秘的魔法药水商店| Game |
+| 2113920 | 英雄传说 黎之轨迹Ⅱ -绯红原罪-| Game |
+| 1466860 | Age of Empires IV: Anniversary Edition| Game |
+| 1059980 | 吾王保卫战 Just King| Game |
+| 809140 | Cliff Empire| Game |
+| 559650 | Witch It| Game |
+| 2406770 | Bodycam| Game |
+| 2487060 | Anonymous Hacker Simulator| Game |
+| 488310 | Eleven Table Tennis| Game |
+| 1876070 | Windsor - Strategy| Game |
+| 2679460 | 暗喻幻想：ReFantazio| Game |
+| 2430930 | ARK: Survival Ascended Dedicated Server| Tool |
 | 2110820 | Granny Remake| Game |
-| 2497900 | DON'T SCREAM| Game |
+| 3099660 | 完蛋！我被美女包围了！前传| Game |
+| 1989270 | Slay the Princess — The Pristine Cut| Game |
