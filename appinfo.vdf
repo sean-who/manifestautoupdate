@@ -96,7 +96,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1691367927"
+	"store_asset_mtime" "1728497151"
 	"associations"
 	{
 		"0"
@@ -154,8 +154,8 @@
 	"gameid" "1430970"
 	"store_tags"
 	{
-		"0" "791774"
-		"1" "3799"
+		"0" "3799"
+		"1" "791774"
 		"2" "1666"
 		"3" "1685"
 		"4" "9"
@@ -176,7 +176,7 @@
 		"19" "4252"
 	}
 	"review_score" "8"
-	"review_percentage" "82"
+	"review_percentage" "81"
 }
 "extended"
 {
@@ -234,9 +234,9 @@
 		{
 			"public"
 			{
-				"gid" "6101054793113007599"
-				"size" "709994779"
-				"download" "559332880"
+				"gid" "4633337293375915557"
+				"size" "712624281"
+				"download" "561557568"
 			}
 		}
 		"encryptedmanifests"
@@ -266,9 +266,9 @@
 		{
 			"public"
 			{
-				"gid" "5223643226739012934"
-				"size" "708812174"
-				"download" "558634976"
+				"gid" "8522084918965851381"
+				"size" "711480887"
+				"download" "560893712"
 			}
 		}
 		"encryptedmanifests"
@@ -291,8 +291,8 @@
 	{
 		"public"
 		{
-			"buildid" "15928126"
-			"timeupdated" "1728035892"
+			"buildid" "16249665"
+			"timeupdated" "1730419830"
 		}
 		"development"
 		{
@@ -308,3 +308,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "25998789"
+"_sha" "bea7bdc0fd0bff47fdf80196355d777acc9b0d3e"
+"_size" "5270"
