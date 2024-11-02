@@ -10,6 +10,11 @@
 	"oslist" "windows"
 	"osarch" "64"
 	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"turkish" "1"
+	}
 	"aicontenttype" "1"
 	"steam_deck_compatibility"
 	{
@@ -241,6 +246,7 @@
 		}
 	}
 	"steam_release_date" "1727873641"
+	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2928520"
 	"store_tags"
@@ -259,15 +265,15 @@
 		"11" "4191"
 		"12" "4845"
 		"13" "4175"
-		"14" "1702"
-		"15" "1654"
+		"14" "1654"
+		"15" "1702"
 		"16" "8945"
 		"17" "597"
-		"18" "21"
-		"19" "5350"
+		"18" "5350"
+		"19" "21"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -376,9 +382,9 @@
 		{
 			"public"
 			{
-				"gid" "5238389086428981860"
-				"size" "3689150908"
-				"download" "1462662768"
+				"gid" "8059449271637136222"
+				"size" "3695774988"
+				"download" "1465982944"
 			}
 		}
 		"encryptedmanifests"
@@ -395,8 +401,8 @@
 	{
 		"public"
 		{
-			"buildid" "16122825"
-			"timeupdated" "1729521182"
+			"buildid" "16138095"
+			"timeupdated" "1730475518"
 		}
 		"beta"
 		{
@@ -406,7 +412,27 @@
 		}
 	}
 }
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "10"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "BalasGames/rcsim/"
+			"pattern" "*.rcs"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
 "_missing_token" "False"
-"_change_number" "25840817"
-"_sha" "c6566ce5b8936aba4558b09af055cd165796f40b"
-"_size" "7036"
+"_change_number" "26013127"
+"_sha" "d0313cd0618639bbe34736941e00dc7344b8e330"
+"_size" "7408"
