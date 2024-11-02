@@ -5,8 +5,8 @@
 	"type" "Game"
 	"releasestate" "released"
 	"icon" "6efd6e445c441505ab4ff2786a8ffd5a35062ed3"
-	"clienticon" "af4fdeb13bfc1ddef7e7718e67064d94da909c3f"
-	"clienttga" "3a4902f17e7adf4a0e02ce11834fd6c5ce0364a8"
+	"clienticon" "ea8066adf6909319d3370a43b68c53e07277f4cd"
+	"clienttga" "07a4a43653ee94393b578d3cb9398372382ff78c"
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
@@ -47,10 +47,29 @@
 	"header_image"
 	{
 		"english" "header.jpg"
+		"italian" "header_italian.jpg"
+		"spanish" "header_spanish.jpg"
+		"russian" "header_russian.jpg"
+		"japanese" "header_japanese.jpg"
+		"french" "header_french.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"turkish" "header_turkish.jpg"
+		"german" "header_german.jpg"
+		"swedish" "header_swedish.jpg"
+		"finnish" "header_finnish.jpg"
+		"hungarian" "header_hungarian.jpg"
+		"dutch" "header_dutch.jpg"
+		"polish" "header_polish.jpg"
+		"ukrainian" "header_ukrainian.jpg"
+		"czech" "header_czech.jpg"
+		"greek" "header_greek.jpg"
+		"danish" "header_danish.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"norwegian" "header_norwegian.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en"
+		"library_capsule" "en,es,it,ru,fr,ja,tr,hu,el,uk,no,nl,pl,sv,pt-br,fi,cs,da"
 		"library_hero" "en"
 		"library_logo" "en,tr"
 		"library_header" "en"
@@ -61,7 +80,92 @@
 			"height_pct" "77.20256471146998"
 		}
 	}
-	"store_asset_mtime" "1716541375"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "260419f855263bc60042e4e4ada659b889856dde/library_600x900.jpg"
+				"spanish" "d50e6ed9f1dfbc6ab377bcc702ca3b96af83945f/library_600x900_spanish.jpg"
+				"italian" "982fd83702804ef3d9d758a866631434a50c6481/library_600x900_italian.jpg"
+				"russian" "073f26563ef349663c0aaa9d54df7b2f532475cc/library_600x900_russian.jpg"
+				"french" "13e78827f764e708127d60a86f3d77a45da4e706/library_600x900_french.jpg"
+				"japanese" "e6e2150c50dc002632306aa3a198967812a911ec/library_600x900_japanese.jpg"
+				"turkish" "aa0c57326f63c6f09438545cf6164da478e34297/library_600x900_turkish.jpg"
+				"hungarian" "98136d0e085a8e7b787b5b887aa2db6ea2322e4b/library_600x900_hungarian.jpg"
+				"greek" "6ca4caa2e50e08f1ae0c704be6f792cb35a64b6c/library_600x900_greek.jpg"
+				"ukrainian" "3809a09a8f4e32dae040551d92734f754d1186b7/library_600x900_ukrainian.jpg"
+				"norwegian" "5a7e217a5318da88025b6c5cabfce74b76355d7c/library_600x900_norwegian.jpg"
+				"dutch" "6cea8c214f1dd04b8615796bf27e9d111e6a4939/library_600x900_dutch.jpg"
+				"polish" "b9426c7f2db8e9c5a3c43cf0a1e7e766bb77122a/library_600x900_polish.jpg"
+				"swedish" "0fa23d7f9449d3fe959320b4444607304519c234/library_600x900_swedish.jpg"
+				"brazilian" "c659c46c120246a1096197800e06e5ec3c277dce/library_600x900_brazilian.jpg"
+				"finnish" "7f57d894abd2cced1e08ca2b362641fff5f6d7f6/library_600x900_finnish.jpg"
+				"czech" "cdb644b958c844dd9f663e0f6661e0da2b2cd9aa/library_600x900_czech.jpg"
+				"danish" "23bd31d850c0ea30f934e50d78af6f68f3a3e213/library_600x900_danish.jpg"
+			}
+			"image2x"
+			{
+				"english" "260419f855263bc60042e4e4ada659b889856dde/library_600x900_2x.jpg"
+				"spanish" "d50e6ed9f1dfbc6ab377bcc702ca3b96af83945f/library_600x900_spanish_2x.jpg"
+				"italian" "982fd83702804ef3d9d758a866631434a50c6481/library_600x900_italian_2x.jpg"
+				"russian" "073f26563ef349663c0aaa9d54df7b2f532475cc/library_600x900_russian_2x.jpg"
+				"french" "13e78827f764e708127d60a86f3d77a45da4e706/library_600x900_french_2x.jpg"
+				"japanese" "e6e2150c50dc002632306aa3a198967812a911ec/library_600x900_japanese_2x.jpg"
+				"turkish" "aa0c57326f63c6f09438545cf6164da478e34297/library_600x900_turkish_2x.jpg"
+				"hungarian" "98136d0e085a8e7b787b5b887aa2db6ea2322e4b/library_600x900_hungarian_2x.jpg"
+				"greek" "6ca4caa2e50e08f1ae0c704be6f792cb35a64b6c/library_600x900_greek_2x.jpg"
+				"ukrainian" "3809a09a8f4e32dae040551d92734f754d1186b7/library_600x900_ukrainian_2x.jpg"
+				"norwegian" "5a7e217a5318da88025b6c5cabfce74b76355d7c/library_600x900_norwegian_2x.jpg"
+				"dutch" "6cea8c214f1dd04b8615796bf27e9d111e6a4939/library_600x900_dutch_2x.jpg"
+				"polish" "b9426c7f2db8e9c5a3c43cf0a1e7e766bb77122a/library_600x900_polish_2x.jpg"
+				"swedish" "0fa23d7f9449d3fe959320b4444607304519c234/library_600x900_swedish_2x.jpg"
+				"brazilian" "c659c46c120246a1096197800e06e5ec3c277dce/library_600x900_brazilian_2x.jpg"
+				"finnish" "7f57d894abd2cced1e08ca2b362641fff5f6d7f6/library_600x900_finnish_2x.jpg"
+				"czech" "cdb644b958c844dd9f663e0f6661e0da2b2cd9aa/library_600x900_czech_2x.jpg"
+				"danish" "23bd31d850c0ea30f934e50d78af6f68f3a3e213/library_600x900_danish_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "5e12c3d7e6d9f13e6e404c72916e4da8c2edbf1d/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "5e12c3d7e6d9f13e6e404c72916e4da8c2edbf1d/library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+				"turkish" "logo_turkish.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"turkish" "logo_turkish_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "28.307060985043265"
+				"height_pct" "77.20256471146998"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730479091"
 	"associations"
 	{
 		"0"
@@ -74,13 +178,37 @@
 			"type" "publisher"
 			"name" "Red Axe Games"
 		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Drive Thru Simulator"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "The Enigma Cases"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Grimstone Survivors"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "Gym Simulator 24"
+		}
+		"6"
+		{
+			"type" "franchise"
+			"name" "Car Service Simulator"
+		}
 	}
 	"primary_genre" "28"
 	"genres"
 	{
 		"0" "23"
 		"1" "28"
-		"2" "70"
 	}
 	"category"
 	{
@@ -192,7 +320,7 @@
 			"supported" "true"
 		}
 	}
-	"steam_release_date" "1684413687"
+	"steam_release_date" "1730473423"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2248760"
@@ -202,25 +330,25 @@
 		"1" "9204"
 		"2" "4202"
 		"3" "1100687"
-		"4" "1663"
-		"5" "599"
+		"4" "599"
+		"5" "1663"
 		"6" "10235"
-		"7" "4191"
-		"8" "1695"
+		"7" "1695"
+		"8" "4191"
 		"9" "3839"
 		"10" "15172"
 		"11" "4175"
-		"12" "5350"
-		"13" "3859"
+		"12" "3859"
+		"13" "5350"
 		"14" "4145"
 		"15" "13190"
 		"16" "4182"
 		"17" "5673"
-		"18" "493"
-		"19" "6276"
+		"18" "6276"
+		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "86"
+	"review_percentage" "85"
 }
 "extended"
 {
@@ -257,18 +385,9 @@
 		{
 			"public"
 			{
-				"gid" "9218668737631879900"
-				"size" "9253907132"
-				"download" "3909560448"
-			}
-		}
-		"encryptedmanifests"
-		{
-			"redaxegames-dev"
-			{
-				"gid" "8C5977AE25EC8365E2D6E9D08CAD657D"
-				"size" "25DF0F083225578D8A704DD626CEE8AC"
-				"download" "933F1B8214943E07F3D4C3ED73501E07"
+				"gid" "2443378013768145187"
+				"size" "6464750590"
+				"download" "2528800640"
 			}
 		}
 	}
@@ -276,14 +395,8 @@
 	{
 		"public"
 		{
-			"buildid" "15431136"
-			"timeupdated" "1724147937"
-		}
-		"redaxegames-dev"
-		{
-			"buildid" "15419626"
-			"pwdrequired" "1"
-			"timeupdated" "1724070817"
+			"buildid" "16265697"
+			"timeupdated" "1730473337"
 		}
 	}
 }
@@ -306,6 +419,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "24862712"
-"_sha" "d347ae20803a87fa8484ae4594beb73868471a8b"
-"_size" "5028"
+"_change_number" "26012848"
+"_sha" "580a94102942867f8732c744f950b974266a48e4"
+"_size" "9747"
