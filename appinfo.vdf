@@ -261,15 +261,15 @@
 		{
 			"public"
 			{
-				"gid" "5206398321307072511"
-				"size" "5641042762"
-				"download" "2993527264"
+				"gid" "5374464373943450165"
+				"size" "5641050101"
+				"download" "2993526384"
 			}
 			"prerelease"
 			{
-				"gid" "5206398321307072511"
-				"size" "5641042762"
-				"download" "2993527264"
+				"gid" "5374464373943450165"
+				"size" "5641050101"
+				"download" "2993526384"
 			}
 		}
 		"encryptedmanifests"
@@ -318,15 +318,15 @@
 			}
 			"internal_test"
 			{
-				"gid" "F3F0917405A01B978CB2121D769322D1"
-				"size" "1FEF98AB8F3AB55CB08D40D1FBD743D4"
-				"download" "81503C4CB0558F60E79702A599966503"
+				"gid" "A90D9D5E7CC541052863CB2626CA2ACC"
+				"size" "F0545CAE37DA00BA74C62F057FC79484"
+				"download" "A4C9AD4D9DD9EDAFB7A3D93434CC7EED"
 			}
 			"openbeta"
 			{
-				"gid" "DB0DA2BF3570BA08EFD4FDA2229D9351"
-				"size" "7A73D9B7E93689690172774AD530A8B8"
-				"download" "F71BEDFDC7005246605DBBDD68043858"
+				"gid" "43CF3462AD5FAEC1E5D112917743364A"
+				"size" "D373A5B6190DBF2BB419636DBAB9710D"
+				"download" "D93CC4DF0EF7A862E64EFAF15151A378"
 			}
 			"streamer_test"
 			{
@@ -341,8 +341,8 @@
 	{
 		"public"
 		{
-			"buildid" "16256492"
-			"timeupdated" "1730405266"
+			"buildid" "16269835"
+			"timeupdated" "1730498958"
 		}
 		"beta"
 		{
@@ -388,21 +388,21 @@
 		}
 		"internal_test"
 		{
-			"buildid" "16256492"
+			"buildid" "16269835"
 			"pwdrequired" "1"
-			"timeupdated" "1730404501"
+			"timeupdated" "1730498385"
 		}
 		"openbeta"
 		{
-			"buildid" "16256492"
+			"buildid" "16269835"
 			"pwdrequired" "1"
-			"timeupdated" "1730405227"
+			"timeupdated" "1730498834"
 		}
 		"prerelease"
 		{
-			"buildid" "16256492"
+			"buildid" "16269835"
 			"description" "Pre-release of updates for preview testing"
-			"timeupdated" "1730405243"
+			"timeupdated" "1730498852"
 		}
 		"streamer_test"
 		{
@@ -461,6 +461,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25996199"
-"_sha" "3f1dcf3a6278d0416484c9eaf09f8e697cc7bf0b"
+"_change_number" "26013928"
+"_sha" "d7b09e26c353c3afeff917a1a3a293377516f90a"
 "_size" "9079"
