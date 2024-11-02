@@ -1,0 +1,278 @@
+"appid" "2135150"
+"common"
+{
+	"name" "Elin"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "10700d3554487fe6dee9e921394247bee413527b"
+	"clienticon" "78a8a7527747dc68367e82b11aceef0df620ecdb"
+	"clienttga" "f58d092c38e2be7b84a9b0863c2215a6b8ee6d12"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"japanese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "48.93939393939394"
+			"height_pct" "64.64995778252725"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "48.93939393939394"
+				"height_pct" "64.64995778252725"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "dc11ff552b7e61337424d3020eee9e5afcf6cd82/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "dc11ff552b7e61337424d3020eee9e5afcf6cd82/library_header_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728569511"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lafrontier"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Lafrontier"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Eternal League Of Nefia"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Elona"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_30" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1730444401"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "2135150"
+	"store_tags"
+	{
+		"0" "4747"
+		"1" "454187"
+		"2" "1716"
+		"3" "1695"
+		"4" "4434"
+		"5" "122"
+		"6" "3871"
+		"7" "3964"
+		"8" "3859"
+		"9" "4182"
+		"10" "1720"
+		"11" "3834"
+		"12" "4026"
+		"13" "6869"
+		"14" "5125"
+		"15" "4236"
+		"16" "198631"
+		"17" "1759"
+		"18" "5652"
+		"19" "3810"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Lafrontier"
+	"publisher" "Lafrontier"
+}
+"config"
+{
+	"installdir" "Elin"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Elin.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,schinese,japanese"
+	"workshopdepot" "2135150"
+	"hasdepotsindlc" "0"
+	"2135153"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1574775502949258888"
+				"size" "2821103865"
+				"download" "998535776"
+			}
+			"nightly"
+			{
+				"gid" "1574775502949258888"
+				"size" "2821103865"
+				"download" "998535776"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16272550"
+			"timeupdated" "1730526846"
+		}
+		"nightly"
+		{
+			"buildid" "16272550"
+			"description" "Unstable Nightly Version"
+			"timeupdated" "1730526821"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Lafrontier/Elin/Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "26018824"
+"_sha" "4e5f794fbcc52d4788530ebc820b758462a7ea36"
+"_size" "4367"
