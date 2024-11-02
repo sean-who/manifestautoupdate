@@ -316,18 +316,18 @@
 		{
 			"public"
 			{
-				"gid" "8518157962331257405"
-				"size" "2401957093"
-				"download" "423582608"
+				"gid" "2939955051745140020"
+				"size" "2402282173"
+				"download" "423615136"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"bilibiliqatesting"
 			{
-				"gid" "5E5F90F292FC8770F934E018B22E955B"
-				"size" "14AE321CC55D5F73193825C64A412C39"
-				"download" "60C6697A9D377A9B1A2572363F3CAEA8"
+				"gid" "DECFCC438F4243E60F1589C9F482EB10"
+				"size" "E31B31CB7199E609FFB1D3EE4D772819"
+				"download" "5136019CB5DEBBF5B27D8169060F561B"
 			}
 			"eaearlyv"
 			{
@@ -343,9 +343,9 @@
 			}
 			"1.0uptesting"
 			{
-				"gid" "A07CB95359F60D9355F511223F1E5192"
-				"size" "B53C9185BE5AE59E7371AE4207A73825"
-				"download" "CDF390BBF8DE870F9EF62159067EF477"
+				"gid" "BD106A5A63949232A0170C3374D1A6FD"
+				"size" "ECF41DEE9593924990EE8B086C7C1397"
+				"download" "613570C8C5874DFD845A4CEC5502FA2D"
 			}
 			"bilibiliqatesting2"
 			{
@@ -373,9 +373,9 @@
 			}
 			"banbenyanshou"
 			{
-				"gid" "728A03ABF9151C081FCAFD4365D99EFB"
-				"size" "5E575F1E82617D5C4F0727F3ADC5E5AF"
-				"download" "874EF3BBECE3F3D8D5EE3149F39AEAE6"
+				"gid" "8AA3A4C599AE464587AB2A9C11D5BF8A"
+				"size" "A26E2B292DDB987904F4F0D5E4B20649"
+				"download" "117092FF4938CD89AE206B5E8DFBB482"
 			}
 			"eauptesting"
 			{
@@ -385,9 +385,9 @@
 			}
 			"fullcontenttest"
 			{
-				"gid" "6F8115A1F2AAC0A2E585B5500A19288F"
-				"size" "5A941B2A5108654712F6A569798AA1D2"
-				"download" "7AA80D4428B5497372E4627DD38D6C6E"
+				"gid" "B4E1F81C804EAC8D3E85D13073C34C2B"
+				"size" "5B7B86BEEA76F2D99E56F23F0A678BF8"
+				"download" "7188801BC66F81E093EBA2E97531A3AE"
 			}
 			"shantuiceshi"
 			{
@@ -413,14 +413,14 @@
 	{
 		"public"
 		{
-			"buildid" "16272181"
-			"timeupdated" "1730524580"
+			"buildid" "16274038"
+			"timeupdated" "1730549617"
 		}
 		"bilibiliqatesting"
 		{
-			"buildid" "16272253"
+			"buildid" "16274024"
 			"pwdrequired" "1"
-			"timeupdated" "1730522042"
+			"timeupdated" "1730546016"
 		}
 		"eaearlyv"
 		{
@@ -436,9 +436,9 @@
 		}
 		"1.0uptesting"
 		{
-			"buildid" "16266449"
+			"buildid" "16274024"
 			"pwdrequired" "1"
-			"timeupdated" "1730476433"
+			"timeupdated" "1730549921"
 		}
 		"bilibiliqatesting2"
 		{
@@ -466,9 +466,9 @@
 		}
 		"banbenyanshou"
 		{
-			"buildid" "16272253"
+			"buildid" "16274024"
 			"pwdrequired" "1"
-			"timeupdated" "1730522051"
+			"timeupdated" "1730546034"
 		}
 		"eauptesting"
 		{
@@ -478,9 +478,9 @@
 		}
 		"fullcontenttest"
 		{
-			"buildid" "16272253"
+			"buildid" "16274024"
 			"pwdrequired" "1"
-			"timeupdated" "1730521964"
+			"timeupdated" "1730545209"
 		}
 		"shantuiceshi"
 		{
@@ -522,6 +522,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26017615"
-"_sha" "265881e980abf62e4bef8329ac5c6c22045302ea"
+"_change_number" "26019247"
+"_sha" "82c1e6d8d575128dc37c2723958ec9f88fb986f8"
 "_size" "12356"
