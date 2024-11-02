@@ -1,19 +1,13 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-02 09:45:56
+## 更新时间：2024-11-02 16:27:11
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 730 | Counter-Strike 2| Game |
-| 1794680 | Vampire Survivors - 吸血鬼幸存者| Game |
-| 2230760 | Vampire Survivors - 吸血鬼幸存者：月咒遗脉| DLC |
-| 1836200 | Fallout 76 Public Test Server| Beta |
-| 2313550 | Vampire Survivors: Tides of the Foscari| DLC |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
+| 824270 | KovaaK's| Game |
 | 1987080 | Inside the Backrooms| Game |
-| 1857090 | 诺兰德 Norland| Game |
-| 1059980 | 吾王保卫战 Just King| Game |
-| 559650 | Witch It| Game |
-| 1169040 | 奈斯启示录 Necesse| Game |
-| 1169370 | Necesse Dedicated Server| Tool |
-| 739630 | Phasmophobia| Game |
-| 2406770 | Bodycam| Game |
-| 505040 | FORTIFY| Game |
+| 2103140 | 魔法工艺 Magicraft| Game |
+| 1710100 | 黄老饼梦游惊奇| Game |
+| 2399830 | 方舟: 生存飞升| Game |
+| 2719030 | 超级键盘侠| Game |
+| 3201880 | 软糖方块  -  一款治愈系解谜游戏| Game |
