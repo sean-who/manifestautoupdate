@@ -1,18 +1,33 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-03 01:23:16
+## 更新时间：2024-11-03 01:40:04
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 730 | Counter-Strike 2| Game |
-| 1966720 | Lethal Company| Game |
+| 1183470 | Imperiums: Greek Wars| Game |
+| 1484720 | Dead Estate| Game |
 | 17390 | Spore| game |
-| 222750 | Wargame: AirLand Battle| Game |
-| 559650 | Witch It| Game |
-| 1169040 | 奈斯启示录 Necesse| Game |
-| 1169370 | Necesse Dedicated Server| Tool |
-| 2103140 | 魔法工艺 Magicraft| Game |
-| 1710100 | 黄老饼梦游惊奇| Game |
-| 1465460 | Infection Free Zone (无感染区)| Game |
-| 665360 | Comedy Night| Game |
-| 1280 | Darkest Hour: Europe '44-'45| game |
-| 505040 | FORTIFY| Game |
+| 17440 | Spore: Creepy & Cute Parts Pack| game |
+| 1768650 | Path of the Abyss| Game |
+| 1772830 | Rusted Moss| Game |
+| 1931830 | Full Service - Healthy Alternative (Doctor Ken) Pack| DLC |
+| 207930 | Sacred Citadel| Game |
+| 2088770 | 出牌吧！魂之勇者| Game |
+| 212680 | FTL: Faster Than Light| Game |
+| 2135150 | Elin| Game |
+| 2234200 | 圈圈勇士| Game |
+| 2254890 | 致命解药| Game |
+| 2280520 | 吸血鬼大厦| Game |
+| 2378910 | Settlements Rising| Game |
+| 22380 | Fallout: New Vegas| game |
+| 2360210 | 符文竞技场| Game |
+| 2597080 | 墨境| Game |
+| 2690330 | Vampire Survivors: Emergency Meeting| DLC |
+| 2797310 | Hypnotic Idol| Game |
+| 2799930 | 灵境·修仙界| Game |
+| 2887680 | Vampire Survivors: Operation Guns| DLC |
+| 2951840 | 崛起力量: 测试英雄| Game |
+| 33780 | Drakensang 2 - Phileasson's Secret| game |
+| 371970 | Barony| Game |
+| 625980 | Yomawari: Midnight Shadows| Game |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
+| 785740 | This Is the Police 2| Game |
