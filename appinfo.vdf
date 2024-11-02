@@ -282,30 +282,30 @@
 		{
 			"public"
 			{
-				"gid" "4490089596726319869"
-				"size" "907415759"
-				"download" "727188800"
+				"gid" "2511694420200536915"
+				"size" "914108863"
+				"download" "733822816"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "05F8B3930BCB7FD8E016F77F2E82B7E8"
-				"size" "F8921EB1CC3FE49FC9FE47C49E76D4AD"
-				"download" "0706DE018CA26DEA557C0D2D414C24BF"
+				"gid" "5D3B0D7CAA57F5025F05B4D4CDB24517"
+				"size" "FA552A911EB572A75080509F44215859"
+				"download" "BC50881D69C6ED59DA46D7614462C8ED"
 			}
 			"polish"
 			{
-				"gid" "04AB4BDB0DAD544A79709C03048463BD"
-				"size" "FBA2426345573C62D25C720B644D9EA6"
-				"download" "A07482639303B232806B54B9060B6666"
+				"gid" "A942FDC93A9B18B1480AB38A0684D161"
+				"size" "F8651A26D5536C1FEBA96B41B8385F94"
+				"download" "E2D33267B6F5489FFEB2625E22D83249"
 			}
 			"portuguese"
 			{
-				"gid" "FD9B3E9A9C0658001D80C82B40BD80C0"
-				"size" "93471487E1562BB7BF40DBF815158AB0"
-				"download" "70F8134AE5B5797240DF888E6F99779F"
+				"gid" "6EA380D67AC3F46F9B04E3E4218C0F8D"
+				"size" "4E933F03A59EDCB483D4F0B663F40E21"
+				"download" "CA696EED5D15EDE720F649B72F96B313"
 			}
 		}
 	}
@@ -314,30 +314,30 @@
 	{
 		"public"
 		{
-			"buildid" "16189876"
-			"timeupdated" "1729929260"
+			"buildid" "16263693"
+			"timeupdated" "1730460508"
 		}
 		"development"
 		{
-			"buildid" "16193212"
+			"buildid" "16263693"
 			"pwdrequired" "1"
-			"timeupdated" "1729970655"
+			"timeupdated" "1730458658"
 		}
 		"polish"
 		{
-			"buildid" "16209606"
+			"buildid" "16275101"
 			"pwdrequired" "1"
-			"timeupdated" "1730138628"
+			"timeupdated" "1730561962"
 		}
 		"portuguese"
 		{
-			"buildid" "16189876"
+			"buildid" "16263693"
 			"pwdrequired" "1"
-			"timeupdated" "1729929227"
+			"timeupdated" "1730460525"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25936462"
-"_sha" "e976b2c26d76f2abc4f6887ae40074bb4f865d1b"
+"_change_number" "26020427"
+"_sha" "bb6a8d96b28ac2d26ee5dda9b88c4db6f539d527"
 "_size" "5695"
