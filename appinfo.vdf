@@ -36,6 +36,7 @@
 	"languages"
 	{
 		"english" "1"
+		"german" "1"
 		"schinese" "1"
 		"tchinese" "1"
 		"japanese" "1"
@@ -43,29 +44,29 @@
 	"steam_deck_compatibility"
 	{
 		"category" "2"
-		"test_timestamp" "1700697600"
-		"tested_build_id" "12603234"
+		"test_timestamp" "1720051200"
+		"tested_build_id" "14383698"
 		"tests"
 		{
 			"0"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
 			}
 			"1"
 			{
 				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
 			}
 			"2"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
 			}
 			"3"
 			{
-				"display" "3"
-				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
 			}
 			"4"
 			{
@@ -80,35 +81,37 @@
 			"requires_non_controller_launcher_nav" "0"
 			"primary_player_is_controller_slot_0" "0"
 			"non_deck_display_glyphs" "1"
-			"small_text" "1"
+			"small_text" "0"
 			"requires_internet_for_setup" "0"
 			"requires_internet_for_singleplayer" "0"
-			"recommended_runtime" "proton-stable"
+			"recommended_runtime" "proton-9.0-2RC"
 			"requires_h264" "0"
 			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
 		}
 	}
 	"controllertagwizard" "1"
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"schinese" "capsule_231x87_schinese.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
-		"english" "capsule_231x87.jpg"
-		"japanese" "capsule_231x87_japanese.jpg"
+		"japanese" "a3b34c8c50a2c838f4b3aee6123b16d0ec54b53b/capsule_231x87_japanese.jpg"
+		"english" "fbfbf75e24feac033eae90cf5c49a281ed2329a4/capsule_231x87.jpg"
+		"tchinese" "ce011a7fabc466759e8333a5cf2da0a7bedcc176/capsule_231x87_tchinese.jpg"
+		"schinese" "c1b46f9a74421bb115471c1906a55794bce3e7c7/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
-		"schinese" "header_schinese.jpg"
 		"english" "header.jpg"
 		"tchinese" "header_tchinese.jpg"
 		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,zh-cn,zh-tw,ja"
-		"library_hero" "en,zh-tw,ja"
+		"library_capsule" "zh-cn,en,zh-tw,ja"
+		"library_hero" "zh-cn,en"
 		"library_logo" "en,zh-cn,ja,zh-tw"
+		"library_header" "zh-cn,en,zh-tw,ja"
 		"logo_position"
 		{
 			"pinned_position" "BottomLeft"
@@ -116,7 +119,80 @@
 			"height_pct" "100"
 		}
 	}
-	"store_asset_mtime" "1715595333"
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"schinese" "90c32370d889ff957e44244c119a6c876251b894/library_600x900_schinese.jpg"
+				"english" "175cc8351b6892910d5e8f630a37cf309807b849/library_600x900.jpg"
+				"tchinese" "732f6c5c690572dd8ac002ba10895f024654a351/library_600x900_tchinese.jpg"
+				"japanese" "4fa0cd296e02015150376ed924874b3af42dae37/library_600x900_japanese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "90c32370d889ff957e44244c119a6c876251b894/library_600x900_schinese_2x.jpg"
+				"english" "175cc8351b6892910d5e8f630a37cf309807b849/library_600x900_2x.jpg"
+				"tchinese" "732f6c5c690572dd8ac002ba10895f024654a351/library_600x900_tchinese_2x.jpg"
+				"japanese" "4fa0cd296e02015150376ed924874b3af42dae37/library_600x900_japanese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_schinese.jpg"
+				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_schinese_2x.jpg"
+				"english" "d5c22bf4d7a435351ca7f0c242376eb4e13577f0/library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "45.10611472691018"
+				"height_pct" "100"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"japanese" "logo_japanese_2x.png"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"japanese" "logo_japanese.png"
+				"tchinese" "logo_tchinese.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"schinese" "00a46238dbc36f9336e83f5b2acfeda1d44a0fcd/library_header_schinese.jpg"
+				"english" "31c5cc404966a1f51a58f7c0f1429463a7ac5ba0/library_header.jpg"
+				"tchinese" "2a8abb674a6ea47511a29ac603ac07249ace235f/library_header_tchinese.jpg"
+				"japanese" "c61ad956498e0f5d4f01a5fe0502fa7bacd98b71/library_header_japanese.jpg"
+			}
+			"image2x"
+			{
+				"schinese" "00a46238dbc36f9336e83f5b2acfeda1d44a0fcd/library_header_schinese_2x.jpg"
+				"english" "31c5cc404966a1f51a58f7c0f1429463a7ac5ba0/library_header_2x.jpg"
+				"tchinese" "2a8abb674a6ea47511a29ac603ac07249ace235f/library_header_tchinese_2x.jpg"
+				"japanese" "c61ad956498e0f5d4f01a5fe0502fa7bacd98b71/library_header_japanese_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1730532240"
 	"associations"
 	{
 		"0"
@@ -142,7 +218,6 @@
 		"1" "25"
 		"2" "23"
 		"3" "3"
-		"4" "70"
 	}
 	"category"
 	{
@@ -180,7 +255,7 @@
 			"subtitles" "true"
 		}
 	}
-	"steam_release_date" "1698891892"
+	"steam_release_date" "1730514716"
 	"community_visible_stats" "1"
 	"community_hub_visible" "1"
 	"gameid" "2103140"
@@ -204,11 +279,11 @@
 		"15" "1685"
 		"16" "3859"
 		"17" "493"
-		"18" "454187"
-		"19" "4190"
+		"18" "4190"
+		"19" "12095"
 	}
 	"review_score" "8"
-	"review_percentage" "88"
+	"review_percentage" "89"
 }
 "extended"
 {
@@ -241,30 +316,78 @@
 		{
 			"public"
 			{
-				"gid" "47996763605162722"
-				"size" "1694647812"
-				"download" "290071264"
+				"gid" "8518157962331257405"
+				"size" "2401957093"
+				"download" "423582608"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"banbenyanshou"
+			"bilibiliqatesting"
 			{
-				"gid" "1DA32C8052C20FD7223586779E1968A7"
-				"size" "BF9CF452ED6A5EB787D33CE345C4AFDF"
-				"download" "5BF1A5E2EC602986F038A284F9161681"
+				"gid" "5E5F90F292FC8770F934E018B22E955B"
+				"size" "14AE321CC55D5F73193825C64A412C39"
+				"download" "60C6697A9D377A9B1A2572363F3CAEA8"
+			}
+			"eaearlyv"
+			{
+				"gid" "CB5CF87B8E0C76F527F4763A7975262E"
+				"size" "632A5BBF1DD625E65CCB16675E8C181A"
+				"download" "D3E48BAA91177ABF86C6C2B14EC6FD5A"
+			}
+			"entranslatestesting"
+			{
+				"gid" "D93A2D7669E05DEC2AACF307CA11CAFC"
+				"size" "55F21B411536D9D334F22BB20BFA3778"
+				"download" "9B723C04AC751E5170389EFFAD54784D"
+			}
+			"1.0uptesting"
+			{
+				"gid" "A07CB95359F60D9355F511223F1E5192"
+				"size" "B53C9185BE5AE59E7371AE4207A73825"
+				"download" "CDF390BBF8DE870F9EF62159067EF477"
 			}
 			"bilibiliqatesting2"
 			{
-				"gid" "7F71788C935D396740BB66075466D70B"
-				"size" "5FF0EAEB7EDF44E9CDD49665755916EA"
-				"download" "FD2C93E60B7EEBE84D1673977242C8B3"
+				"gid" "124D61F117EA1C49C65A09BEDD4418DD"
+				"size" "2D98A6B677FA07E4A17F050EA114F42B"
+				"download" "60ECE1982152400D32A0534B45C6BFFB"
+			}
+			"usersplaytesting"
+			{
+				"gid" "00630CD14BDD8AEB486C9DFE38DDA9A4"
+				"size" "AFB71ED9F52ABC1C402739F111C80617"
+				"download" "761E373B12D2ED768012D05A1539ED5A"
+			}
+			"maidiantest"
+			{
+				"gid" "E566861D9A701BAA2C84197B4D0757FB"
+				"size" "462BC6C571A66AF87862AE917C9553DA"
+				"download" "E6DE1DFC0D622267383686DAD7EC56E6"
+			}
+			"zhanhuiyongbao"
+			{
+				"gid" "2830BCDE649DCE2E99CDDE53EBDEDC73"
+				"size" "757E87FB2E51972032D8A0A36FE01742"
+				"download" "2D823E35638D0401D52F2629B0432DAD"
+			}
+			"banbenyanshou"
+			{
+				"gid" "728A03ABF9151C081FCAFD4365D99EFB"
+				"size" "5E575F1E82617D5C4F0727F3ADC5E5AF"
+				"download" "874EF3BBECE3F3D8D5EE3149F39AEAE6"
 			}
 			"eauptesting"
 			{
 				"gid" "824862D233C037E77CF83EB53C25148A"
 				"size" "F01F53A81860CC69255A323E4B4C1397"
 				"download" "C2CE620AB659536FFAA6D51217B4A490"
+			}
+			"fullcontenttest"
+			{
+				"gid" "6F8115A1F2AAC0A2E585B5500A19288F"
+				"size" "5A941B2A5108654712F6A569798AA1D2"
+				"download" "7AA80D4428B5497372E4627DD38D6C6E"
 			}
 			"shantuiceshi"
 			{
@@ -284,31 +407,86 @@
 				"size" "545EB18DDC4E897AD9E3C307310DDFB4"
 				"download" "D470E87D44C073B65BD59ACD787484BB"
 			}
-			"bilibiliqatesting"
-			{
-				"gid" "4E4B44A3532C6C68D9D4B5A3DB699D0E"
-				"size" "45E04A96EB48E8D5F99B5EF11F2AAF67"
-				"download" "994625106E37FF64B836D217549451B9"
-			}
-			"fullcontenttest"
-			{
-				"gid" "CFD5733025722535F6E342E6A3053396"
-				"size" "2110961D141AD69CBAA0AFA0C2C5F9FF"
-				"download" "6BD633FA5A09FA8A783BFA237D648089"
-			}
-			"usersplaytesting"
-			{
-				"gid" "829361FCDE04492C2736DE1DA1B338BB"
-				"size" "8995797DC6190A401B9EAB87D3F11FC6"
-				"download" "BB046506E06300518A992BA17CB1E5A5"
-			}
 		}
 	}
 	"branches"
 	{
-		"steam_china_only"
+		"public"
 		{
-			"sc_schinese" "仅中国"
+			"buildid" "16272181"
+			"timeupdated" "1730524580"
+		}
+		"bilibiliqatesting"
+		{
+			"buildid" "16272253"
+			"pwdrequired" "1"
+			"timeupdated" "1730522042"
+		}
+		"eaearlyv"
+		{
+			"buildid" "14383629"
+			"pwdrequired" "1"
+			"timeupdated" "1730295573"
+		}
+		"entranslatestesting"
+		{
+			"buildid" "16235412"
+			"pwdrequired" "1"
+			"timeupdated" "1730286009"
+		}
+		"1.0uptesting"
+		{
+			"buildid" "16266449"
+			"pwdrequired" "1"
+			"timeupdated" "1730476433"
+		}
+		"bilibiliqatesting2"
+		{
+			"buildid" "12592164"
+			"pwdrequired" "1"
+			"timeupdated" "1723802620"
+		}
+		"usersplaytesting"
+		{
+			"buildid" "16266526"
+			"pwdrequired" "1"
+			"timeupdated" "1730476582"
+		}
+		"maidiantest"
+		{
+			"buildid" "15965591"
+			"pwdrequired" "1"
+			"timeupdated" "1728386609"
+		}
+		"zhanhuiyongbao"
+		{
+			"buildid" "14857219"
+			"pwdrequired" "1"
+			"timeupdated" "1719556239"
+		}
+		"banbenyanshou"
+		{
+			"buildid" "16272253"
+			"pwdrequired" "1"
+			"timeupdated" "1730522051"
+		}
+		"eauptesting"
+		{
+			"buildid" "12999469"
+			"pwdrequired" "1"
+			"timeupdated" "1702983814"
+		}
+		"fullcontenttest"
+		{
+			"buildid" "16272253"
+			"pwdrequired" "1"
+			"timeupdated" "1730521964"
+		}
+		"shantuiceshi"
+		{
+			"buildid" "12780721"
+			"pwdrequired" "1"
+			"timeupdated" "1700742792"
 		}
 		"suibian"
 		{
@@ -317,58 +495,11 @@
 			"pwdrequired" "1"
 			"timeupdated" "1698901416"
 		}
-		"public"
-		{
-			"buildid" "14383698"
-			"timeupdated" "1716812979"
-		}
-		"banbenyanshou"
-		{
-			"buildid" "14080225"
-			"pwdrequired" "1"
-			"timeupdated" "1713343772"
-		}
-		"bilibiliqatesting2"
-		{
-			"buildid" "13100111"
-			"pwdrequired" "1"
-			"timeupdated" "1705154535"
-		}
-		"eauptesting"
-		{
-			"buildid" "12999469"
-			"pwdrequired" "1"
-			"timeupdated" "1702983814"
-		}
-		"shantuiceshi"
-		{
-			"buildid" "12780721"
-			"pwdrequired" "1"
-			"timeupdated" "1700742792"
-		}
 		"uptesting"
 		{
 			"buildid" "12491765"
 			"pwdrequired" "1"
 			"timeupdated" "1697807081"
-		}
-		"bilibiliqatesting"
-		{
-			"buildid" "14479829"
-			"pwdrequired" "1"
-			"timeupdated" "1716539663"
-		}
-		"fullcontenttest"
-		{
-			"buildid" "14383629"
-			"pwdrequired" "1"
-			"timeupdated" "1715825817"
-		}
-		"usersplaytesting"
-		{
-			"buildid" "14383698"
-			"pwdrequired" "1"
-			"timeupdated" "1715860087"
 		}
 	}
 }
@@ -391,6 +522,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "23707224"
-"_sha" "15e4703cd6f3f7b7da391057275f336111a45e64"
-"_size" "8250"
+"_change_number" "26017615"
+"_sha" "265881e980abf62e4bef8329ac5c6c22045302ea"
+"_size" "12356"
