@@ -274,18 +274,18 @@
 		{
 			"public"
 			{
-				"gid" "8833436372948403909"
-				"size" "20757551588"
-				"download" "14025104032"
+				"gid" "3607264559036402419"
+				"size" "20757618492"
+				"download" "14024996448"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "A4F4F24A420F34992CDD4E223BB84DCD"
-				"size" "B634FC332981723E130D877FCA91C6F0"
-				"download" "4447A262C9DF0153B4B04CA9AC94C393"
+				"gid" "9154E0E8E3DC30AB1A698848E72FB076"
+				"size" "89C517B339FD8C399F3D4AC3B65098AA"
+				"download" "868AABF5D176AB83757FB9139605DB59"
 			}
 			"gamedev"
 			{
@@ -311,14 +311,14 @@
 	{
 		"public"
 		{
-			"buildid" "16207151"
-			"timeupdated" "1730126219"
+			"buildid" "16269911"
+			"timeupdated" "1730499370"
 		}
 		"developer"
 		{
-			"buildid" "16207151"
+			"buildid" "16269911"
 			"pwdrequired" "1"
-			"timeupdated" "1730126067"
+			"timeupdated" "1730498974"
 		}
 		"gamedev"
 		{
@@ -341,6 +341,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25932726"
-"_sha" "fb1e484e63f1768af36768504a90c659d065de1b"
+"_change_number" "26014008"
+"_sha" "8ed3e46f56d7150dda165cda5e6c646892136b93"
 "_size" "6496"
