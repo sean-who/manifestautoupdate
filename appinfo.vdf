@@ -202,8 +202,8 @@
 		"18" "7926"
 		"19" "1702"
 	}
-	"review_score" "8"
-	"review_percentage" "80"
+	"review_score" "6"
+	"review_percentage" "79"
 }
 "extended"
 {
@@ -253,15 +253,15 @@
 		{
 			"public"
 			{
-				"gid" "2640962727423833992"
-				"size" "13644878487"
-				"download" "12942133824"
+				"gid" "6894346219012963046"
+				"size" "14159303010"
+				"download" "13447968976"
 			}
 			"developer"
 			{
-				"gid" "2640962727423833992"
-				"size" "13644878487"
-				"download" "12942133824"
+				"gid" "6894346219012963046"
+				"size" "14159303010"
+				"download" "13447968976"
 			}
 		}
 		"encryptedmanifests"
@@ -278,8 +278,8 @@
 	{
 		"public"
 		{
-			"buildid" "15768765"
-			"timeupdated" "1726832099"
+			"buildid" "16265845"
+			"timeupdated" "1730474494"
 		}
 		"versiontestbuild"
 		{
@@ -289,9 +289,13 @@
 		}
 		"developer"
 		{
-			"buildid" "15768765"
+			"buildid" "16265845"
 			"description" "Developer Build with log to detect crashes"
-			"timeupdated" "1726826657"
+			"timeupdated" "1730472739"
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26015870"
+"_sha" "5e7c3d91de6cd995c21fd3b9b2bd2dc856d63c61"
+"_size" "5226"
