@@ -261,12 +261,12 @@
 		"14" "1773"
 		"15" "19"
 		"16" "492"
-		"17" "493"
-		"18" "4182"
+		"17" "4182"
+		"18" "493"
 		"19" "1662"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -301,30 +301,30 @@
 		{
 			"public"
 			{
-				"gid" "2612479676737746508"
-				"size" "1521047600"
-				"download" "257315648"
+				"gid" "4574204689318940547"
+				"size" "1521052490"
+				"download" "257607632"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"beta"
 			{
-				"gid" "0354987764A950406F57214A51D8D529"
-				"size" "D23E73ED7A621AFF19B8E57A0841ACF7"
-				"download" "CDCEB261D69062E6BD63F5D0156D44A6"
+				"gid" "021A9ACDEB8F31C19C12C2BE9D4C2B13"
+				"size" "E296E3B47FC8C8E26CBF4EA51949AAC7"
+				"download" "2666DC85A3E4978B105AB129E60FC661"
 			}
 			"beta_private"
 			{
-				"gid" "91068E703656A17FB35DBCAB9464E97D"
-				"size" "656A22AE888A960C80A2FD07774176D7"
-				"download" "49AC4B294B539BC6CBC424C360020C64"
+				"gid" "43D3D8D5F0DB5BAC589CBC28D8C25DC7"
+				"size" "D3BB3451DAFB25DF7957DCBF59959AF8"
+				"download" "54441DF4ADCA0046F90FDBA35459407D"
 			}
 			"meta"
 			{
-				"gid" "6CE5466FB1B89A25B06C04357C1127B5"
-				"size" "BD0483205BB153EC74546690DA279561"
-				"download" "0E923CA681E5914A2084D1927F6445AD"
+				"gid" "ACCB171BFD244339F29A5304BEE2B193"
+				"size" "2356B5D7E9B97755BC5A505DFCBF4170"
+				"download" "CAB101061EC12DD96F227F66ED1B3276"
 			}
 		}
 	}
@@ -332,26 +332,26 @@
 	{
 		"public"
 		{
-			"buildid" "16202127"
-			"timeupdated" "1730120081"
+			"buildid" "16275386"
+			"timeupdated" "1730566900"
 		}
 		"beta"
 		{
-			"buildid" "16202127"
+			"buildid" "16275386"
 			"pwdrequired" "1"
-			"timeupdated" "1730120041"
+			"timeupdated" "1730566728"
 		}
 		"beta_private"
 		{
-			"buildid" "16202127"
+			"buildid" "16275386"
 			"pwdrequired" "1"
-			"timeupdated" "1730094436"
+			"timeupdated" "1730566180"
 		}
 		"meta"
 		{
-			"buildid" "16202127"
+			"buildid" "16275386"
 			"pwdrequired" "1"
-			"timeupdated" "1730120052"
+			"timeupdated" "1730566738"
 		}
 	}
 }
@@ -370,6 +370,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25931154"
-"_sha" "1208234d57f04a9fb7fc663a26c5687e92a3ff55"
+"_change_number" "26024190"
+"_sha" "d4be56b674e0be7f13758990ba0081fe6ef29231"
 "_size" "6727"
