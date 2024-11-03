@@ -238,6 +238,10 @@
 		{
 			"supported" "true"
 		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
 	}
 	"original_release_date" "1604995200"
 	"steam_release_date" "1641503357"
@@ -256,8 +260,8 @@
 		"6" "9"
 		"7" "3859"
 		"8" "4345"
-		"9" "4667"
-		"10" "1678"
+		"9" "1678"
+		"10" "4667"
 		"11" "1774"
 		"12" "3810"
 		"13" "4175"
@@ -421,9 +425,9 @@
 		{
 			"public"
 			{
-				"gid" "4218093110140282512"
-				"size" "15040420523"
-				"download" "6616370960"
+				"gid" "6365446188564526820"
+				"size" "14743171405"
+				"download" "6480440976"
 			}
 			"console_crossplay"
 			{
@@ -433,18 +437,18 @@
 			}
 			"publicbeta"
 			{
-				"gid" "4218093110140282512"
-				"size" "15040420523"
-				"download" "6616370960"
+				"gid" "6365446188564526820"
+				"size" "14743171405"
+				"download" "6480440976"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testenvironment"
 			{
-				"gid" "20D1AAA4CBBBECF2324C1CF1BB2006E6"
-				"size" "AF6F7E4105B80042CA940997AA6EB40F"
-				"download" "5D6BEDD01FD78878F6751D71910FEFD6"
+				"gid" "5BEC3712DD2081E6E43CC300C13B7A47"
+				"size" "D0EF76D89EDA04330B78163534743A44"
+				"download" "E285903B07BA817D003F68861A9E6B41"
 			}
 		}
 	}
@@ -459,9 +463,9 @@
 		{
 			"public"
 			{
-				"gid" "5054093516967263095"
-				"size" "15067308351"
-				"download" "6640434624"
+				"gid" "8531498091986370498"
+				"size" "14770191308"
+				"download" "6502643056"
 			}
 			"console_crossplay"
 			{
@@ -471,18 +475,18 @@
 			}
 			"publicbeta"
 			{
-				"gid" "5054093516967263095"
-				"size" "15067308351"
-				"download" "6640434624"
+				"gid" "8531498091986370498"
+				"size" "14770191308"
+				"download" "6502643056"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testenvironment"
 			{
-				"gid" "19765C0DE1D1620FD4A38FD0D8521559"
-				"size" "8C68D2E64BCDCD41D9DFB086178EC667"
-				"download" "D4F1598350520F2AFE650B61D9063B85"
+				"gid" "6FDAABBE46175F81617C5F49C59573B8"
+				"size" "9D3E3D84E8549D6A94DB283628E9A38A"
+				"download" "47E7053C46D90AA3EAE5DCB8B49AD708"
 			}
 		}
 	}
@@ -497,9 +501,9 @@
 		{
 			"public"
 			{
-				"gid" "1469540664972380217"
-				"size" "15013315068"
-				"download" "6619217360"
+				"gid" "799776045686929464"
+				"size" "14715650839"
+				"download" "6479306272"
 			}
 			"console_crossplay"
 			{
@@ -509,18 +513,18 @@
 			}
 			"publicbeta"
 			{
-				"gid" "1469540664972380217"
-				"size" "15013315068"
-				"download" "6619217360"
+				"gid" "799776045686929464"
+				"size" "14715650839"
+				"download" "6479306272"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testenvironment"
 			{
-				"gid" "B9E65A8FFC227259B43D16A6494E4D12"
-				"size" "87C91F5CA3A3210F525725FBF10F5DC2"
-				"download" "FE338125604164ACE68C347780116726"
+				"gid" "A2C9887E74C0C0B3E912607C6D79EE39"
+				"size" "03BFC6428985978D2ACD07F45858F766"
+				"download" "F8877FC62A5756E23E96A38E3885579A"
 			}
 		}
 	}
@@ -530,8 +534,8 @@
 	{
 		"public"
 		{
-			"buildid" "16015487"
-			"timeupdated" "1728728315"
+			"buildid" "16279207"
+			"timeupdated" "1730635441"
 		}
 		"console_crossplay"
 		{
@@ -541,15 +545,15 @@
 		}
 		"publicbeta"
 		{
-			"buildid" "16015487"
+			"buildid" "16279207"
 			"description" "Public beta for easy red 2 - expect some bugs"
-			"timeupdated" "1728683924"
+			"timeupdated" "1730634655"
 		}
 		"testenvironment"
 		{
-			"buildid" "16015487"
+			"buildid" "16279207"
 			"pwdrequired" "1"
-			"timeupdated" "1728683930"
+			"timeupdated" "1730634662"
 		}
 	}
 }
@@ -600,7 +604,7 @@
 			{
 				"0"
 				{
-					"find" "CorvoStudio/Easy Red 2/"
+					"find" "CorvoStudio/Easy Red 2"
 					"replace" "CorvoStudio/Easy Red 2"
 				}
 			}
@@ -616,9 +620,13 @@
 				"0"
 				{
 					"find" "CorvoStudio/Easy Red 2"
-					"replace" ".config/unity3d/CorvoStudio/Easy Red 2"
+					"replace" ".config/unity3d/Corvostudio/Easy Red 2"
 				}
 			}
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26025989"
+"_sha" "68b42c31c8d07284b4417434eff75961d2404ff0"
+"_size" "11892"
