@@ -310,15 +310,15 @@
 		{
 			"public"
 			{
-				"gid" "7506440451641417875"
-				"size" "262410595"
-				"download" "192822144"
+				"gid" "8369469896950647510"
+				"size" "262410643"
+				"download" "192821824"
 			}
 			"beta"
 			{
-				"gid" "1744300439003701030"
-				"size" "263197827"
-				"download" "193573872"
+				"gid" "1950645914638290926"
+				"size" "264071155"
+				"download" "194398288"
 			}
 		}
 		"encryptedmanifests"
@@ -353,15 +353,15 @@
 		{
 			"public"
 			{
-				"gid" "3729950285187966141"
-				"size" "282425112"
-				"download" "198168800"
+				"gid" "3438710865511566456"
+				"size" "282425160"
+				"download" "198168032"
 			}
 			"beta"
 			{
-				"gid" "3862397564853221368"
-				"size" "283212344"
-				"download" "198920256"
+				"gid" "3519820035319201747"
+				"size" "284085672"
+				"download" "199755248"
 			}
 		}
 		"encryptedmanifests"
@@ -390,14 +390,14 @@
 	{
 		"public"
 		{
-			"buildid" "16262393"
-			"timeupdated" "1730512790"
+			"buildid" "16284597"
+			"timeupdated" "1730706942"
 		}
 		"beta"
 		{
-			"buildid" "16222826"
+			"buildid" "16286072"
 			"description" "Patch preview & testing"
-			"timeupdated" "1730213577"
+			"timeupdated" "1730716809"
 		}
 		"debug"
 		{
@@ -458,6 +458,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26015809"
-"_sha" "a1315db5bc28b20ea749609608d37674229fdce9"
+"_change_number" "26035304"
+"_sha" "1e457d8cdb4ad8d8b69f34c73fec68a2138ade40"
 "_size" "8664"
