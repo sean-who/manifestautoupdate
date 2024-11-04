@@ -16,11 +16,15 @@
 	"languages"
 	{
 		"english" "1"
+		"german" "1"
 		"french" "1"
 		"koreana" "1"
+		"spanish" "1"
 		"schinese" "1"
 		"tchinese" "1"
+		"russian" "1"
 		"japanese" "1"
+		"brazilian" "1"
 	}
 	"name_localized"
 	{
@@ -73,7 +77,7 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "83ea8c938e1ed49ba2503e6a61137c8f2774f3c3/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -97,22 +101,22 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "77e4a8abec7120e0416df2eba47a8974f0e61509/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "77e4a8abec7120e0416df2eba47a8974f0e61509/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "74fad42b47bf14046212656ea3fb9d7643b8d41b/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "74fad42b47bf14046212656ea3fb9d7643b8d41b/library_hero.jpg"
 			}
 		}
 		"library_logo"
@@ -133,18 +137,18 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1700501998"
+	"store_asset_mtime" "1730569046"
 	"associations"
 	{
 		"0"
 		{
 			"type" "developer"
-			"name" "D20Studios, LLC"
+			"name" "D20Studios"
 		}
 		"1"
 		{
 			"type" "publisher"
-			"name" "D20Studios, LLC"
+			"name" "D20Studios"
 		}
 		"2"
 		{
@@ -152,6 +156,11 @@
 			"name" "WhisperGames"
 		}
 		"3"
+		{
+			"type" "franchise"
+			"name" "D20Studios"
+		}
+		"4"
 		{
 			"type" "franchise"
 			"name" "Abalon"
@@ -250,28 +259,28 @@
 		"4" "7569"
 		"5" "32322"
 		"6" "4325"
-		"7" "1684"
-		"8" "17389"
-		"9" "3871"
-		"10" "7481"
-		"11" "9"
-		"12" "10695"
-		"13" "122"
-		"14" "21"
-		"15" "1677"
-		"16" "1741"
+		"7" "10695"
+		"8" "1684"
+		"9" "21"
+		"10" "122"
+		"11" "1741"
+		"12" "7481"
+		"13" "4791"
+		"14" "3871"
+		"15" "9"
+		"16" "17389"
 		"17" "1770"
-		"18" "4791"
+		"18" "1677"
 		"19" "4182"
 	}
 	"review_score" "8"
-	"review_percentage" "92"
+	"review_percentage" "93"
 }
 "extended"
 {
-	"developer" "D20Studios, LLC"
-	"publisher" "D20Studios, LLC"
-	"homepage" "https://summonersfate.com"
+	"developer" "D20Studios"
+	"publisher" "D20Studios"
+	"homepage" "https://d20studios.com/abalon/"
 }
 "config"
 {
@@ -333,9 +342,9 @@
 		{
 			"public"
 			{
-				"gid" "4682766962020817882"
-				"size" "168542362"
-				"download" "147720512"
+				"gid" "8881240700555444508"
+				"size" "98879636"
+				"download" "77222864"
 			}
 		}
 		"encryptedmanifests"
@@ -348,9 +357,9 @@
 			}
 			"test"
 			{
-				"gid" "065CFA9888033E046AA113179034594F"
-				"size" "3428FAE2BD20B012640B147AFD89CAD4"
-				"download" "6E1C27F7EE8063B7F6DD5D113F428340"
+				"gid" "E7F25BA926710A391E16CFA4271D17E2"
+				"size" "29B38AF62BF531363F91A32A2DEC01DB"
+				"download" "65EBB2FB103CD401069E2BD9F7E6E3DC"
 			}
 		}
 	}
@@ -364,9 +373,9 @@
 		{
 			"public"
 			{
-				"gid" "5842918879580300130"
-				"size" "184616440"
-				"download" "152952288"
+				"gid" "7001088882099609369"
+				"size" "114952938"
+				"download" "82454608"
 			}
 		}
 		"encryptedmanifests"
@@ -379,9 +388,9 @@
 			}
 			"test"
 			{
-				"gid" "85DEF13770CCA07293E58AD1592AB430"
-				"size" "98AD9AAE3C0E88ECDF39A415E56CAD13"
-				"download" "FAD93ACBF9A05142F00571B3FE94463B"
+				"gid" "F6C419D162655B32E2BF5582998AF70D"
+				"size" "F256700C5EC38C5CF4AAE9F1A5E65BEB"
+				"download" "BCFFADEB38CFB13E53355B7C72089CD4"
 			}
 		}
 	}
@@ -396,18 +405,18 @@
 		{
 			"public"
 			{
-				"gid" "8384957688977922059"
-				"size" "175595008"
-				"download" "149005344"
+				"gid" "6397964590058114672"
+				"size" "174545841"
+				"download" "147767344"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "72E3A29526D80F8345A2140BF19316A5"
-				"size" "DBB80354A522BC33A708AD9843EB6226"
-				"download" "D0729AA50B3B7E8341E2DFB0E938F763"
+				"gid" "1908B64F7A952BD0C284550EABBE2A11"
+				"size" "E206FB776DAA6A8B5E9B8BCD3136D8AC"
+				"download" "A885F63C0D956DE1153CCF14C6CB306B"
 			}
 		}
 	}
@@ -415,8 +424,8 @@
 	{
 		"public"
 		{
-			"buildid" "16114592"
-			"timeupdated" "1729451356"
+			"buildid" "16269950"
+			"timeupdated" "1730500865"
 		}
 		"expo"
 		{
@@ -426,9 +435,9 @@
 		}
 		"test"
 		{
-			"buildid" "16114592"
+			"buildid" "16269950"
 			"pwdrequired" "1"
-			"timeupdated" "1729450214"
+			"timeupdated" "1730499292"
 		}
 	}
 }
@@ -474,6 +483,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25830643"
-"_sha" "1f4f066a1b400077d174fe5719c7f5e11e328a67"
-"_size" "8430"
+"_change_number" "26024175"
+"_sha" "3355d0ca7e3f36e93bd42dd525d52535bd56f0e5"
+"_size" "8756"
