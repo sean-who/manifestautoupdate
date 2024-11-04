@@ -294,19 +294,13 @@
 		{
 			"public"
 			{
-				"gid" "6834925710901349755"
-				"size" "59076015"
-				"download" "19496496"
+				"gid" "7524250609695259881"
+				"size" "59081127"
+				"download" "19502800"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"internal2"
-			{
-				"gid" "9ADE64D3B0F06A817AF8208D576C3FDF"
-				"size" "470AA64904AA34855962AE49F73739BA"
-				"download" "B5752D6102B9C8BE6A3716976CDA4109"
-			}
 			"steamreview"
 			{
 				"gid" "0D50CB7030641F9E0E73784F7A97BDCD"
@@ -324,6 +318,12 @@
 				"gid" "62D048927ED320C2E11134689AE48960"
 				"size" "7F6AC46E82AB77BA80FF9EEB609AF88C"
 				"download" "8F31504A6D8F2034F002A49524492B71"
+			}
+			"internal2"
+			{
+				"gid" "4B8CC5879AF8994A9F6B3E39B84EE006"
+				"size" "39AFEFDCD08A067011C80F8FC5CDE1C2"
+				"download" "36D44880BF795E8F362E45D42B9799D3"
 			}
 			"publicbeta"
 			{
@@ -344,19 +344,13 @@
 		{
 			"public"
 			{
-				"gid" "6187114284910956237"
-				"size" "76547229"
-				"download" "17600032"
+				"gid" "3247109929596794978"
+				"size" "76547214"
+				"download" "17604624"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"internal2"
-			{
-				"gid" "E6C2C1E164D227B36FC0A9218C095BC7"
-				"size" "853A6AB37F115AB3BCA77BF97A7A524C"
-				"download" "80D202C2B51FF094E6ECCF816706ECA0"
-			}
 			"steamreview"
 			{
 				"gid" "69268A9C4478519EC28CB69E170AFC1C"
@@ -375,6 +369,12 @@
 				"size" "E89406414ECE285BA00FF2EEE97CA895"
 				"download" "C9D6D4BB1B37BB8DD0A49E9CEC9698AC"
 			}
+			"internal2"
+			{
+				"gid" "76643B6FC4B9593D251F79919CFE5231"
+				"size" "8A92D0A3D68B19F7E9FC4B811AD9CCB2"
+				"download" "5607758FAE53FE2D1CE7F4697011548A"
+			}
 			"publicbeta"
 			{
 				"gid" "147168E7CD6B172549873F71602F2C4F"
@@ -389,19 +389,13 @@
 		{
 			"public"
 			{
-				"gid" "7076144878198891350"
-				"size" "45180"
-				"download" "16048"
+				"gid" "6405887654641615270"
+				"size" "46179"
+				"download" "16336"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"internal2"
-			{
-				"gid" "C95EC78805B0DFD2BDCCB15F1EAC7157"
-				"size" "6AE0EC501A64631C78820A8E71B748D4"
-				"download" "D22C1822A2BAB3DDE77516277DC010D1"
-			}
 			"steamreview"
 			{
 				"gid" "C9764A7DB246452FD28A3F08F520F9F6"
@@ -420,6 +414,12 @@
 				"size" "A4BB1C421D8759675E7E415465DBA05D"
 				"download" "CEAE088E8733591BCEBBFD15F1CE209B"
 			}
+			"internal2"
+			{
+				"gid" "A106C3612D6BE99C1D7DD8AB19F0F87D"
+				"size" "6C76708D22619563C0458DD256770CDF"
+				"download" "BC723260D0F0157BD7782B57D83195AE"
+			}
 			"publicbeta"
 			{
 				"gid" "7564560765302176E1403ECE12C038F7"
@@ -434,19 +434,13 @@
 		{
 			"public"
 			{
-				"gid" "5002014144867077589"
-				"size" "397193044"
-				"download" "52133552"
+				"gid" "7253367243269588680"
+				"size" "398285668"
+				"download" "52864432"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"internal2"
-			{
-				"gid" "BA40FEAFE6E563DEF7DFEBE7B8CC872D"
-				"size" "535FE325B1CD29101E33FDF9B5687B84"
-				"download" "FB3765CF5F5C66293E0141B828FA775A"
-			}
 			"steamreview"
 			{
 				"gid" "2557CD5CBB26DDDD93ABBEA1B50BFF20"
@@ -465,6 +459,12 @@
 				"size" "B1C5EF2082DAA2291B1F6F3C04223722"
 				"download" "DA9BBB5EBA16641D4F1D9DFF4880ECC7"
 			}
+			"internal2"
+			{
+				"gid" "DDD29A1D760CDEBA96CDFC98A5F04280"
+				"size" "C3BFD729489FC491910D83F74ACA36A5"
+				"download" "40F63EC27A97AE6CED3DCE92EC6EB5FD"
+			}
 			"publicbeta"
 			{
 				"gid" "E69C766B01926545AB2A4778A327C67B"
@@ -479,19 +479,13 @@
 		{
 			"public"
 			{
-				"gid" "4983935842485922746"
-				"size" "3454891749"
-				"download" "1937131776"
+				"gid" "4578871951032331186"
+				"size" "3476648165"
+				"download" "1956742608"
 			}
 		}
 		"encryptedmanifests"
 		{
-			"internal2"
-			{
-				"gid" "42B39538E4EA655930466BFB0E992B80"
-				"size" "BADD5E950F2BF1533656C5DEA2536994"
-				"download" "C00441559EC5E47C316AAB70E7F4E0A3"
-			}
 			"steamreview"
 			{
 				"gid" "F78A1943955E6DF948065D4CFA42E8B9"
@@ -510,6 +504,12 @@
 				"size" "1B28DFD9D1A721E7EE65E7B32C1A72CE"
 				"download" "8968CF2105D48482CA785DFCA951EB6D"
 			}
+			"internal2"
+			{
+				"gid" "1342DAEFAA6ACEAEFF23C9E093D0E61B"
+				"size" "4CBFD2CE7E3EC28A328862DFD68E6489"
+				"download" "C775B2C32E3C9DC7740ABADAB6D282C4"
+			}
 			"publicbeta"
 			{
 				"gid" "96A19F1D5FE12170BD42B79FDD15284B"
@@ -522,14 +522,8 @@
 	{
 		"public"
 		{
-			"buildid" "15769218"
-			"timeupdated" "1727087924"
-		}
-		"internal2"
-		{
-			"buildid" "13676428"
-			"pwdrequired" "1"
-			"timeupdated" "1709864185"
+			"buildid" "16066328"
+			"timeupdated" "1730215167"
 		}
 		"steamreview"
 		{
@@ -549,6 +543,12 @@
 			"pwdrequired" "1"
 			"timeupdated" "1729085593"
 		}
+		"internal2"
+		{
+			"buildid" "15996149"
+			"pwdrequired" "1"
+			"timeupdated" "1730121962"
+		}
 		"publicbeta"
 		{
 			"buildid" "16066328"
@@ -563,6 +563,6 @@
 	"maxnumfiles" "1000"
 }
 "_missing_token" "False"
-"_change_number" "25818286"
-"_sha" "3c9c19d65c2c8fe346c3cc203989f8394bef723f"
+"_change_number" "25953455"
+"_sha" "929dc7810e1fb9e05b88231eb6a196d089883ebd"
 "_size" "11527"
