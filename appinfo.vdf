@@ -4,8 +4,8 @@
 	"name" "ChillPulse"
 	"type" "Game"
 	"icon" "0e4cc273ff0c45b066706cd2183528854e8f3fc3"
-	"clienticon" "6767f9f2c861df7dfe6d55467ca7723a9009dce4"
-	"clienttga" "4fb3d34f944b107af391b4af6aba116271ccbdfd"
+	"clienticon" "4419335d2c3f786802abfcdbd7568a0d1636adeb"
+	"clienttga" "df4462c06d80366a3129f0a26cb10f6a0a7507bd"
 	"oslist" "windows,macos"
 	"osarch" ""
 	"osextended" "macos64,macosapplesilicon,macosnotarized"
@@ -20,6 +20,7 @@
 		"schinese" "1"
 		"japanese" "1"
 	}
+	"clienticns" "1c28eeea7da58a925952b1a9da0f78977e3eb4bd"
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -136,7 +137,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1729711154"
+	"store_asset_mtime" "1730670194"
 	"associations"
 	{
 		"0"
@@ -229,8 +230,8 @@
 		"1" "87"
 		"2" "599"
 		"3" "1698"
-		"4" "9551"
-		"5" "615955"
+		"4" "615955"
+		"5" "9551"
 		"6" "3964"
 		"7" "1036"
 		"8" "3799"
@@ -291,9 +292,9 @@
 		{
 			"public"
 			{
-				"gid" "1886282218515356850"
-				"size" "273372421"
-				"download" "248209120"
+				"gid" "3327716098715671182"
+				"size" "273346309"
+				"download" "248183008"
 			}
 		}
 	}
@@ -307,9 +308,9 @@
 		{
 			"public"
 			{
-				"gid" "5256898420430204942"
-				"size" "295747282"
-				"download" "254469424"
+				"gid" "8921920710190701378"
+				"size" "294570850"
+				"download" "253268528"
 			}
 		}
 	}
@@ -317,8 +318,8 @@
 	{
 		"public"
 		{
-			"buildid" "16258472"
-			"timeupdated" "1730418027"
+			"buildid" "16281711"
+			"timeupdated" "1730671854"
 		}
 	}
 }
@@ -355,6 +356,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25998486"
-"_sha" "caaade54b569b319aa4fcf9d72df09d633073db2"
-"_size" "5901"
+"_change_number" "26029479"
+"_sha" "018bb4591f63b1cce331cb2d10ecf601302b87a1"
+"_size" "5960"
