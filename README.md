@@ -1,18 +1,21 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-05 00:28:12
+## 更新时间：2024-11-05 09:45:57
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 440900 | Conan Exiles| Game |
-| 730 | Counter-Strike 2| Game |
-| 1274570 | DEVOUR| Game |
-| 1948280 | Stacklands| Game |
-| 700580 | Rust - Staging Branch| Game |
-| 1121640 | 漂泊牧歌 (The Wandering Village)| Game |
-| 17390 | Spore| game |
-| 1003890 | 黑猫侦探：深入本质| Game |
-| 222750 | Wargame: AirLand Battle| Game |
-| 526870 | 幸福工厂| Game |
-| 1690800 | Satisfactory Dedicated Server| Tool |
-| 2361680 | 刀剑江湖路| Game |
-| 1206200 | Conan Exiles: Isle of Siptah| DLC |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
+| 222860 | Left 4 Dead 2 Dedicated Server| Tool |
+| 3168260 | 黑荆棘角斗场：重铸版| Game |
+| 413150 | Stardew Valley| Game |
+| 1158310 | Crusader Kings III| Game |
+| 1938090 | 使命召唤®| Game |
+| 632360 | 雨中冒险 2| Game |
+| 242840 | In Verbis Virtus| Game |
+| 734880 | A Hat in Time - Modding Tools| Tool |
+| 2208570 | 劫盗惊魂夜| Game |
+| 2440510 | Forza Motorsport 极限竞速| Game |
+| 1169040 | 奈斯启示录 Necesse| Game |
+| 770810 | 可口的披萨，美味的披萨| Game |
+| 440 | Team Fortress 2| game |
+| 2719030 | 超级键盘侠| Game |
+| 2478970 | Tomb Raider I-III Remastered Starring Lara Croft| Game |
