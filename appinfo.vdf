@@ -348,7 +348,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "84"
 }
 "extended"
 {
@@ -385,9 +385,18 @@
 		{
 			"public"
 			{
-				"gid" "2443378013768145187"
-				"size" "6464750590"
-				"download" "2528800640"
+				"gid" "947562930323275393"
+				"size" "6466544092"
+				"download" "2529075184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"redaxegames-dev"
+			{
+				"gid" "FF54F9A87F937A050EF9CE5AAF0F8AB8"
+				"size" "0795A72E079E5DF045A4343B1A1094E2"
+				"download" "D524215877995A9C9D06267B979DCCED"
 			}
 		}
 	}
@@ -395,8 +404,14 @@
 	{
 		"public"
 		{
-			"buildid" "16265697"
-			"timeupdated" "1730473337"
+			"buildid" "16288080"
+			"timeupdated" "1730731169"
+		}
+		"redaxegames-dev"
+		{
+			"buildid" "16288080"
+			"pwdrequired" "1"
+			"timeupdated" "1730728788"
 		}
 	}
 }
@@ -419,6 +434,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26012848"
-"_sha" "580a94102942867f8732c744f950b974266a48e4"
-"_size" "9747"
+"_change_number" "26038508"
+"_sha" "804458d82af9930b49c343f61d3281c6dced3707"
+"_size" "10073"
