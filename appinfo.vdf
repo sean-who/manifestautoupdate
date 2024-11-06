@@ -147,7 +147,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726632064"
+	"store_asset_mtime" "1730801567"
 	"associations"
 	{
 		"0"
@@ -190,6 +190,9 @@
 		"category_23" "1"
 		"category_22" "1"
 		"category_15" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -239,6 +242,8 @@
 }
 "extended"
 {
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,huntertest,huntertest_online,internaltest,media,qatest"
 	"developer" "Hunter Studio"
 	"publisher" "Hunter Studio"
 }
@@ -274,9 +279,9 @@
 		{
 			"public"
 			{
-				"gid" "1951204672614981056"
-				"size" "967589091"
-				"download" "678356880"
+				"gid" "7015986687204009877"
+				"size" "1040461950"
+				"download" "721648832"
 			}
 			"demo"
 			{
@@ -287,6 +292,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"debug"
+			{
+				"gid" "19D0EF557EA207D649F5E7067807AA4C"
+				"size" "51260E3B7D9EA788E6DF374D5E89EA2E"
+				"download" "B83A7EA7A975E1A3D936C68BC2005612"
+			}
 			"exhibition"
 			{
 				"gid" "27B4802D9D78E8ABA20B4545F5820955"
@@ -307,15 +318,21 @@
 			}
 			"huntertest_online"
 			{
-				"gid" "3C569F61A4BF0D9E24F88504C6B919A2"
-				"size" "3D6E1CD2D3BE5790B6B1DCE06C6B0427"
-				"download" "6D38DDBDB2CD4087B746423E2F2484A3"
+				"gid" "A6F2170E5982E2D898E461FE8B8C31BF"
+				"size" "D58A8EC8396E6A5C1D1ACFBA8DE4A202"
+				"download" "7317B52986F753EED72F6D7291FA7EEC"
 			}
 			"internaltest"
 			{
-				"gid" "33EF2F7A25AE4700E78F068059A43DE9"
-				"size" "15B2CBFCFC36899DA2815370414649AA"
-				"download" "07F3697303B6158668E3A9E3955B67A5"
+				"gid" "3ACC4FA7C00317C0DD61ABD6DD3064B3"
+				"size" "FD57369AEAAF93DE0D9912F7651EC6F7"
+				"download" "A2417293FBFCDD98835C7A6C3FE95C03"
+			}
+			"media"
+			{
+				"gid" "6D6B1CB9D590CAA5962A0384205F4279"
+				"size" "8FCB0D153B1BDCC23C3F079D6ED5E736"
+				"download" "0984AF5781187ABF626B92A59C5C3D2D"
 			}
 			"qatest"
 			{
@@ -341,9 +358,9 @@
 		{
 			"public"
 			{
-				"gid" "504832063357864728"
-				"size" "967589091"
-				"download" "678362784"
+				"gid" "7707480016845074927"
+				"size" "1040461950"
+				"download" "721668384"
 			}
 			"demo"
 			{
@@ -354,6 +371,12 @@
 		}
 		"encryptedmanifests"
 		{
+			"debug"
+			{
+				"gid" "7C2A34E162050C3490DE334FA031DDB7"
+				"size" "51260E3B7D9EA788E6DF374D5E89EA2E"
+				"download" "72EEB5D2DF490A0012B47922D26E7A32"
+			}
 			"exhibition"
 			{
 				"gid" "577D3BBEB6FC516FDBA57D9E7EC78D07"
@@ -374,15 +397,21 @@
 			}
 			"huntertest_online"
 			{
-				"gid" "5AF7107BE0CA303A847AB061039F2848"
-				"size" "3D6E1CD2D3BE5790B6B1DCE06C6B0427"
-				"download" "192A2EDA5218D7F5D2B991AA826D03E9"
+				"gid" "104968EC40E08572E7EEC8D358BF9ED3"
+				"size" "D58A8EC8396E6A5C1D1ACFBA8DE4A202"
+				"download" "8C1C4F15B47EA6F10573C61D8669411F"
 			}
 			"internaltest"
 			{
-				"gid" "942CB89F634412DEE994F0F1DD3664CE"
-				"size" "15B2CBFCFC36899DA2815370414649AA"
-				"download" "5E15723803E02F90425A2123031BCEEF"
+				"gid" "CC4ED81D1AA946650A5F7104F4CDB78C"
+				"size" "FD57369AEAAF93DE0D9912F7651EC6F7"
+				"download" "CC812ADF294896F20E5DAB48A36F7255"
+			}
+			"media"
+			{
+				"gid" "089D0A9849B9074C7976BE5B97FC5FC3"
+				"size" "8FCB0D153B1BDCC23C3F079D6ED5E736"
+				"download" "F12D2984A11FB99F7A8E85691FF2DAF4"
 			}
 			"qatest"
 			{
@@ -402,8 +431,14 @@
 	{
 		"public"
 		{
-			"buildid" "15833529"
-			"timeupdated" "1727418586"
+			"buildid" "16309370"
+			"timeupdated" "1730865523"
+		}
+		"debug"
+		{
+			"buildid" "16248991"
+			"pwdrequired" "1"
+			"timeupdated" "1730365238"
 		}
 		"demo"
 		{
@@ -431,15 +466,21 @@
 		}
 		"huntertest_online"
 		{
-			"buildid" "15833529"
+			"buildid" "16309370"
 			"pwdrequired" "1"
-			"timeupdated" "1727348997"
+			"timeupdated" "1730863953"
 		}
 		"internaltest"
 		{
-			"buildid" "15822984"
+			"buildid" "16303322"
 			"pwdrequired" "1"
-			"timeupdated" "1727271000"
+			"timeupdated" "1730824478"
+		}
+		"media"
+		{
+			"buildid" "16309370"
+			"pwdrequired" "1"
+			"timeupdated" "1730865562"
 		}
 		"qatest"
 		{
@@ -460,3 +501,7 @@
 	"quota" "1000000000"
 	"maxnumfiles" "20"
 }
+"_missing_token" "False"
+"_change_number" "26068239"
+"_sha" "59ee10cc3b690a6e591bf95ca66b1dc330e5e585"
+"_size" "10250"
