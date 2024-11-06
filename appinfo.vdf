@@ -354,9 +354,9 @@
 		{
 			"public"
 			{
-				"gid" "1466909916589460396"
-				"size" "86752385"
-				"download" "17454336"
+				"gid" "7684456207223563133"
+				"size" "87020673"
+				"download" "17462064"
 			}
 			"v1.9.7.7"
 			{
@@ -402,9 +402,9 @@
 			}
 			"testversion"
 			{
-				"gid" "1466909916589460396"
-				"size" "86752385"
-				"download" "17454336"
+				"gid" "7684456207223563133"
+				"size" "87020673"
+				"download" "17462064"
 			}
 			"v1.9.9.8"
 			{
@@ -418,8 +418,8 @@
 	{
 		"public"
 		{
-			"buildid" "16222397"
-			"timeupdated" "1730211489"
+			"buildid" "16313638"
+			"timeupdated" "1730893340"
 		}
 		"v1.9.7.7"
 		{
@@ -473,9 +473,9 @@
 		"testversion"
 		{
 			"sc_schinese" "新版本测试通道 1.9.9.9"
-			"buildid" "16222397"
+			"buildid" "16313638"
 			"description" "new version test 1.9.9.9"
-			"timeupdated" "1730211460"
+			"timeupdated" "1730893291"
 		}
 		"v1.9.9.8"
 		{
@@ -492,6 +492,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "25952442"
-"_sha" "b68dbc4621074479e9f5a975b1937baab2e3d54f"
+"_change_number" "26070775"
+"_sha" "902af46fe1088902b51bdb24c175de0154b74a32"
 "_size" "8661"
