@@ -196,8 +196,8 @@
 	"store_tags"
 	{
 		"0" "9"
-		"1" "3959"
-		"2" "220585"
+		"1" "220585"
+		"2" "3959"
 		"3" "3834"
 		"4" "1645"
 		"5" "3798"
@@ -275,15 +275,15 @@
 		{
 			"public"
 			{
-				"gid" "7837474812740757112"
-				"size" "1045381480"
-				"download" "822806256"
-			}
-			"testing"
-			{
 				"gid" "3457936012464465940"
 				"size" "1043359328"
 				"download" "821393072"
+			}
+			"testing"
+			{
+				"gid" "7837474812740757112"
+				"size" "1045381480"
+				"download" "822806256"
 			}
 		}
 		"encryptedmanifests"
@@ -310,8 +310,8 @@
 	{
 		"public"
 		{
-			"buildid" "16081081"
-			"timeupdated" "1729177668"
+			"buildid" "16049946"
+			"timeupdated" "1730798759"
 		}
 		"early_acess_test"
 		{
@@ -327,9 +327,9 @@
 		}
 		"testing"
 		{
-			"buildid" "16049946"
+			"buildid" "16081081"
 			"description" "Public testing of a new version"
-			"timeupdated" "1728987042"
+			"timeupdated" "1730798796"
 		}
 	}
 }
@@ -339,6 +339,6 @@
 	"maxnumfiles" "9999"
 }
 "_missing_token" "False"
-"_change_number" "25769319"
-"_sha" "a426fd101c781da74e34df90c29387cabcd11a9c"
+"_change_number" "26051465"
+"_sha" "d7c2705827098571538e5e4f3bcf18cb641776ea"
 "_size" "5727"
