@@ -113,7 +113,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730112487"
+	"store_asset_mtime" "1730738503"
 	"associations"
 	{
 		"0"
@@ -218,18 +218,18 @@
 		{
 			"public"
 			{
-				"gid" "3388285775226728992"
-				"size" "16041116183"
-				"download" "13366717184"
+				"gid" "2312256983127296796"
+				"size" "16642954371"
+				"download" "13929819328"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"playertest"
 			{
-				"gid" "8A3E9EB900A137843970413F0D396ADF"
-				"size" "E1D311A937B2972431171E9CDC64E45E"
-				"download" "041414EBD0A5F2EAA3600493BDE43793"
+				"gid" "A031EA6FF02DA38C7E6D3C02513B5873"
+				"size" "CB4AB70DBAC6BEB6305D2B56942F680B"
+				"download" "7D9E6EAAA2C27355EAD811E5D8D660C7"
 			}
 			"qianjinxian"
 			{
@@ -239,15 +239,15 @@
 			}
 			"steam_china_only"
 			{
-				"gid" "7A726C9B5407139D2B37686EF52129DF"
-				"size" "F69F06977254C70861A2083E8DC214B8"
-				"download" "69D045A2833F089CDE58AF131A5D8E2A"
+				"gid" "346CC30C071444156F38A0D30053C125"
+				"size" "97C86897102C41FF0DD5B6F5C04F4C28"
+				"download" "3A63689E0921F3C654DB5673056748C6"
 			}
 			"test"
 			{
-				"gid" "8C14A9B3D8FFC8FAC6D13CF42C170918"
-				"size" "A4986315E519F223B38CF1ACABC7C0A4"
-				"download" "6FE25157CCBAA673CB0F256267F3949A"
+				"gid" "E9666EE8F39AFA75000A546F9EC64445"
+				"size" "A381A45E293EA522714F23FF1BF3FE70"
+				"download" "6CECDF84C3DEE2B9FB698CCD95882995"
 			}
 		}
 	}
@@ -295,15 +295,15 @@
 	{
 		"public"
 		{
-			"buildid" "16235158"
-			"timeupdated" "1730289807"
+			"buildid" "16325578"
+			"timeupdated" "1730978682"
 		}
 		"playertest"
 		{
 			"sc_schinese" "对外测试"
-			"buildid" "16235158"
+			"buildid" "16313648"
 			"pwdrequired" "1"
-			"timeupdated" "1730284932"
+			"timeupdated" "1730893371"
 		}
 		"qianjinxian"
 		{
@@ -315,20 +315,20 @@
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "16235158"
+			"buildid" "16325578"
 			"pwdrequired" "1"
-			"timeupdated" "1730289443"
+			"timeupdated" "1730978664"
 		}
 		"test"
 		{
 			"sc_schinese" "Steam China test"
-			"buildid" "16235158"
+			"buildid" "16325578"
 			"pwdrequired" "1"
-			"timeupdated" "1730284941"
+			"timeupdated" "1730973377"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "25969437"
-"_sha" "473c56031fcb185ba6316dc045bb130ae68bf414"
+"_change_number" "26088210"
+"_sha" "829ca61e83cb38eaad5f417ea73a5898a8d796bc"
 "_size" "6845"
