@@ -149,12 +149,12 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "CFK Co., Ltd."
+			"name" "Starlike Inc."
 		}
 		"2"
 		{
 			"type" "franchise"
-			"name" "CFK Co., Ltd."
+			"name" "Starlike Inc."
 		}
 	}
 	"primary_genre" "1"
@@ -224,8 +224,7 @@
 "extended"
 {
 	"developer" "Starlike Inc."
-	"publisher" "CFK Co., Ltd."
-	"homepage" "https://www.cfk.kr/sixtargate/"
+	"publisher" "Starlike Inc."
 	"listofdlc" "1986060,2148660,2197460,2447170,2648850,2648860,2712520,2766750,2909210"
 	"dlcavailableonstore" "1"
 }
@@ -253,9 +252,9 @@
 		{
 			"public"
 			{
-				"gid" "2679393150660230145"
-				"size" "10895029439"
-				"download" "8883588944"
+				"gid" "6154024829490278341"
+				"size" "10856811705"
+				"download" "8902855312"
 			}
 		}
 		"encryptedmanifests"
@@ -268,9 +267,9 @@
 			}
 			"renewal"
 			{
-				"gid" "05AA85DB89F91F0B2FF8CA2D5D4393CE"
-				"size" "68474E39A8C8708DD082346149BB2702"
-				"download" "E5CE89597948402E0637792860755F47"
+				"gid" "65DAEFC23B29E2008EFCA13A8478BCB7"
+				"size" "85E0434E10A7131700FEAB0DA5833D70"
+				"download" "3C540DEE6ADE78D08E64B6451112BE19"
 			}
 			"sixtartest"
 			{
@@ -284,8 +283,8 @@
 	{
 		"public"
 		{
-			"buildid" "16246334"
-			"timeupdated" "1730354544"
+			"buildid" "16323599"
+			"timeupdated" "1730960497"
 		}
 		"dispose"
 		{
@@ -295,9 +294,9 @@
 		}
 		"renewal"
 		{
-			"buildid" "16246334"
+			"buildid" "16323599"
 			"pwdrequired" "1"
-			"timeupdated" "1730344064"
+			"timeupdated" "1730959672"
 		}
 		"sixtartest"
 		{
@@ -322,6 +321,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25983708"
-"_sha" "8bfc77a15258d20a99767e40e7d274d66af09da2"
-"_size" "6022"
+"_change_number" "26084275"
+"_sha" "9970e484dbbe4deaf40e77ba6fb1097d9cd8ffc0"
+"_size" "5975"
