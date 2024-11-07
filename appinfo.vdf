@@ -274,18 +274,24 @@
 		{
 			"public"
 			{
-				"gid" "3607264559036402419"
-				"size" "20757618492"
-				"download" "14024996448"
+				"gid" "7441309770778184002"
+				"size" "20757624638"
+				"download" "14024971456"
+			}
+			"opentest"
+			{
+				"gid" "8262474364291045931"
+				"size" "20769551409"
+				"download" "14065006384"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "9154E0E8E3DC30AB1A698848E72FB076"
-				"size" "89C517B339FD8C399F3D4AC3B65098AA"
-				"download" "868AABF5D176AB83757FB9139605DB59"
+				"gid" "C296A46D1E722B955B57329C2E55A8CA"
+				"size" "43B89481DA3F3365A528C5E9080766D7"
+				"download" "CDB31F3B118DF4B609736F58D179792E"
 			}
 			"gamedev"
 			{
@@ -311,20 +317,26 @@
 	{
 		"public"
 		{
-			"buildid" "16269911"
-			"timeupdated" "1730499370"
+			"buildid" "16315498"
+			"timeupdated" "1730907426"
 		}
 		"developer"
 		{
-			"buildid" "16269911"
+			"buildid" "16328950"
 			"pwdrequired" "1"
-			"timeupdated" "1730498974"
+			"timeupdated" "1730990532"
 		}
 		"gamedev"
 		{
 			"buildid" "16085712"
 			"pwdrequired" "1"
 			"timeupdated" "1729191929"
+		}
+		"opentest"
+		{
+			"buildid" "16328950"
+			"description" "Public Open Testing"
+			"timeupdated" "1730990611"
 		}
 		"nodecraft"
 		{
@@ -341,6 +353,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26014008"
-"_sha" "8ed3e46f56d7150dda165cda5e6c646892136b93"
-"_size" "6496"
+"_change_number" "26091001"
+"_sha" "7bcea7d022f3ff2a27ef3cd677ebc4aa69428011"
+"_size" "6738"
