@@ -10,6 +10,11 @@
 	"oslist" "windows"
 	"osarch" ""
 	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+	}
 	"steam_deck_compatibility"
 	{
 		"category" "2"
@@ -59,6 +64,8 @@
 			"hdr_support" "0"
 		}
 	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
 	"small_capsule"
 	{
 		"english" "capsule_231x87.jpg"
@@ -121,7 +128,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1709475215"
+	"store_asset_mtime" "1731005300"
 	"associations"
 	{
 		"0"
@@ -147,6 +154,8 @@
 		"category_2" "1"
 		"category_23" "1"
 		"category_22" "1"
+		"category_18" "1"
+		"category_55" "1"
 		"category_62" "1"
 	}
 	"supported_languages"
@@ -170,13 +179,13 @@
 	{
 		"0" "14139"
 		"1" "12472"
-		"2" "4747"
-		"3" "10695"
+		"2" "10695"
+		"3" "4747"
 		"4" "122"
 		"5" "3871"
-		"6" "492"
-		"7" "1741"
-		"8" "4085"
+		"6" "1741"
+		"7" "4085"
+		"8" "492"
 		"9" "1720"
 		"10" "6815"
 		"11" "1684"
@@ -187,10 +196,10 @@
 		"16" "1708"
 		"17" "21725"
 		"18" "17305"
-		"19" "1646"
+		"19" "3916"
 	}
 	"review_score" "9"
-	"review_percentage" "96"
+	"review_percentage" "97"
 }
 "extended"
 {
@@ -211,6 +220,8 @@
 			}
 		}
 	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
 }
 "depots"
 {
@@ -224,39 +235,27 @@
 		{
 			"public"
 			{
-				"gid" "6646286089867063901"
-				"size" "3256496907"
-				"download" "1027772960"
-			}
-			"p1-3"
-			{
-				"gid" "7951634959964405073"
-				"size" "3256379822"
-				"download" "1026156400"
-			}
-			"p1-31"
-			{
-				"gid" "3240380152409715921"
-				"size" "3256469487"
-				"download" "1026078624"
-			}
-			"p1-32"
-			{
-				"gid" "2719289199800645053"
-				"size" "3256122793"
-				"download" "1026514048"
-			}
-			"p1-33"
-			{
-				"gid" "2893734548463490381"
-				"size" "3256275415"
-				"download" "1027729472"
+				"gid" "4912357685345954618"
+				"size" "3278540474"
+				"download" "1033931104"
 			}
 			"p1-34"
 			{
 				"gid" "8014511566073777027"
 				"size" "3256494841"
 				"download" "1027781392"
+			}
+			"p1-35"
+			{
+				"gid" "6646286089867063901"
+				"size" "3256496907"
+				"download" "1027772960"
+			}
+			"p1-4beta"
+			{
+				"gid" "4912357685345954618"
+				"size" "3278540474"
+				"download" "1033931104"
 			}
 		}
 		"encryptedmanifests"
@@ -266,6 +265,12 @@
 				"gid" "974A076709A8A8B5A423138C7F424F2F"
 				"size" "CEDD92A97EC59BAF470C38570B9FE9E5"
 				"download" "D5A363C001822DA84991A8665C6F1BF0"
+			}
+			"controllersupport"
+			{
+				"gid" "2BA0FFC93BCC3F58FB297BB322180127"
+				"size" "767CA42A4D5BF1398180099899C7656C"
+				"download" "0314D9723B6F7BD52FBB24C58A9EC538"
 			}
 			"localizationbuild"
 			{
@@ -279,8 +284,8 @@
 	{
 		"public"
 		{
-			"buildid" "15944966"
-			"timeupdated" "1728222943"
+			"buildid" "16327167"
+			"timeupdated" "1730981447"
 		}
 		"achievementtest-branch"
 		{
@@ -288,41 +293,35 @@
 			"pwdrequired" "1"
 			"timeupdated" "1728219033"
 		}
+		"controllersupport"
+		{
+			"buildid" "16327167"
+			"pwdrequired" "1"
+			"timeupdated" "1730981262"
+		}
 		"localizationbuild"
 		{
 			"buildid" "15889464"
 			"pwdrequired" "1"
 			"timeupdated" "1727790675"
 		}
-		"p1-3"
-		{
-			"buildid" "15250351"
-			"description" "Patch 1.3"
-			"timeupdated" "1722903185"
-		}
-		"p1-31"
-		{
-			"buildid" "15269759"
-			"description" "Patch 1.31"
-			"timeupdated" "1723472068"
-		}
-		"p1-32"
-		{
-			"buildid" "15381610"
-			"description" "Patch 1.32"
-			"timeupdated" "1723906205"
-		}
-		"p1-33"
-		{
-			"buildid" "15421765"
-			"description" "Patch 1.33"
-			"timeupdated" "1724595374"
-		}
 		"p1-34"
 		{
 			"buildid" "15516914"
 			"description" "Patch 1.34"
 			"timeupdated" "1725198992"
+		}
+		"p1-35"
+		{
+			"buildid" "15944966"
+			"description" "Patch 1.35"
+			"timeupdated" "1730925532"
+		}
+		"p1-4beta"
+		{
+			"buildid" "16327167"
+			"description" "Patch 1.4 Beta Controllersupport"
+			"timeupdated" "1730981249"
 		}
 	}
 }
@@ -344,3 +343,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26094963"
+"_sha" "53b71780e5ef87c7ccb76aafe4515e6f6429dd19"
+"_size" "6303"
