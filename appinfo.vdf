@@ -31,7 +31,7 @@
 	}
 	"library_assets"
 	{
-		"library_capsule" "en,zh-cn,zh-tw"
+		"library_capsule" "zh-tw,zh-cn,en"
 		"library_hero" "en,zh-cn,zh-tw"
 		"library_logo" "zh-cn,en,zh-tw"
 		"library_header" "en,zh-cn,zh-tw"
@@ -48,14 +48,14 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
-				"schinese" "library_600x900_schinese.jpg"
 				"tchinese" "library_600x900_tchinese.jpg"
+				"schinese" "e16ef72cd68844abbf2979ea192550d55015da56/library_600x900_schinese.jpg"
+				"english" "40490d5d1f9b2976114d6c820c38f91e3f1143cc/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
-				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "40490d5d1f9b2976114d6c820c38f91e3f1143cc/library_600x900_2x.jpg"
+				"schinese" "e16ef72cd68844abbf2979ea192550d55015da56/library_600x900_schinese_2x.jpg"
 				"tchinese" "library_600x900_tchinese_2x.jpg"
 			}
 		}
@@ -105,7 +105,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1728881611"
+	"store_asset_mtime" "1731052692"
 	"associations"
 	{
 		"0"
@@ -192,7 +192,7 @@
 		"0"
 		{
 			"executable" "daojianjianghulu.exe"
-			"arguments" "hualong197_xgedf432wasddfs_hualong777"
+			"arguments" "hualong197_xgedf432wasddfs_hualong888"
 		}
 	}
 	"steamcontrollertemplateindex" "4"
@@ -212,9 +212,9 @@
 		{
 			"public"
 			{
-				"gid" "8743812931547690439"
-				"size" "9841414095"
-				"download" "3971790816"
+				"gid" "5716135682907849218"
+				"size" "9874696667"
+				"download" "3996990240"
 			}
 		}
 		"encryptedmanifests"
@@ -233,9 +233,9 @@
 			}
 			"neibucheshi_2"
 			{
-				"gid" "4187B312C8B03FF0CFAB2EAFDC1EDEA1"
-				"size" "B8CE0C86A00199DA81A9A4E50910729B"
-				"download" "608DE1A442183303687F7DD02A58D084"
+				"gid" "00C50FE3CEF8D3D41D489E56C9D099BF"
+				"size" "9234E8167F64EDE8A1221029D4CA0641"
+				"download" "1C4BEBD64443928CA2B448D6C1B7FC10"
 			}
 		}
 	}
@@ -250,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "8221677481033190861"
-				"size" "9841415043"
-				"download" "3971406416"
+				"gid" "2561172846131952003"
+				"size" "9874697615"
+				"download" "3996891472"
 			}
 		}
 		"encryptedmanifests"
@@ -271,9 +271,9 @@
 			}
 			"neibucheshi_2"
 			{
-				"gid" "618EDB77F96641290E541A46C49A9D58"
-				"size" "AC077671FA70B4A7E198D016B017E0E0"
-				"download" "C3054F3FA44F5515D2BF7FA613C066D2"
+				"gid" "15EC4CEFF8303F302096CD357BCA27C9"
+				"size" "FEC7B9B29C3F1B7F53FA4C7189DF23DF"
+				"download" "C4DFBA837D2171E9BE12A5D7F8E4D8B6"
 			}
 		}
 	}
@@ -281,8 +281,8 @@
 	{
 		"public"
 		{
-			"buildid" "16312780"
-			"timeupdated" "1730889239"
+			"buildid" "16340839"
+			"timeupdated" "1731064984"
 		}
 		"fantibanben"
 		{
@@ -298,9 +298,9 @@
 		}
 		"neibucheshi_2"
 		{
-			"buildid" "16311433"
+			"buildid" "16340002"
 			"pwdrequired" "1"
-			"timeupdated" "1730881904"
+			"timeupdated" "1731061352"
 		}
 	}
 }
@@ -319,6 +319,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26069902"
-"_sha" "e80e34d74f150ba1b1f44f493ce782aba62ea20a"
-"_size" "6274"
+"_change_number" "26106404"
+"_sha" "21f2e87e03567f75640d8801cad2bca4cd613c2c"
+"_size" "6438"
