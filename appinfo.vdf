@@ -312,9 +312,9 @@
 		{
 			"public"
 			{
-				"gid" "3987786547365098264"
-				"size" "7327956733"
-				"download" "6979572112"
+				"gid" "4637393454801687009"
+				"size" "7327622957"
+				"download" "6978878048"
 			}
 		}
 		"encryptedmanifests"
@@ -333,9 +333,9 @@
 			}
 			"playtest4"
 			{
-				"gid" "21E6EA8143F02A44AB3048D3448488A8"
-				"size" "F89C3E005600B7C404141714B18ACA86"
-				"download" "ED76DA68D399D6AA5F41A183F572F8F7"
+				"gid" "AFCAA91773A5E170F9B4FEF2A17CE7BE"
+				"size" "D951C53BECA551CC1808DE04EB32C922"
+				"download" "A511219798C629ADD25A34F628503260"
 			}
 			"playtestbossfight"
 			{
@@ -361,8 +361,8 @@
 	{
 		"public"
 		{
-			"buildid" "16313565"
-			"timeupdated" "1730917768"
+			"buildid" "16345213"
+			"timeupdated" "1731095331"
 		}
 		"demo"
 		{
@@ -378,9 +378,9 @@
 		}
 		"playtest4"
 		{
-			"buildid" "16313565"
+			"buildid" "16345213"
 			"pwdrequired" "1"
-			"timeupdated" "1730892815"
+			"timeupdated" "1731087894"
 		}
 		"playtestbossfight"
 		{
@@ -403,6 +403,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26076487"
-"_sha" "4e8d59bf3ae52e337216b3d398ccbde48f893b9b"
+"_change_number" "26114142"
+"_sha" "0d0897bc6ee38f5a6356547e6bb1137db03d21c6"
 "_size" "6808"
