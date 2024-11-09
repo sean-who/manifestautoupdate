@@ -127,7 +127,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1727975011"
+	"store_asset_mtime" "1730386172"
 	"associations"
 	{
 		"0"
@@ -261,7 +261,7 @@
 		"19" "4166"
 	}
 	"review_score" "6"
-	"review_percentage" "73"
+	"review_percentage" "72"
 }
 "extended"
 {
@@ -332,9 +332,9 @@
 		{
 			"public"
 			{
-				"gid" "6409854581277442769"
-				"size" "21672006798"
-				"download" "17814962800"
+				"gid" "3595568328286732206"
+				"size" "21672045077"
+				"download" "17814959536"
 			}
 			"version_1.51"
 			{
@@ -344,9 +344,9 @@
 			}
 			"insiders"
 			{
-				"gid" "6409854581277442769"
-				"size" "21672006798"
-				"download" "17814962800"
+				"gid" "3595568328286732206"
+				"size" "21672045077"
+				"download" "17814959536"
 			}
 		}
 		"encryptedmanifests"
@@ -359,15 +359,15 @@
 			}
 			"bamboo_publishing"
 			{
-				"gid" "46CA9AB438EFC412B5D7F03DFA60C099"
-				"size" "21452C71A158CD7BE99F4792D81C697D"
-				"download" "57EE4A70E343E76A8B5A8167EB617CEF"
+				"gid" "70C771397496C7EFBD652ECA4BACAA3B"
+				"size" "E44819A9ED9DC5BAD39010640BFE44D6"
+				"download" "F695ACF3C29850C80A56CC4C4AE9AE1B"
 			}
 			"gc4_mvp"
 			{
-				"gid" "977F6D7CA111B457FE97C23659FF2262"
-				"size" "B60DE4AE752A472FCEC6727C174C2D6A"
-				"download" "B0D35129E51BBB5D93FADB1433CF4D3D"
+				"gid" "D57D5C075B73FCDC97E5BCF41B73DDCB"
+				"size" "027E0E0A1E9859B4C71AA31EADB42BEF"
+				"download" "B2BE74E6EBE01D4F58084DB1B65F0E0D"
 			}
 			"press"
 			{
@@ -383,9 +383,9 @@
 			}
 			"qa_galciv4"
 			{
-				"gid" "B6482E256EAD1DED3218FA9FF9E2980B"
-				"size" "FBB195E155B4BDB4D47FD5D203EC1663"
-				"download" "DF0B827B2B0E43220D958DB212872A31"
+				"gid" "DCF6D92D0A04928A19CA8956CC44CFD2"
+				"size" "BCF5CD9B0F7A619B3BB0783033865639"
+				"download" "E4E59CFC25A22C21C8E08CA7F0C1E454"
 			}
 		}
 	}
@@ -456,8 +456,8 @@
 	{
 		"public"
 		{
-			"buildid" "15933492"
-			"timeupdated" "1728314313"
+			"buildid" "16328496"
+			"timeupdated" "1730991037"
 		}
 		"qa_postrelease"
 		{
@@ -473,21 +473,21 @@
 		}
 		"bamboo_publishing"
 		{
-			"buildid" "15933492"
+			"buildid" "16329444"
 			"pwdrequired" "1"
-			"timeupdated" "1728065889"
+			"timeupdated" "1730992989"
 		}
 		"gc4_mvp"
 		{
-			"buildid" "15933492"
+			"buildid" "16328496"
 			"pwdrequired" "1"
-			"timeupdated" "1728314326"
+			"timeupdated" "1730990888"
 		}
 		"insiders"
 		{
-			"buildid" "15933492"
+			"buildid" "16328496"
 			"description" "Explore experimental features and fixes"
-			"timeupdated" "1728314336"
+			"timeupdated" "1730990900"
 		}
 		"press"
 		{
@@ -503,9 +503,9 @@
 		}
 		"qa_galciv4"
 		{
-			"buildid" "15933492"
+			"buildid" "16329444"
 			"pwdrequired" "1"
-			"timeupdated" "1728065909"
+			"timeupdated" "1730993009"
 		}
 	}
 }
@@ -535,3 +535,7 @@
 		}
 	}
 }
+"_missing_token" "False"
+"_change_number" "26091628"
+"_sha" "49d2c634c7734e973bb48007f01d36bd251cbd9a"
+"_size" "10447"
