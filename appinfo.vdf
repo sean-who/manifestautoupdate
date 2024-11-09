@@ -318,9 +318,9 @@
 		{
 			"public"
 			{
-				"gid" "5198327062465053137"
-				"size" "11217559070"
-				"download" "4296960224"
+				"gid" "6214253341873239838"
+				"size" "11217559038"
+				"download" "4296961104"
 			}
 		}
 		"encryptedmanifests"
@@ -432,9 +432,9 @@
 		{
 			"public"
 			{
-				"gid" "3864963918311731823"
-				"size" "11217559070"
-				"download" "4299278448"
+				"gid" "7721699398654283847"
+				"size" "11217559038"
+				"download" "4299278864"
 			}
 		}
 		"encryptedmanifests"
@@ -481,8 +481,8 @@
 	{
 		"public"
 		{
-			"buildid" "16339060"
-			"timeupdated" "1731061162"
+			"buildid" "16344799"
+			"timeupdated" "1731090754"
 		}
 		"steam_china_only"
 		{
@@ -524,6 +524,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26111921"
-"_sha" "c3b4e27b4a6c41cceb07f7d4afe94e74158ec3da"
+"_change_number" "26113179"
+"_sha" "0ab84a59f21e48ee67be765a19377f5d8cc9fcc3"
 "_size" "10562"
