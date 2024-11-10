@@ -237,9 +237,9 @@
 		{
 			"public"
 			{
-				"gid" "936884217869962583"
-				"size" "21161036962"
-				"download" "9846217856"
+				"gid" "8157340144349542264"
+				"size" "21161038370"
+				"download" "9845751520"
 			}
 			"legacy_version"
 			{
@@ -249,9 +249,9 @@
 			}
 			"preview_version"
 			{
-				"gid" "936884217869962583"
-				"size" "21161036962"
-				"download" "9846217856"
+				"gid" "8157340144349542264"
+				"size" "21161038370"
+				"download" "9845751520"
 			}
 			"test_version"
 			{
@@ -270,9 +270,9 @@
 			}
 			"test_beta_final"
 			{
-				"gid" "DBAE054FF89FD3DD018EDA4A8F68C406"
-				"size" "735A7453A96E75E0717C2F3007A03DF4"
-				"download" "AFA91317E6FEEAC4FB0A2D0BF3367D24"
+				"gid" "7083A24E4D2EFE327766D413D8208B33"
+				"size" "4ADAE79AFDEF7034F007A54FDC5DADBF"
+				"download" "90429815034D92E36B406A598D53A253"
 			}
 		}
 	}
@@ -282,8 +282,8 @@
 	{
 		"public"
 		{
-			"buildid" "16337896"
-			"timeupdated" "1731152790"
+			"buildid" "16354468"
+			"timeupdated" "1731192310"
 		}
 		"steam_china_only"
 		{
@@ -301,15 +301,15 @@
 		}
 		"preview_version"
 		{
-			"buildid" "16337896"
+			"buildid" "16354468"
 			"description" "先锋版"
-			"timeupdated" "1731052505"
+			"timeupdated" "1731192282"
 		}
 		"test_beta_final"
 		{
-			"buildid" "16337896"
+			"buildid" "16354468"
 			"pwdrequired" "1"
-			"timeupdated" "1731048523"
+			"timeupdated" "1731190003"
 		}
 		"test_version"
 		{
@@ -325,6 +325,6 @@
 	"maxnumfiles" "10000"
 }
 "_missing_token" "False"
-"_change_number" "26121165"
-"_sha" "3d4a8f430c99a06bd9b72f739ce13f45a2d96b6e"
-"_size" "6152"
+"_change_number" "26125015"
+"_sha" "a23f5fb6edf076df71366a39985ed9d82975502f"
+"_size" "6154"
