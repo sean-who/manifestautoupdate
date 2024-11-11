@@ -260,8 +260,8 @@
 		"6" "9"
 		"7" "3859"
 		"8" "4345"
-		"9" "1678"
-		"10" "4667"
+		"9" "4667"
+		"10" "1678"
 		"11" "1774"
 		"12" "3810"
 		"13" "4175"
@@ -425,30 +425,30 @@
 		{
 			"public"
 			{
-				"gid" "3975175378030456573"
-				"size" "14755774980"
-				"download" "6491474784"
+				"gid" "3545362646551334886"
+				"size" "14757258460"
+				"download" "6492216784"
 			}
 			"console_crossplay"
 			{
-				"gid" "3975175378030456573"
-				"size" "14755774980"
-				"download" "6491474784"
+				"gid" "3545362646551334886"
+				"size" "14757258460"
+				"download" "6492216784"
 			}
 			"publicbeta"
 			{
-				"gid" "3975175378030456573"
-				"size" "14755774980"
-				"download" "6491474784"
+				"gid" "3545362646551334886"
+				"size" "14757258460"
+				"download" "6492216784"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testenvironment"
 			{
-				"gid" "6B9749315C8BD500571F9897F6C2D582"
-				"size" "3499E7FE6B0C212060B5A3400D736024"
-				"download" "5BE8008C334DA9C6F7517E2E170E0775"
+				"gid" "63965E7850CCB9D7602184FE70BFD20C"
+				"size" "384492F01D9A2EE6453E17AD282EAB4B"
+				"download" "5680539AFE384C390856D7190B77A7DA"
 			}
 		}
 	}
@@ -463,30 +463,30 @@
 		{
 			"public"
 			{
-				"gid" "3530347796477721207"
-				"size" "14784942641"
-				"download" "6513148368"
+				"gid" "1998715634118809978"
+				"size" "14786447493"
+				"download" "6513830096"
 			}
 			"console_crossplay"
 			{
-				"gid" "3530347796477721207"
-				"size" "14784942641"
-				"download" "6513148368"
+				"gid" "1998715634118809978"
+				"size" "14786447493"
+				"download" "6513830096"
 			}
 			"publicbeta"
 			{
-				"gid" "3530347796477721207"
-				"size" "14784942641"
-				"download" "6513148368"
+				"gid" "1998715634118809978"
+				"size" "14786447493"
+				"download" "6513830096"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testenvironment"
 			{
-				"gid" "675A022A87257093F51C473A2DF55E23"
-				"size" "F5DF1216183E0BD2F307D64C99A161D8"
-				"download" "E5534EBEC8648AF50F4FCEC597F67DA1"
+				"gid" "552E24B15B0F0110E4F63A1EE574A8D7"
+				"size" "8241E9EDD65F9861A8D1591FD8A55E57"
+				"download" "966EBE3B75BBCFF1AA9BF33E1B433939"
 			}
 		}
 	}
@@ -501,30 +501,30 @@
 		{
 			"public"
 			{
-				"gid" "5369750727445423904"
-				"size" "14723953186"
-				"download" "6489168048"
+				"gid" "7531575683341610689"
+				"size" "14725220813"
+				"download" "6489884352"
 			}
 			"console_crossplay"
 			{
-				"gid" "5369750727445423904"
-				"size" "14723953186"
-				"download" "6489168048"
+				"gid" "7531575683341610689"
+				"size" "14725220813"
+				"download" "6489884352"
 			}
 			"publicbeta"
 			{
-				"gid" "5369750727445423904"
-				"size" "14723953186"
-				"download" "6489168048"
+				"gid" "7531575683341610689"
+				"size" "14725220813"
+				"download" "6489884352"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"testenvironment"
 			{
-				"gid" "80274E5BDB5BC0CA6821035A45EE61EB"
-				"size" "E1DFD3D1898117C3A1B9F4B8C3FE3AAF"
-				"download" "273C8E8B720962934144EE7F51737B3D"
+				"gid" "7EA50C16F810673D6DFFBBF70C3F5A6F"
+				"size" "6EC41B94ACB170472F96CD798ACD816A"
+				"download" "7A20D24B44D9631436F45582FCD6F2B4"
 			}
 		}
 	}
@@ -534,26 +534,26 @@
 	{
 		"public"
 		{
-			"buildid" "16342086"
-			"timeupdated" "1731071903"
+			"buildid" "16357518"
+			"timeupdated" "1731326521"
 		}
 		"console_crossplay"
 		{
-			"buildid" "16342086"
+			"buildid" "16357518"
 			"description" "Universal Console Crossplay Compatibility"
-			"timeupdated" "1731071879"
+			"timeupdated" "1731326500"
 		}
 		"publicbeta"
 		{
-			"buildid" "16342086"
+			"buildid" "16357518"
 			"description" "Public beta for easy red 2 - expect some bugs"
-			"timeupdated" "1731071885"
+			"timeupdated" "1731244661"
 		}
 		"testenvironment"
 		{
-			"buildid" "16342086"
+			"buildid" "16357518"
 			"pwdrequired" "1"
-			"timeupdated" "1731071892"
+			"timeupdated" "1731244671"
 		}
 	}
 }
@@ -627,6 +627,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26108104"
-"_sha" "580800f7fd2a5487177cb9412f4cc8c23698d560"
+"_change_number" "26139232"
+"_sha" "09a6caff017bb8f6811240d1a2db96c7e54a3946"
 "_size" "11895"
