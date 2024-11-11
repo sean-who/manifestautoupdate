@@ -194,6 +194,14 @@
 		{
 			"supported" "true"
 		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
 	}
 	"steam_release_date" "1727929854"
 	"community_visible_stats" "1"
@@ -223,7 +231,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "91"
 }
 "extended"
 {
@@ -258,24 +266,24 @@
 		{
 			"public"
 			{
-				"gid" "3008383805974620388"
-				"size" "1019008986"
-				"download" "870459664"
+				"gid" "9060567160244829508"
+				"size" "1018423891"
+				"download" "869890784"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"developer"
 			{
-				"gid" "E8BA475A32C6DFC0D6C46B067478D282"
-				"size" "0E07EF86AA11B64A92CB3262B8B9B37A"
-				"download" "E3B61BEF41B719CBC27D2CBD1074C9EC"
+				"gid" "81B28317BB3ACE509CE84EC4198C9121"
+				"size" "86D3B050A9534D48BA748A17B6D3042D"
+				"download" "27E7751DA2BFDF2D5F183004CAAFDC2F"
 			}
 			"public_beta"
 			{
-				"gid" "3CFDA3ED11FE289CEEF4EC676A31973B"
-				"size" "71B6402C00FBF3B8B9C0A8F99B3E2189"
-				"download" "0FAAC1F2F5CA101FA882B8F00584D712"
+				"gid" "A8CE0BBC9E3F1913A5106D52FD223CBD"
+				"size" "90AA9A2565BA7788A4BFC40273ED1D55"
+				"download" "474C76681A4F95CE41F5C7EE31F1EFF8"
 			}
 		}
 	}
@@ -283,20 +291,20 @@
 	{
 		"public"
 		{
-			"buildid" "16247129"
-			"timeupdated" "1730355730"
+			"buildid" "16342637"
+			"timeupdated" "1731089409"
 		}
 		"developer"
 		{
-			"buildid" "16247129"
+			"buildid" "16342637"
 			"pwdrequired" "1"
-			"timeupdated" "1730351879"
+			"timeupdated" "1731075186"
 		}
 		"public_beta"
 		{
-			"buildid" "16247129"
+			"buildid" "16342637"
 			"pwdrequired" "1"
-			"timeupdated" "1730355677"
+			"timeupdated" "1731089446"
 		}
 	}
 }
@@ -319,6 +327,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25983886"
-"_sha" "661dd26cd9176dcbb6106a87436022ec52ea4060"
-"_size" "5943"
+"_change_number" "26121413"
+"_sha" "f2079d6b717bcc60f061a27446b8f9c5f9ef6ac5"
+"_size" "6040"
