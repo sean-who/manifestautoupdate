@@ -13,7 +13,7 @@
 	"controllertagwizard" "1"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
+		"english" "216f72d970f574d5043fef8cd7bebbd755437a43/capsule_231x87.jpg"
 	}
 	"header_image"
 	{
@@ -23,13 +23,14 @@
 	{
 		"library_capsule" "en"
 		"library_hero" "en"
+		"library_hero_blur" "en"
 		"library_logo" "en"
 		"library_header" "en"
 		"logo_position"
 		{
-			"pinned_position" "BottomLeft"
-			"width_pct" "24.58056279419489"
-			"height_pct" "53.549472964329325"
+			"pinned_position" "BottomCenter"
+			"width_pct" "61.281303230520564"
+			"height_pct" "100"
 		}
 	}
 	"library_assets_full"
@@ -38,50 +39,61 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
+				"english" "001bec47bacdc174ac9aeb15374e9247ccac10bc/library_600x900.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
+				"english" "001bec47bacdc174ac9aeb15374e9247ccac10bc/library_600x900_2x.jpg"
 			}
 		}
 		"library_hero"
 		{
 			"image2x"
 			{
-				"english" "library_hero_2x.jpg"
+				"english" "ce70a3ac80bd7c42b3546be6ca932560917723b6/library_hero_2x.jpg"
 			}
 			"image"
 			{
-				"english" "library_hero.jpg"
+				"english" "ce70a3ac80bd7c42b3546be6ca932560917723b6/library_hero.jpg"
+			}
+		}
+		"library_hero_blur"
+		{
+			"image"
+			{
+				"english" "ce70a3ac80bd7c42b3546be6ca932560917723b6/library_hero_blur.jpg"
 			}
 		}
 		"library_logo"
 		{
 			"logo_position"
 			{
-				"pinned_position" "BottomLeft"
-				"width_pct" "24.58056279419489"
-				"height_pct" "53.549472964329325"
+				"pinned_position" "BottomCenter"
+				"width_pct" "61.281303230520564"
+				"height_pct" "100"
 			}
 			"image"
 			{
-				"english" "logo.png"
+				"english" "a3abbb310dd76863fc42097139c98dd3bcebc355/logo.png"
 			}
 			"image2x"
 			{
-				"english" "logo_2x.png"
+				"english" "a3abbb310dd76863fc42097139c98dd3bcebc355/logo_2x.png"
 			}
 		}
 		"library_header"
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "d352c8010fb5871b42fda4309dc6c0884f859d39/library_header.jpg"
+			}
+			"image2x"
+			{
+				"english" "d352c8010fb5871b42fda4309dc6c0884f859d39/library_header_2x.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1729828519"
+	"store_asset_mtime" "1730863283"
 	"associations"
 	{
 		"0"
@@ -92,7 +104,7 @@
 		"1"
 		{
 			"type" "publisher"
-			"name" "Farlight Games"
+			"name" "Lilith Games"
 		}
 	}
 	"primary_genre" "28"
@@ -103,7 +115,6 @@
 		"2" "3"
 		"3" "28"
 		"4" "2"
-		"5" "70"
 	}
 	"category"
 	{
@@ -119,8 +130,13 @@
 			"supported" "true"
 			"subtitles" "true"
 		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
 	}
-	"steam_release_date" "1720753157"
+	"steam_release_date" "1730861952"
 	"community_visible_stats" "1"
 	"workshop_visible" "1"
 	"community_hub_visible" "1"
@@ -136,9 +152,9 @@
 		"6" "12472"
 		"7" "3834"
 		"8" "3810"
-		"9" "5984"
+		"9" "492"
 		"10" "4202"
-		"11" "492"
+		"11" "5984"
 		"12" "4182"
 		"13" "1100689"
 		"14" "1643"
@@ -147,12 +163,12 @@
 		"17" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "90"
+	"review_percentage" "88"
 }
 "extended"
 {
 	"developer" "Neutron Star Studio"
-	"publisher" "Farlight Games"
+	"publisher" "Lilith Games"
 }
 "config"
 {
@@ -197,9 +213,9 @@
 		{
 			"public"
 			{
-				"gid" "354070510570216653"
-				"size" "2042014035"
-				"download" "218869008"
+				"gid" "1006675990437164201"
+				"size" "2044178007"
+				"download" "218914128"
 			}
 		}
 		"encryptedmanifests"
@@ -212,15 +228,15 @@
 			}
 			"map1test"
 			{
-				"gid" "ABD9FBE7E8A11EF6C5A16BAE6C262E3A"
-				"size" "3B61D31DC2CE4E0F3BBE9925E86A7E6B"
-				"download" "6ED40AAF856FF8B8B4983C50C2E59493"
+				"gid" "8C63F9DF3C6C312323274A9F7D2F41C4"
+				"size" "2658AF1678F45BD4D3EE0ECE7339A5C4"
+				"download" "AFBE2F3FFAA9B6D47669A1E0B8510B74"
 			}
 			"map2test"
 			{
-				"gid" "D5149D6680F2EE3F6F4247DB2A6CB295"
-				"size" "35028F1BDB2CFC0D97C126EA0BD24BE6"
-				"download" "19F6C4446252EF4DEC0566D9245BBB5E"
+				"gid" "5A25D533D295FF2838FB480CA14884C3"
+				"size" "083FBC7D6F58902818B2F855DCD52196"
+				"download" "8988ACA167A54E9BE54C3C2C12FAC8B4"
 			}
 			"modtestbranch"
 			{
@@ -235,8 +251,8 @@
 	{
 		"public"
 		{
-			"buildid" "16132194"
-			"timeupdated" "1729579218"
+			"buildid" "16341585"
+			"timeupdated" "1731117171"
 		}
 		"languagetest"
 		{
@@ -246,15 +262,15 @@
 		}
 		"map1test"
 		{
-			"buildid" "16132194"
+			"buildid" "16295190"
 			"pwdrequired" "1"
-			"timeupdated" "1729578916"
+			"timeupdated" "1730773061"
 		}
 		"map2test"
 		{
-			"buildid" "16076015"
+			"buildid" "16341585"
 			"pwdrequired" "1"
-			"timeupdated" "1729142506"
+			"timeupdated" "1731068783"
 		}
 		"modtestbranch"
 		{
@@ -284,6 +300,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25889141"
-"_sha" "2e32937e18c2b41107bb66bceccbfa3339777f2a"
-"_size" "4881"
+"_change_number" "26130367"
+"_sha" "6c947039b84a82fbd40b0ebbbc6675f6d13fab50"
+"_size" "5515"
