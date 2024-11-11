@@ -158,7 +158,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1726223732"
+	"store_asset_mtime" "1730391614"
 	"associations"
 	{
 		"0"
@@ -288,6 +288,21 @@
 			"subtitles" "true"
 		}
 		"lithuanian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"galician"
 		{
 			"supported" "true"
 			"subtitles" "true"
@@ -428,15 +443,9 @@
 		{
 			"public"
 			{
-				"gid" "7508218879632675342"
-				"size" "5696192122"
-				"download" "2058885184"
-			}
-			"halloween-earlyaccess"
-			{
-				"gid" "7508218879632675342"
-				"size" "5696192122"
-				"download" "2058885184"
+				"gid" "8324447856335036777"
+				"size" "5758831569"
+				"download" "2167481456"
 			}
 			"first_version_of_sl_published_on_steam"
 			{
@@ -449,39 +458,51 @@
 		{
 			"ci-build"
 			{
-				"gid" "9C72AABBBA028A9A60B714CEF1EAD13F"
-				"size" "9BAD95524EAF41EDDA78EB167DD85FE3"
-				"download" "4E9BECECEB9811691817044D6943FBFA"
+				"gid" "3122043942BCDED5654709B68E77CC17"
+				"size" "B4933519364A205BA333FCF196CE3417"
+				"download" "02765D63A5308FE96C8724FA57BEB4A3"
+			}
+			"patreon-beta"
+			{
+				"gid" "454A9BB520BAD8A0D332832C75B9B537"
+				"size" "5E14EE101A3092E88443EA8D737EF415"
+				"download" "B1C41ECCCA0E2F16E896614DC38498BE"
 			}
 			"nightly"
 			{
-				"gid" "36634727A5763F6B4425875D61E4417A"
-				"size" "2F8F110E5707F338A6629168E7893F29"
-				"download" "479AC459EB90A5966BC8D6F5069FF940"
+				"gid" "2E2D1A39CD924B5BA87DFCE04079C383"
+				"size" "C3993DC893002EF5EA0FB6E7F63C999E"
+				"download" "B32DC7EB51179FA8C8A350D321890CA1"
+			}
+			"tech"
+			{
+				"gid" "414773A0B3D018CC406D8F8DFDFB3C13"
+				"size" "7D3E2C0117EE7D1E60DD4AF84FBE971E"
+				"download" "DC671C6D222ED186B4DF7B8BE3BB77A9"
 			}
 			"mr-testing"
 			{
-				"gid" "07258631BEFB05C42C191703D67B7FA3"
-				"size" "E79C2DFCD545742AA7A3DE7F5AF27E4A"
-				"download" "77CC1F0A1278E3E72E6B9B38A259C0EC"
+				"gid" "C28815D0E1DBB994058502CD576A47E9"
+				"size" "EAFEEB5EE6B13774EBC9A8010E3CE2C0"
+				"download" "D9BFFB9B240FAD9E11AF1921768DE3B0"
 			}
 			"mr-testing-2"
 			{
-				"gid" "148346DC3E258BB9A07DDF5A9E4FF2DA"
-				"size" "2AEF9C08C3166DC581DF6576999B7E2F"
-				"download" "4F908FD5088D0B32CF171DAF17996B3D"
+				"gid" "0FA8DC6E4ADAEEEF8663551E35A84311"
+				"size" "A6A94AC608A380F3F919D8964271E068"
+				"download" "3F7CCA74DCFF89FE986F53712217B2F8"
 			}
 			"mr-testing-3"
 			{
-				"gid" "F2E8B4F6AB6CD4DA8B79535C5A540EE8"
-				"size" "82DBB3A0C3BAF09F6A6270A6160EA075"
-				"download" "CE7D4070DADB1091A4B5C025A4DA158B"
+				"gid" "1145300B8BDFAB923DABBC17D62BB639"
+				"size" "CCFDFB64B059E7A176952840CE7FE422"
+				"download" "606FDBA9F8E041D2DC903C3FF75F4A5B"
 			}
 			"test-build-1"
 			{
-				"gid" "1C64DFCA05ABBEC320DFC052AF17E0D4"
-				"size" "E82FCAB0FFB6DA0519185889C899465F"
-				"download" "2FBE7E06D6882857AFBE14C4715E3316"
+				"gid" "BE650F629732989CA9D126D1C1B53BA2"
+				"size" "6D572FB6BC6DD941B924A2C1DA1E1178"
+				"download" "AC6315C8A516E8A9046931A68054796B"
 			}
 			"thomasjosif-test"
 			{
@@ -489,23 +510,17 @@
 				"size" "790278DDF108687E88C21EAF524E9E1E"
 				"download" "268A80B4E21E702BCA91275B33207D04"
 			}
-			"the-second-problematic-sibling"
-			{
-				"gid" "8AF955221564F5EFD0F711B02514F6C8"
-				"size" "740C6E48AF884CD0692C4ACB54CA2559"
-				"download" "22E3B48BFCFC686DAFF2D210F0D3FF4F"
-			}
 			"qa-testing"
 			{
-				"gid" "2E0CA7D7137CF8B848290C66BAC2A907"
-				"size" "68A505C8032DF53596E1D17282881849"
-				"download" "A41C48E45067606BE7F46B532752BBFA"
+				"gid" "EF1ECFFA490EDA1216DEF048A00181E2"
+				"size" "34E57AA50264646F63E2124EF68865C0"
+				"download" "E6667E1303BB987474F8C3BB11BFABCC"
 			}
 			"staff-testing"
 			{
-				"gid" "83662EDBE0DFA743C8495ABAE4F888F8"
-				"size" "57CE6C9719F4A93A13D19A4CDB17C0E1"
-				"download" "ECCF48F1B55D56B3BD9767F1883399D9"
+				"gid" "4A11D84D339606F4F8D1114A40B53B40"
+				"size" "CBBB5AF50FB84C88F39525D9BEAB939A"
+				"download" "73855F335AD70B67A6A426C3A9C039FD"
 			}
 			"marketing-preview"
 			{
@@ -533,50 +548,56 @@
 	{
 		"public"
 		{
-			"buildid" "16169498"
-			"timeupdated" "1729796251"
+			"buildid" "15251936"
+			"timeupdated" "1731182084"
 		}
 		"ci-build"
 		{
-			"buildid" "16170810"
+			"buildid" "16360509"
 			"pwdrequired" "1"
-			"timeupdated" "1729801737"
+			"timeupdated" "1731285033"
 		}
-		"halloween-earlyaccess"
+		"patreon-beta"
 		{
-			"buildid" "16169498"
-			"description" "Early Halloween build access for server modders."
-			"timeupdated" "1729795851"
+			"buildid" "16277047"
+			"pwdrequired" "1"
+			"timeupdated" "1730698982"
 		}
 		"nightly"
 		{
-			"buildid" "16174915"
+			"buildid" "16361466"
 			"pwdrequired" "1"
-			"timeupdated" "1729827944"
+			"timeupdated" "1731296815"
+		}
+		"tech"
+		{
+			"buildid" "16190676"
+			"pwdrequired" "1"
+			"timeupdated" "1729937963"
 		}
 		"mr-testing"
 		{
-			"buildid" "16169498"
+			"buildid" "16358643"
 			"pwdrequired" "1"
-			"timeupdated" "1729794111"
+			"timeupdated" "1731265762"
 		}
 		"mr-testing-2"
 		{
-			"buildid" "15880184"
+			"buildid" "16293979"
 			"pwdrequired" "1"
-			"timeupdated" "1728783961"
+			"timeupdated" "1730765243"
 		}
 		"mr-testing-3"
 		{
-			"buildid" "16127761"
+			"buildid" "16283747"
 			"pwdrequired" "1"
-			"timeupdated" "1729544959"
+			"timeupdated" "1730746755"
 		}
 		"test-build-1"
 		{
-			"buildid" "16042645"
+			"buildid" "16300845"
 			"pwdrequired" "1"
-			"timeupdated" "1729274529"
+			"timeupdated" "1730811221"
 		}
 		"thomasjosif-test"
 		{
@@ -584,23 +605,17 @@
 			"pwdrequired" "1"
 			"timeupdated" "1726029636"
 		}
-		"the-second-problematic-sibling"
-		{
-			"buildid" "16087526"
-			"pwdrequired" "1"
-			"timeupdated" "1729266417"
-		}
 		"qa-testing"
 		{
-			"buildid" "16157835"
+			"buildid" "16304968"
 			"pwdrequired" "1"
-			"timeupdated" "1729725320"
+			"timeupdated" "1730935376"
 		}
 		"staff-testing"
 		{
-			"buildid" "16157835"
+			"buildid" "16358643"
 			"pwdrequired" "1"
-			"timeupdated" "1729725331"
+			"timeupdated" "1731271745"
 		}
 		"marketing-preview"
 		{
@@ -711,6 +726,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "25889032"
-"_sha" "b8c7352c8753041c00090b8874d47e1a3405fba6"
-"_size" "13271"
+"_change_number" "26134534"
+"_sha" "a186c1a27d46357cbda6f5846c60f24cf6a786d6"
+"_size" "13423"
