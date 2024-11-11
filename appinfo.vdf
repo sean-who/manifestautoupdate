@@ -177,7 +177,7 @@
 		"19" "4777"
 	}
 	"review_score" "6"
-	"review_percentage" "74"
+	"review_percentage" "75"
 }
 "extended"
 {
@@ -250,9 +250,9 @@
 		{
 			"public"
 			{
-				"gid" "7223282622230854496"
-				"size" "9874697615"
-				"download" "3996896944"
+				"gid" "3818976220700274564"
+				"size" "9874698127"
+				"download" "3996896608"
 			}
 		}
 		"encryptedmanifests"
@@ -281,8 +281,8 @@
 	{
 		"public"
 		{
-			"buildid" "16362702"
-			"timeupdated" "1731311910"
+			"buildid" "16362975"
+			"timeupdated" "1731314259"
 		}
 		"fantibanben"
 		{
@@ -319,6 +319,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26136333"
-"_sha" "2c3f87e55902002b6df53acb846969325d38e4d2"
+"_change_number" "26137244"
+"_sha" "5c4783f6bd480c824bb491fd8ab1a8578d1ae3c9"
 "_size" "6438"
