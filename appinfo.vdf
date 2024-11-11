@@ -282,9 +282,9 @@
 		"14" "353880"
 		"15" "1685"
 		"16" "3859"
-		"17" "493"
-		"18" "4190"
-		"19" "12095"
+		"17" "4190"
+		"18" "493"
+		"19" "454187"
 	}
 	"review_score" "8"
 	"review_percentage" "89"
@@ -320,24 +320,24 @@
 		{
 			"public"
 			{
-				"gid" "4573546063707358555"
-				"size" "2404496629"
-				"download" "423911216"
+				"gid" "6411984232554925888"
+				"size" "2403206198"
+				"download" "423793024"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"uptesting"
 			{
-				"gid" "AE5AC9A4AEB28DC6D4EEA2F77F3CD083"
-				"size" "E41BEDBC10DB63D27371F4D396C0A3EE"
-				"download" "CF1B5278A88060C0D9FE5F35EDF3146C"
+				"gid" "784B3086363A37ED9919D2F7D5ED2C78"
+				"size" "2FAF14C9FA79204085DE67D8FC1D1483"
+				"download" "85FBFB549CDDF42CA662D10C5F95ED81"
 			}
 			"bilibiliqatesting"
 			{
-				"gid" "9EAB652135A049E33BF5D0696CD60FED"
-				"size" "67ED6F38361D6B11099CF07A91DFFA21"
-				"download" "559B42034B23C96222D68F4E5990AF21"
+				"gid" "1B4A24094C26CD39A5AA08C85A36F180"
+				"size" "3D90331890D52A40A2E6838B289B7194"
+				"download" "C9DB7D7F6D53A5C96E30C468199DCC46"
 			}
 			"eaearlyv"
 			{
@@ -365,9 +365,9 @@
 			}
 			"usersplaytesting"
 			{
-				"gid" "32C1B4A110C5A47F8ABC67C719CAF103"
-				"size" "AA4DB5A6E4543F440CD648E1B2299ECE"
-				"download" "D85204D91AB09BDD04AECFE84F67B037"
+				"gid" "71CA1F9B67D8E2CF4BF53AF72B64EC4B"
+				"size" "7DEC2D5629BEB69276E55A12571D3ACB"
+				"download" "92C7B3A351DA726614ADF6EDB7F71AE4"
 			}
 			"maidiantest"
 			{
@@ -383,9 +383,9 @@
 			}
 			"banbenyanshou"
 			{
-				"gid" "D186375066002B67A1849E1F3C5ACD7A"
-				"size" "C862B9170D0FECAA0548EA3BC967E497"
-				"download" "B79197522A60EEC56E8975F5E2C61140"
+				"gid" "C2FC26F54C42934EC87E7FA22DFB3BDC"
+				"size" "8049E0F1D6E9EBA6CDB091847EAFA0A0"
+				"download" "BC0FCBD1F239120CEAA5FF0D9CC655AE"
 			}
 			"eauptesting"
 			{
@@ -395,9 +395,9 @@
 			}
 			"fullcontenttest"
 			{
-				"gid" "A01D8FAD51D7056829461364238634C7"
-				"size" "06391246D8932F4BCC00BCF6CFCD0018"
-				"download" "B61A9AF477D9D72F392A70218381B5C2"
+				"gid" "78A4C4B7F8DEEC72592A3A92F683B03F"
+				"size" "7BF989AC2DF144DDE0FE9E0715542692"
+				"download" "3AF7B382ED0795D2B549D805CC816B83"
 			}
 			"shantuiceshi"
 			{
@@ -417,20 +417,20 @@
 	{
 		"public"
 		{
-			"buildid" "16312720"
-			"timeupdated" "1730894880"
+			"buildid" "16363613"
+			"timeupdated" "1731327568"
 		}
 		"uptesting"
 		{
-			"buildid" "16310879"
+			"buildid" "16327453"
 			"pwdrequired" "1"
-			"timeupdated" "1730888702"
+			"timeupdated" "1730983107"
 		}
 		"bilibiliqatesting"
 		{
-			"buildid" "16313147"
+			"buildid" "16362392"
 			"pwdrequired" "1"
-			"timeupdated" "1730890651"
+			"timeupdated" "1731308707"
 		}
 		"eaearlyv"
 		{
@@ -458,9 +458,9 @@
 		}
 		"usersplaytesting"
 		{
-			"buildid" "16310610"
+			"buildid" "16363613"
 			"pwdrequired" "1"
-			"timeupdated" "1730876343"
+			"timeupdated" "1731318841"
 		}
 		"maidiantest"
 		{
@@ -476,9 +476,9 @@
 		}
 		"banbenyanshou"
 		{
-			"buildid" "16313147"
+			"buildid" "16363688"
 			"pwdrequired" "1"
-			"timeupdated" "1730890677"
+			"timeupdated" "1731318909"
 		}
 		"eauptesting"
 		{
@@ -488,9 +488,9 @@
 		}
 		"fullcontenttest"
 		{
-			"buildid" "16310679"
+			"buildid" "16363688"
 			"pwdrequired" "1"
-			"timeupdated" "1730876397"
+			"timeupdated" "1731318690"
 		}
 		"shantuiceshi"
 		{
@@ -511,21 +511,10 @@
 {
 	"quota" "10000000"
 	"maxnumfiles" "100"
-	"savefiles"
-	{
-		"0"
-		{
-			"root" "WinAppDataLocalLow"
-			"path" "bolang/Magicraft"
-			"pattern" "*.Json"
-			"platforms"
-			{
-				"1" "Windows"
-			}
-		}
-	}
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
 }
 "_missing_token" "False"
-"_change_number" "26074391"
-"_sha" "255b2ff3ab1435344e2721f8205fec6a87c1d535"
-"_size" "12392"
+"_change_number" "26139474"
+"_sha" "f8f5964e22d6b5604bd9a0294792ea8cb4a41b02"
+"_size" "12268"
