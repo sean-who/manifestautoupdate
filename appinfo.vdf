@@ -320,7 +320,7 @@
 		"6"
 		{
 			"executable" "Windows/Hemingway.exe"
-			"arguments" "-homedir=SMITE2Alpha -d3d12 -game -oss=SteamV2 -RallyHereURL=https://solar-escape-env-001"
+			"arguments" "-homedir=SMITE2Alpha -d3d12 -game -oss=SteamV2 -RallyHereURL=https://api-smite2.titanforgegames.com"
 			"type" "option2"
 			"config"
 			{
@@ -382,18 +382,18 @@
 		{
 			"public"
 			{
-				"gid" "5969707260013563371"
-				"size" "13920570265"
-				"download" "12518135280"
+				"gid" "6528302894721008771"
+				"size" "14479327099"
+				"download" "13019299008"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"live_latest"
 			{
-				"gid" "D18697B75CD8AB9A0A30179ED30F5B86"
-				"size" "F77397C7A94246D867538FBB620197A9"
-				"download" "9279547E62B44A844B41E01B8C969373"
+				"gid" "E205F2FE5B042417C0B1364796BB7813"
+				"size" "8C0C7EE672F6C6A9D764E0571255AAF0"
+				"download" "29B60405D0BF1C151C34941DF494B07B"
 			}
 		}
 	}
@@ -401,18 +401,18 @@
 	{
 		"public"
 		{
-			"buildid" "16334418"
-			"timeupdated" "1731072034"
+			"buildid" "16370204"
+			"timeupdated" "1731412816"
 		}
 		"live_latest"
 		{
-			"buildid" "16334418"
+			"buildid" "16370204"
 			"pwdrequired" "1"
-			"timeupdated" "1731020969"
+			"timeupdated" "1731358019"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26108128"
-"_sha" "90d0b2b8095cd5e3ed7b6f218199599bbb110a6e"
-"_size" "7600"
+"_change_number" "26156556"
+"_sha" "577da41d40cfb0ef58d43d8c2eae43af7dc30b51"
+"_size" "7610"
