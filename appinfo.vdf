@@ -92,11 +92,11 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
+				"english" "6846ca08872468a5e5a26196033e90a7e8d3cfbd/library_header.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1731292504"
+	"store_asset_mtime" "1731409629"
 	"associations"
 	{
 		"0"
@@ -264,24 +264,24 @@
 		{
 			"public"
 			{
-				"gid" "6306142626417690805"
-				"size" "765532653"
-				"download" "100890352"
+				"gid" "9184779655694676764"
+				"size" "765524044"
+				"download" "100907072"
 			}
 			"beta"
 			{
-				"gid" "6306142626417690805"
-				"size" "765532653"
-				"download" "100890352"
+				"gid" "9184779655694676764"
+				"size" "765524044"
+				"download" "100907072"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "98C201DE4261026B2167E5981D8A6432"
-				"size" "6D5DFA72F5E6EC0733BAEA4BD01AB3E1"
-				"download" "76A69772B25BC8C3F9FC83B72B119EF4"
+				"gid" "4E84F4835B1BEBA1BDFE959B8998FBB3"
+				"size" "14FB6E45EAF72A6E9E413161DD49CA55"
+				"download" "6BD5333F5EDE20F8F834717B4C8D7E76"
 			}
 		}
 	}
@@ -289,20 +289,20 @@
 	{
 		"public"
 		{
-			"buildid" "16355698"
-			"timeupdated" "1731291145"
+			"buildid" "16374351"
+			"timeupdated" "1731391098"
 		}
 		"beta"
 		{
-			"buildid" "16355698"
+			"buildid" "16374351"
 			"description" "Beta features and fixes"
-			"timeupdated" "1731291163"
+			"timeupdated" "1731391026"
 		}
 		"test"
 		{
-			"buildid" "16355698"
+			"buildid" "16374351"
 			"pwdrequired" "1"
-			"timeupdated" "1731211104"
+			"timeupdated" "1731391016"
 		}
 	}
 }
@@ -323,6 +323,6 @@
 	"appidredirect" "2749770"
 }
 "_missing_token" "False"
-"_change_number" "26134063"
-"_sha" "84c97250f52b2bbfe3c51e58c36cfc816eebf1fd"
-"_size" "5201"
+"_change_number" "26155862"
+"_sha" "ef75567e200484a2f6eed4cfee83c121a96b8d40"
+"_size" "5242"
