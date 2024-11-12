@@ -1,17 +1,17 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-12 09:44:34
+## 更新时间：2024-11-12 16:28:56
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 730 | Counter-Strike 2| Game |
-| 1483870 | Draw & Guess - 你画我猜| Game |
-| 674140 | Bugsnax| Game |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
+| 570 | Dota 2| game |
+| 418500 | Rising Storm 2 - SDK| Tool |
+| 413150 | Stardew Valley| Game |
 | 270150 | RUNNING WITH RIFLES| Game |
-| 1599600 | 速速上菜！| Game |
+| 322170 | Geometry Dash| Game |
 | 1525700 | Tavern Master| Game |
-| 633080 | 《遗物猎人传说》| Game |
-| 655500 | MX Bikes| Game |
-| 3247420 | Teenage Mutant Ninja Turtles: Splintered Fate Soundtrack| Music |
+| 1761380 | 战魂铭人| Game |
+| 1403650 | 梦幻谷| Game |
 | 2430930 | ARK: Survival Ascended Dedicated Server| Tool |
-| 1168690 | HELLSEED| Game |
-| 1861610 | Endorphin Vice| Game |
+| 2719030 | 超级键盘侠| Game |
+| 2963550 | 命运游戏：逆时寻凶| Game |
