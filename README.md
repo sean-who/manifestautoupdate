@@ -1,14 +1,17 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-12 00:29:11
+## 更新时间：2024-11-12 09:44:34
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
-| 3168260 | 黑荆棘角斗场：重铸版| Game |
-| 700580 | Rust - Staging Branch| Game |
-| 1337760 | 杏林物语| Game |
-| 2276930 | Chillquarium| Game |
-| 2445690 | 失落城堡2| Game |
-| 604640 | Outer Rim| Game |
-| 2996040 | 忍者神龟：破碎命运| Game |
-| 2668340 | SEXY STRIPPERS| Game |
+| 730 | Counter-Strike 2| Game |
+| 1483870 | Draw & Guess - 你画我猜| Game |
+| 674140 | Bugsnax| Game |
+| 270150 | RUNNING WITH RIFLES| Game |
+| 1599600 | 速速上菜！| Game |
+| 1525700 | Tavern Master| Game |
+| 633080 | 《遗物猎人传说》| Game |
+| 655500 | MX Bikes| Game |
+| 3247420 | Teenage Mutant Ninja Turtles: Splintered Fate Soundtrack| Music |
+| 2430930 | ARK: Survival Ascended Dedicated Server| Tool |
+| 1168690 | HELLSEED| Game |
+| 1861610 | Endorphin Vice| Game |
