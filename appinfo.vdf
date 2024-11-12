@@ -336,9 +336,9 @@
 		"7" "1695"
 		"8" "4191"
 		"9" "3839"
-		"10" "15172"
-		"11" "4175"
-		"12" "3859"
+		"10" "3859"
+		"11" "15172"
+		"12" "4175"
 		"13" "5350"
 		"14" "4145"
 		"15" "13190"
@@ -348,7 +348,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "84"
+	"review_percentage" "83"
 }
 "extended"
 {
@@ -385,18 +385,18 @@
 		{
 			"public"
 			{
-				"gid" "947562930323275393"
-				"size" "6466544092"
-				"download" "2529075184"
+				"gid" "4624350100558413527"
+				"size" "6757976304"
+				"download" "2637413200"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"redaxegames-dev"
 			{
-				"gid" "FF54F9A87F937A050EF9CE5AAF0F8AB8"
-				"size" "0795A72E079E5DF045A4343B1A1094E2"
-				"download" "D524215877995A9C9D06267B979DCCED"
+				"gid" "641C13B41759F05F4AC39A0B8FEC9977"
+				"size" "337DBFF0AF73D4266D6AA5E9B7832EB3"
+				"download" "F87BA5785B414AB9B3DE90BC0D7B9AC5"
 			}
 		}
 	}
@@ -404,14 +404,14 @@
 	{
 		"public"
 		{
-			"buildid" "16288080"
-			"timeupdated" "1730731169"
+			"buildid" "16378509"
+			"timeupdated" "1731420353"
 		}
 		"redaxegames-dev"
 		{
-			"buildid" "16288080"
+			"buildid" "16378509"
 			"pwdrequired" "1"
-			"timeupdated" "1730728788"
+			"timeupdated" "1731415680"
 		}
 	}
 }
@@ -434,6 +434,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26038508"
-"_sha" "804458d82af9930b49c343f61d3281c6dced3707"
-"_size" "10073"
+"_change_number" "26158369"
+"_sha" "c0625d3b16aa6b440576bb1e973eb3056c86979a"
+"_size" "10074"
