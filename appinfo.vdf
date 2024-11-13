@@ -199,7 +199,7 @@
 		"19" "3916"
 	}
 	"review_score" "9"
-	"review_percentage" "97"
+	"review_percentage" "96"
 }
 "extended"
 {
@@ -235,9 +235,9 @@
 		{
 			"public"
 			{
-				"gid" "4912357685345954618"
-				"size" "3278540474"
-				"download" "1033931104"
+				"gid" "9126793132549750162"
+				"size" "3278787365"
+				"download" "1033918192"
 			}
 			"p1-34"
 			{
@@ -253,9 +253,9 @@
 			}
 			"p1-4beta"
 			{
-				"gid" "4912357685345954618"
-				"size" "3278540474"
-				"download" "1033931104"
+				"gid" "2323037855425488594"
+				"size" "3278788481"
+				"download" "1033918816"
 			}
 		}
 		"encryptedmanifests"
@@ -268,15 +268,21 @@
 			}
 			"controllersupport"
 			{
-				"gid" "2BA0FFC93BCC3F58FB297BB322180127"
-				"size" "767CA42A4D5BF1398180099899C7656C"
-				"download" "0314D9723B6F7BD52FBB24C58A9EC538"
+				"gid" "2698D0EB979C5212E57E0C0ADF18730A"
+				"size" "C4E20BBD36492EACD1BF37AA14BADC2A"
+				"download" "168E7B2235F563418D81292062569A48"
 			}
 			"localizationbuild"
 			{
-				"gid" "B23F2DC362FBAF8C6345918945AADE28"
-				"size" "B249CE1155B64F1F279A8BA8DF0F52A1"
-				"download" "ACA38830893E0FD67271E8B1A9B23635"
+				"gid" "C6E3EFBD2F9300C7CA9CC00310BC56C1"
+				"size" "ABF73742661AE12C74A746DC74C00BF2"
+				"download" "FDC342F9303CCDDE1714AB443ABDEB4F"
+			}
+			"playerbuildtest"
+			{
+				"gid" "CBE1534E58A74824A8773A24A9BBE883"
+				"size" "F6C1F28668F4536D756A6E773F1362EE"
+				"download" "05C9EE0878D2D5234858FCF25ABA9E0C"
 			}
 		}
 	}
@@ -284,8 +290,8 @@
 	{
 		"public"
 		{
-			"buildid" "16327167"
-			"timeupdated" "1730981447"
+			"buildid" "16371134"
+			"timeupdated" "1731365681"
 		}
 		"achievementtest-branch"
 		{
@@ -295,15 +301,15 @@
 		}
 		"controllersupport"
 		{
-			"buildid" "16327167"
+			"buildid" "16371134"
 			"pwdrequired" "1"
-			"timeupdated" "1730981262"
+			"timeupdated" "1731364538"
 		}
 		"localizationbuild"
 		{
-			"buildid" "15889464"
+			"buildid" "16360406"
 			"pwdrequired" "1"
-			"timeupdated" "1727790675"
+			"timeupdated" "1731283954"
 		}
 		"p1-34"
 		{
@@ -319,9 +325,15 @@
 		}
 		"p1-4beta"
 		{
-			"buildid" "16327167"
+			"buildid" "16391656"
 			"description" "Patch 1.4 Beta Controllersupport"
-			"timeupdated" "1730981249"
+			"timeupdated" "1731499378"
+		}
+		"playerbuildtest"
+		{
+			"buildid" "16378900"
+			"pwdrequired" "1"
+			"timeupdated" "1731417752"
 		}
 	}
 }
@@ -344,6 +356,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26094963"
-"_sha" "53b71780e5ef87c7ccb76aafe4515e6f6429dd19"
-"_size" "6303"
+"_change_number" "26174047"
+"_sha" "e645b5f538d63846d449fff7c7201d51fb7462c0"
+"_size" "6596"
