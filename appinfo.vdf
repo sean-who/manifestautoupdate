@@ -265,9 +265,9 @@
 		{
 			"public"
 			{
-				"gid" "5505438785909963180"
-				"size" "4095704617"
-				"download" "1241293616"
+				"gid" "4590407868536469393"
+				"size" "4095705445"
+				"download" "1241270784"
 			}
 			"previousmajorupdate"
 			{
@@ -295,18 +295,18 @@
 			}
 			"beta"
 			{
-				"gid" "5505438785909963180"
-				"size" "4095704617"
-				"download" "1241293616"
+				"gid" "4590407868536469393"
+				"size" "4095705445"
+				"download" "1241270784"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test2020"
 			{
-				"gid" "1DDAB300C4B62B661CD09C657AA4A72A"
-				"size" "3859DC9D2FA448E20C4E37D8B691E4B1"
-				"download" "71D34B0ACDBDEF1BE8AE78EE158C907D"
+				"gid" "0DFF61E33A09BF0F424CFC4242F5FC8D"
+				"size" "DD3EC83E2B0C556D2385AD9D1A6925A8"
+				"download" "26EA50A5652BE61F15AC58FC78801C57"
 			}
 		}
 	}
@@ -314,8 +314,8 @@
 	{
 		"public"
 		{
-			"buildid" "16345192"
-			"timeupdated" "1731088019"
+			"buildid" "16382291"
+			"timeupdated" "1731438141"
 		}
 		"previousmajorupdate"
 		{
@@ -343,19 +343,19 @@
 		}
 		"test2020"
 		{
-			"buildid" "16345192"
+			"buildid" "16382291"
 			"pwdrequired" "1"
-			"timeupdated" "1731087557"
+			"timeupdated" "1731435784"
 		}
 		"beta"
 		{
-			"buildid" "16345192"
+			"buildid" "16382291"
 			"description" "beta branch"
-			"timeupdated" "1731087974"
+			"timeupdated" "1731438108"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26118944"
-"_sha" "62a74103ce662b991105807e0a5fa833631dc8ab"
+"_change_number" "26162826"
+"_sha" "5c2fbb5c9ef6cc01b2b4ba35b51d8ac8746ae44e"
 "_size" "6528"
