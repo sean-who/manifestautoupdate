@@ -282,18 +282,18 @@
 		{
 			"public"
 			{
-				"gid" "2511694420200536915"
-				"size" "914108863"
-				"download" "733822816"
+				"gid" "7801081096505310611"
+				"size" "923138479"
+				"download" "743463008"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"development"
 			{
-				"gid" "5D3B0D7CAA57F5025F05B4D4CDB24517"
-				"size" "FA552A911EB572A75080509F44215859"
-				"download" "BC50881D69C6ED59DA46D7614462C8ED"
+				"gid" "0987E078C241D8E8B930DD0D1F554D68"
+				"size" "D9B7B40624B21182EC8A5C0FCF0BA231"
+				"download" "DD5B9CF00FDB8125F365FD2B1A399AD0"
 			}
 			"polish"
 			{
@@ -303,9 +303,9 @@
 			}
 			"portuguese"
 			{
-				"gid" "6EA380D67AC3F46F9B04E3E4218C0F8D"
-				"size" "4E933F03A59EDCB483D4F0B663F40E21"
-				"download" "CA696EED5D15EDE720F649B72F96B313"
+				"gid" "41A998FAD9E5DDBDF47313B3B964E701"
+				"size" "A6EDA243CAF657E47794D428A94EE6A1"
+				"download" "BE5427CE42E4C1020CC2D70BAE2840E1"
 			}
 		}
 	}
@@ -314,14 +314,14 @@
 	{
 		"public"
 		{
-			"buildid" "16263693"
-			"timeupdated" "1730460508"
+			"buildid" "16377519"
+			"timeupdated" "1731414221"
 		}
 		"development"
 		{
-			"buildid" "16263693"
+			"buildid" "16377519"
 			"pwdrequired" "1"
-			"timeupdated" "1730458658"
+			"timeupdated" "1731410070"
 		}
 		"polish"
 		{
@@ -331,13 +331,13 @@
 		}
 		"portuguese"
 		{
-			"buildid" "16263693"
+			"buildid" "16377519"
 			"pwdrequired" "1"
-			"timeupdated" "1730460525"
+			"timeupdated" "1731414195"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26020427"
-"_sha" "bb6a8d96b28ac2d26ee5dda9b88c4db6f539d527"
+"_change_number" "26156852"
+"_sha" "e7644b5a62f53182aa67f1543ddf2a3306629ffd"
 "_size" "5695"
