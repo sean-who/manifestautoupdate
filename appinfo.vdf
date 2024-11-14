@@ -215,8 +215,8 @@
 		"4" "3843"
 		"5" "4726"
 		"6" "3871"
-		"7" "12472"
-		"8" "3859"
+		"7" "3859"
+		"8" "12472"
 		"9" "4182"
 		"10" "4136"
 		"11" "597"
@@ -264,24 +264,18 @@
 		{
 			"public"
 			{
-				"gid" "9184779655694676764"
-				"size" "765524044"
-				"download" "100907072"
-			}
-			"beta"
-			{
-				"gid" "9184779655694676764"
-				"size" "765524044"
-				"download" "100907072"
+				"gid" "5901031050315168302"
+				"size" "765525124"
+				"download" "100894864"
 			}
 		}
 		"encryptedmanifests"
 		{
 			"test"
 			{
-				"gid" "4E84F4835B1BEBA1BDFE959B8998FBB3"
-				"size" "14FB6E45EAF72A6E9E413161DD49CA55"
-				"download" "6BD5333F5EDE20F8F834717B4C8D7E76"
+				"gid" "C34AFEF91F5BE08387653FAB6F61D7DD"
+				"size" "009217E021D80C630500D97E95CEC5FC"
+				"download" "EFA13E416DC82C3937FF96A0659A08FB"
 			}
 		}
 	}
@@ -289,20 +283,14 @@
 	{
 		"public"
 		{
-			"buildid" "16374351"
-			"timeupdated" "1731391098"
-		}
-		"beta"
-		{
-			"buildid" "16374351"
-			"description" "Beta features and fixes"
-			"timeupdated" "1731391026"
+			"buildid" "16403392"
+			"timeupdated" "1731574369"
 		}
 		"test"
 		{
-			"buildid" "16374351"
+			"buildid" "16403392"
 			"pwdrequired" "1"
-			"timeupdated" "1731391016"
+			"timeupdated" "1731574330"
 		}
 	}
 }
@@ -323,6 +311,6 @@
 	"appidredirect" "2749770"
 }
 "_missing_token" "False"
-"_change_number" "26155862"
-"_sha" "ef75567e200484a2f6eed4cfee83c121a96b8d40"
-"_size" "5242"
+"_change_number" "26189377"
+"_sha" "1df32736b1d34a080b5fec169e7dc1ed067dc4ed"
+"_size" "5008"
