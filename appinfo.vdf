@@ -159,6 +159,13 @@
 				"english" "80824755ad82f5bccd270a991178df767e8ef1a3/library_hero.jpg"
 			}
 		}
+		"library_hero_blur"
+		{
+			"images"
+			{
+				"english" "80824755ad82f5bccd270a991178df767e8ef1a3/library_hero_blur.jpg"
+			}
+		}
 		"library_logo"
 		{
 			"image"
@@ -430,9 +437,9 @@
 		{
 			"public"
 			{
-				"gid" "3285370661584153444"
-				"size" "60414431404"
-				"download" "44000014432"
+				"gid" "1309440111133340824"
+				"size" "60414595784"
+				"download" "44000181120"
 			}
 		}
 		"encryptedmanifests"
@@ -494,8 +501,8 @@
 	{
 		"public"
 		{
-			"buildid" "16401933"
-			"timeupdated" "1731564430"
+			"buildid" "16405530"
+			"timeupdated" "1731584856"
 		}
 		"cb_beta"
 		{
@@ -518,6 +525,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26187554"
-"_sha" "a6f1e8ac39bef37a174625c0beebd4f2907646fa"
-"_size" "12024"
+"_change_number" "26201212"
+"_sha" "a43627a73b35132bbc77277fe2e9c3969b003ae7"
+"_size" "12163"
