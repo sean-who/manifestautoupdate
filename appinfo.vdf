@@ -66,9 +66,9 @@
 	"controller_support" "full"
 	"small_capsule"
 	{
-		"english" "capsule_231x87.jpg"
-		"tchinese" "capsule_231x87_tchinese.jpg"
-		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "942fbe0d299fb6c0f25d882b9f4cbed8de2bdfbd/capsule_231x87.jpg"
+		"tchinese" "8facd0ac334ace05bceee3cff8cd399648b8ad26/capsule_231x87_tchinese.jpg"
+		"schinese" "88c9dc9ff22992e36d57722294f0d94186fc3ca5/capsule_231x87_schinese.jpg"
 	}
 	"header_image"
 	{
@@ -95,15 +95,15 @@
 		{
 			"image"
 			{
-				"english" "library_600x900.jpg"
-				"tchinese" "library_600x900_tchinese.jpg"
-				"schinese" "library_600x900_schinese.jpg"
+				"english" "d8a7956579066f1fe62d9dbf2482593502693142/library_600x900.jpg"
+				"tchinese" "68d716f75852e3a2d40cd70c7043f6b7bc12260c/library_600x900_tchinese.jpg"
+				"schinese" "f61d4b55f87cddf41594719a2db3917dcfcafc07/library_600x900_schinese.jpg"
 			}
 			"image2x"
 			{
-				"english" "library_600x900_2x.jpg"
-				"tchinese" "library_600x900_tchinese_2x.jpg"
-				"schinese" "library_600x900_schinese_2x.jpg"
+				"english" "d8a7956579066f1fe62d9dbf2482593502693142/library_600x900_2x.jpg"
+				"tchinese" "68d716f75852e3a2d40cd70c7043f6b7bc12260c/library_600x900_tchinese_2x.jpg"
+				"schinese" "f61d4b55f87cddf41594719a2db3917dcfcafc07/library_600x900_schinese_2x.jpg"
 			}
 		}
 		"library_hero"
@@ -121,15 +121,9 @@
 		{
 			"image"
 			{
-				"english" "logo.png"
-				"schinese" "logo_schinese.png"
-				"tchinese" "logo_tchinese.png"
-			}
-			"image2x"
-			{
-				"english" "logo_2x.png"
-				"schinese" "logo_schinese_2x.png"
-				"tchinese" "logo_tchinese_2x.png"
+				"english" "9a8e00644f428f8784b2047a1ca17d129b560575/logo.png"
+				"schinese" "1052147baea3841c1be7ea2e8f7ce4fe10b5e317/logo_schinese.png"
+				"tchinese" "9da9994dd49774e35862e21574e5554451251c28/logo_tchinese.png"
 			}
 			"logo_position"
 			{
@@ -142,13 +136,13 @@
 		{
 			"image"
 			{
-				"english" "library_header.jpg"
-				"schinese" "library_header_schinese.jpg"
-				"tchinese" "library_header_tchinese.jpg"
+				"english" "07f080b6615328b8f95423f7f46f0def9a96ce76/library_header.jpg"
+				"schinese" "fea76440c4b261c96f84199fe0803351adb6bc7f/library_header_schinese.jpg"
+				"tchinese" "6f8b00756997e47bb66f9b227e759a8727ef0602/library_header_tchinese.jpg"
 			}
 		}
 	}
-	"store_asset_mtime" "1721182881"
+	"store_asset_mtime" "1731287991"
 	"associations"
 	{
 		"0"
@@ -267,7 +261,7 @@
 		"19" "493"
 	}
 	"review_score" "8"
-	"review_percentage" "85"
+	"review_percentage" "86"
 }
 "extended"
 {
@@ -300,9 +294,9 @@
 		{
 			"public"
 			{
-				"gid" "9210374721230562315"
-				"size" "630145042"
-				"download" "478751120"
+				"gid" "1071628569304952304"
+				"size" "630315562"
+				"download" "478901936"
 			}
 		}
 	}
@@ -310,8 +304,8 @@
 	{
 		"public"
 		{
-			"buildid" "16236938"
-			"timeupdated" "1730336849"
+			"buildid" "16399615"
+			"timeupdated" "1731546648"
 		}
 	}
 }
@@ -322,6 +316,6 @@
 	"sync_while_suspended" "1"
 }
 "_missing_token" "False"
-"_change_number" "25981269"
-"_sha" "92439e50767d7afa82a00759c62cd52606dff7a8"
-"_size" "5778"
+"_change_number" "26184690"
+"_sha" "c6790b84d3947fee29bfd0979b5acc69c06a44ca"
+"_size" "6257"
