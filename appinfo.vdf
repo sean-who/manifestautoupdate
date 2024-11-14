@@ -113,7 +113,7 @@
 			}
 		}
 	}
-	"store_asset_mtime" "1730738503"
+	"store_asset_mtime" "1731580321"
 	"associations"
 	{
 		"0"
@@ -184,7 +184,7 @@
 	"developer" "白玉京工作室"
 	"publisher" "白玉京工作室"
 	"homepage" "http://jh.inmotiongame.com/"
-	"listofdlc" "2905470,2998780,3007440,3099590,3137140,3169410,3255940"
+	"listofdlc" "2905470,2998780,3007440,3099590,3137140,3169410,3255940,3323010"
 	"dlcavailableonstore" "1"
 }
 "config"
@@ -218,9 +218,9 @@
 		{
 			"public"
 			{
-				"gid" "3100251711319734741"
-				"size" "16643426042"
-				"download" "13933390768"
+				"gid" "8600428677996116084"
+				"size" "16895189290"
+				"download" "14168810720"
 			}
 		}
 		"encryptedmanifests"
@@ -239,15 +239,15 @@
 			}
 			"steam_china_only"
 			{
-				"gid" "8D969B82AEC57376C321DAC2F4F2BB3A"
-				"size" "E28A235EBAE349EC044A4D3F4256BA72"
-				"download" "A34D863FCF00409BA69B36D246D1EF15"
+				"gid" "15A40B6EC336E3BCC43DA569DED69909"
+				"size" "76CFFDCF86AB87678A5B05DFA5520159"
+				"download" "D538D6C591FA85F2FE2D76992614494F"
 			}
 			"test"
 			{
-				"gid" "979CF98947664184A025D65E53D760A2"
-				"size" "BE6ACEEB5998503503C23BBE4D4817F2"
-				"download" "6571EF9C271B45FB49DBAFBBFBD62DBD"
+				"gid" "1CE65B23FAC1E80BB9077B21A5534CC5"
+				"size" "C43B76275DEC82D003B5CC22885F6B82"
+				"download" "CE20932B24E4030F77EC370F6A8CED96"
 			}
 		}
 	}
@@ -295,8 +295,8 @@
 	{
 		"public"
 		{
-			"buildid" "16363499"
-			"timeupdated" "1731321216"
+			"buildid" "16408203"
+			"timeupdated" "1731608353"
 		}
 		"playertest"
 		{
@@ -315,20 +315,20 @@
 		"steam_china_only"
 		{
 			"sc_schinese" "仅中国"
-			"buildid" "16363499"
+			"buildid" "16408203"
 			"pwdrequired" "1"
-			"timeupdated" "1731321196"
+			"timeupdated" "1731608320"
 		}
 		"test"
 		{
 			"sc_schinese" "Steam China test"
-			"buildid" "16363820"
+			"buildid" "16408203"
 			"pwdrequired" "1"
-			"timeupdated" "1731321034"
+			"timeupdated" "1731599588"
 		}
 	}
 }
 "_missing_token" "False"
-"_change_number" "26138161"
-"_sha" "9df83a2d1b8ddcd197433ad75345250f37551b2a"
-"_size" "6845"
+"_change_number" "26198296"
+"_sha" "456f36959d39b6e2e457b4fe3404bee8702ad229"
+"_size" "6853"
