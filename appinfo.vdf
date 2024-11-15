@@ -313,9 +313,9 @@
 		{
 			"public"
 			{
-				"gid" "5193307416904651759"
-				"size" "1022015971"
-				"download" "360001888"
+				"gid" "3990430067358026436"
+				"size" "1022180735"
+				"download" "360037520"
 			}
 			"sd_test"
 			{
@@ -335,8 +335,8 @@
 	{
 		"public"
 		{
-			"buildid" "14295563"
-			"timeupdated" "1715118463"
+			"buildid" "16412350"
+			"timeupdated" "1731625713"
 		}
 		"sd_test"
 		{
@@ -390,54 +390,7 @@
 		}
 	}
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status_startgame_" "Preparing for battle"
-				"#status_mainbattle_" "Fight in the main arena"
-				"#status_bossfight1_" "Boss fight"
-				"#status_bossfight2_" "Final boss fight"
-				"#status_victory_" "Victory"
-				"#status_outsidearena_" "Behind the scenes of the game"
-				"#status_endlessarena1_" "Fight in endless arena 1"
-				"#status_endlessarena2_" "Fight in endless arena 2"
-				"#status_secret_" "Found a secret room"
-			}
-		}
-		"russian"
-		{
-			"tokens"
-			{
-				"#status_startgame_" "Подготовка к битве"
-				"#status_mainbattle_" "Сражение на главной арене"
-				"#status_bossfight1_" "Сражение с боссом"
-				"#status_bossfight2_" "Сражение с финальным боссом"
-				"#status_victory_" "Победа"
-				"#status_outsidearena_" "За кулисами игры"
-				"#status_endlessarena1_" "Сражение на бесконечной арене 1"
-				"#status_endlessarena2_" "Сражение на бесконечной арене 2"
-				"#status_secret_" "Найдена секретная комната"
-			}
-		}
-		"french"
-		{
-			"tokens"
-			{
-				"#status_startgame_" "Préparation pour la bataille"
-				"#status_mainbattle_" "Combattez dans l\'arène principale"
-				"#status_bossfight1_" "Combat de boss"
-				"#status_bossfight2_" "Combat final contre le boss"
-				"#status_victory_" "La victoire"
-				"#status_outsidearena_" "Dans les coulisses du jeu"
-				"#status_endlessarena1_" "Combattez dans l\'arène sans fin 1"
-				"#status_endlessarena2_" "Combattez dans l\'arène sans fin 2"
-				"#status_secret_" "Trouvé une chambre secrète"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26201959"
+"_sha" "5b0ba4e4bf82da65eacef6cec2a062799ae7e703"
+"_size" "6735"
