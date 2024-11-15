@@ -26,6 +26,8 @@
 		"schinese" "传染病"
 		"tchinese" "傳染病"
 	}
+	"timeline_marker_updated" "1731701805"
+	"timeline_marker_svg" "99b2b85f734ca1946149b367f1f645eed62ad169/markers.svg"
 	"steam_deck_compatibility"
 	{
 		"category" "3"
@@ -273,8 +275,8 @@
 		"1" "3835"
 		"2" "1685"
 		"3" "1667"
-		"4" "8122"
-		"5" "1663"
+		"4" "1663"
+		"5" "8122"
 		"6" "1669"
 		"7" "6730"
 		"8" "3839"
@@ -397,9 +399,9 @@
 		{
 			"public"
 			{
-				"gid" "8187376489168080015"
-				"size" "212759472"
-				"download" "75386176"
+				"gid" "171234662989386714"
+				"size" "150880810"
+				"download" "56127264"
 			}
 		}
 		"encryptedmanifests"
@@ -430,9 +432,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "8F469528E7B3EEB2D7135F5B0CA4A132"
-				"size" "B3DA447E3F4A4B4A2F8530516D686F30"
-				"download" "04718263DDECDACE15649838FBB3A32D"
+				"gid" "B138ED1BD5D3B51D758204415E1CB274"
+				"size" "1C62A911F088C9B32DC62A6FEF76D24A"
+				"download" "D3223285D909A3A42D83603C123B386B"
 			}
 		}
 	}
@@ -442,9 +444,9 @@
 		{
 			"public"
 			{
-				"gid" "4007097738165502621"
-				"size" "14388519327"
-				"download" "4540506560"
+				"gid" "2413339799667697510"
+				"size" "14905199284"
+				"download" "4828204256"
 			}
 		}
 		"encryptedmanifests"
@@ -457,9 +459,9 @@
 			}
 			"quality_assurance"
 			{
-				"gid" "E69BB71366B7CDF8FFA6AFD450F9EA77"
-				"size" "24F7B9777BDA33D9D9423481B51E4D70"
-				"download" "CA9254D34F940F81FAB8F8DD50E1E960"
+				"gid" "81C3C84998D74F2A02C560829CCA4861"
+				"size" "297322184407F353786CF498E5B0B404"
+				"download" "C9EECBFA04AC3872BB817C8868AA3822"
 			}
 		}
 	}
@@ -470,7 +472,7 @@
 		{
 			"public"
 			{
-				"gid" "1485316531821900533"
+				"gid" "8874425291611380811"
 				"size" "6264952"
 				"download" "4129536"
 			}
@@ -479,7 +481,7 @@
 		{
 			"quality_assurance"
 			{
-				"gid" "C61D93611D952B2399B4BABB95A15528"
+				"gid" "EDA465696CBD3AC37F5A98D2357FA9B2"
 				"size" "409F54A84F9345A8502565B44F6FFB6F"
 				"download" "73169DDE1A607F4803C1801D268AED3A"
 			}
@@ -489,8 +491,8 @@
 	{
 		"public"
 		{
-			"buildid" "15769955"
-			"timeupdated" "1726835783"
+			"buildid" "16420428"
+			"timeupdated" "1731675415"
 		}
 		"2013-build"
 		{
@@ -518,9 +520,9 @@
 		}
 		"quality_assurance"
 		{
-			"buildid" "15769955"
+			"buildid" "16420428"
 			"pwdrequired" "1"
-			"timeupdated" "1726832121"
+			"timeupdated" "1731675329"
 		}
 	}
 }
@@ -529,67 +531,7 @@
 	"quota" "1073741824"
 	"maxnumfiles" "10000"
 }
-"localization"
-{
-	"richpresence"
-	{
-		"english"
-		{
-			"tokens"
-			{
-				"#status" "{#Status_%gamestatus%}"
-				"#statuswithvalue" "{#Status_%gamestatus%}: %VALUE%"
-				"#statusplaying" "%MODE%: %MAP% (%DIFF%)"
-				"#status_menu" "Main Menu"
-				"#status_lobby" "In Lobby"
-				"#status_play" "Playing on a server"
-				"#status_join" "Connecting to a server"
-			}
-		}
-		"schinese"
-		{
-			"tokens"
-			{
-				"#status" "{#Status_%gamestatus%}"
-				"#statuswithvalue" "{#Status_%gamestatus%}: %VALUE%"
-				"#statusplaying" "%MODE%: %MAP% (%DIFF%)"
-				"#statuscompetitive" "比赛中: %MAP%"
-				"#status_editor" "Hammer编辑器"
-				"#status_menu" "主菜单"
-				"#status_lobby" "游戏大厅"
-				"#status_play" "正在一个服务器内游玩"
-				"#status_join" "正在连接至一个服务器"
-			}
-		}
-		"tchinese"
-		{
-			"tokens"
-			{
-				"#status" "{#Status_%gamestatus%}"
-				"#statuswithvalue" "{#Status_%gamestatus%}: %VALUE%"
-				"#statusplaying" "%MODE%: %MAP% (%DIFF%)"
-				"#statuscompetitive" "比賽中: %MAP%"
-				"#status_editor" "Hammer編輯器"
-				"#status_menu" "主菜單"
-				"#status_lobby" "遊戲大廳"
-				"#status_play" "正在一個伺服器內遊玩"
-				"#status_join" "正在連接至一個伺服器"
-			}
-		}
-		"brazilian"
-		{
-			"tokens"
-			{
-				"#status" "{#Status_%gamestatus%}"
-				"#statuswithvalue" "{#Status_%gamestatus%}: %VALUE%"
-				"#statusplaying" "%MODE%: %MAP% (%DIFF%)"
-				"#statuscompetitive" "Competitivo: %MAP%"
-				"#status_editor" "Hammer Editor"
-				"#status_menu" "Menu Principal"
-				"#status_lobby" "Na Sala"
-				"#status_play" "Jogando em um servidor"
-				"#status_join" "Conectando a um servidor"
-			}
-		}
-	}
-}
+"_missing_token" "False"
+"_change_number" "26218893"
+"_sha" "7e8332a7790f8f54c5d86014dc5f6dc4cb13ea45"
+"_size" "11346"
