@@ -378,9 +378,9 @@
 		{
 			"public"
 			{
-				"gid" "3245585757882433703"
-				"size" "17239198104"
-				"download" "4760644208"
+				"gid" "7148808676817445215"
+				"size" "17299332407"
+				"download" "4767237168"
 			}
 			"old_public_0.2.2.3"
 			{
@@ -429,15 +429,15 @@
 			}
 			"forshotsdev"
 			{
-				"gid" "79438767FAAD8E0EA6BD86365C9D7004"
-				"size" "61133924F6F83569330E3184E6AF675A"
-				"download" "1D8AB9434AE5192636B6E5F27EAF7C3D"
+				"gid" "1433D883EFCB4A2AB9D7B85F7CA0B3F8"
+				"size" "1AC79072FBAF1D856C4B6D7FD2CA8D52"
+				"download" "1C821C9E0467A3DF64C556E624651BCA"
 			}
 			"forshots"
 			{
-				"gid" "6DBF130C704A57B662F995E0B6FDB2A5"
-				"size" "145FD190EB609B27800C4BB2CB8AD846"
-				"download" "5A23737E122EEEE1B6BD5793F4AB8FD2"
+				"gid" "8A315FE33D37259D9BF3A610BAFE2C55"
+				"size" "2804150D50E0938D0C43819EB68BBE4D"
+				"download" "02F29297FB420CB1268248D90B3C5870"
 			}
 			"betabranchtester"
 			{
@@ -451,8 +451,8 @@
 	{
 		"public"
 		{
-			"buildid" "16342018"
-			"timeupdated" "1731071704"
+			"buildid" "16411395"
+			"timeupdated" "1731619027"
 		}
 		"betabranch"
 		{
@@ -468,9 +468,9 @@
 		}
 		"forshotsdev"
 		{
-			"buildid" "16314535"
+			"buildid" "16421831"
 			"pwdrequired" "1"
-			"timeupdated" "1730898961"
+			"timeupdated" "1731682428"
 		}
 		"old_public_0.2.2.3"
 		{
@@ -480,9 +480,9 @@
 		}
 		"forshots"
 		{
-			"buildid" "16342018"
+			"buildid" "16411395"
 			"pwdrequired" "1"
-			"timeupdated" "1731071357"
+			"timeupdated" "1731617898"
 		}
 		"betabranchtester"
 		{
@@ -547,6 +547,6 @@
 	}
 }
 "_missing_token" "False"
-"_change_number" "26108053"
-"_sha" "1a729927b6f7cd1e0658160c6a3b63c803fa3eb1"
+"_change_number" "26214056"
+"_sha" "17dbfb9b65dedf77bd3fd9f1d495c1d5f6ac3bfc"
 "_size" "10308"
