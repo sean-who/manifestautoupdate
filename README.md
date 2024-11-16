@@ -1,16 +1,12 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-16 09:51:16
+## 更新时间：2024-11-16 16:27:56
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 730 | Counter-Strike 2| Game |
+| 3168260 | 黑荆棘角斗场：重铸版| Game |
 | 570 | Dota 2| game |
-| 2068280 | Nordic Ashes| Game |
-| 1836200 | Fallout 76 Public Test Server| Beta |
-| 17390 | Spore| game |
-| 1525700 | Tavern Master| Game |
-| 222750 | Wargame: AirLand Battle| Game |
-| 1435790 | 密室逃脱模拟器| Game |
+| 240 | Counter-Strike: Source| game |
+| 1455910 | 领地：种田与征战| Game |
 | 220 | Half-Life 2| Game |
-| 320 | Half-Life 2: Deathmatch| game |
-| 2667530 | Sunkenland Dedicated Server| Tool |
+| 2719030 | 超级键盘侠| Game |
+| 3226330 | FOOT LOVERS| Game |
