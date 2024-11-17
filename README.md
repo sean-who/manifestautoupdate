@@ -1,16 +1,17 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-17 15:35:58
+## 更新时间：2024-11-17 15:46:52
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 471330 | Versus Squad| Game |
-| 4730 | OutRun 2006: Coast 2 Coast| game |
-| 485380 | Welcome to the Game| Game |
-| 4850 | Cossacks: Back to War| game |
-| 486650 | Potato Thriller Steamed Potato Edition| Game |
-| 490510 | Pixel Puzzles 2: Christmas| Game |
-| 492710 | VR Ping Pong| Game |
-| 503480 | Mahluk:Dark demon| Game |
-| 516040 | Everything is Peachy| Game |
-| 530500 | The Rosefinch Curse（Ning's Wing 1）| Game |
-| 534250 | NTR幻想之我的藤木同学| Game |
+| 559210 | Rakuen| Game |
+| 573080 | Peregrin| Game |
+| 57650 | Dungeons| game |
+| 584990 | The Long Reach| Game |
+| 585500 | Dick Wilde| Game |
+| 585890 | Sweetest Monster| Game |
+| 599080 | The Blackout Club| Game |
+| 600420 | Mob Rule Classic| Game |
+| 603350 | 别剁手| Game |
+| 606870 | MetaMorph| Game |
+| 611620 | TheNightfall| Game |
+| 625980 | Yomawari: Midnight Shadows| Game |
