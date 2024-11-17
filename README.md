@@ -1,24 +1,18 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-17 08:26:17
+## 更新时间：2024-11-17 09:06:28
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1700270 | 终极幸运之塔 (Lucky Tower Ultimate)| Game |
-| 17440 | Spore: Creepy & Cute Parts Pack| game |
-| 207930 | Sacred Citadel| Game |
-| 2123640 | Hollowbody| Game |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
-| 220 | Half-Life 2| Game |
-| 22490 | Fallout: New Vegas PCR| game |
-| 2427700 | 背包乱斗：福西法的宝藏 Backpack Battles| Game |
-| 2669360 | 神之天平外传：幻雾之洞窟| DLC |
-| 2669320 | 《EA SPORTS FC™ 25》| Game |
-| 2799930 | 灵境·修仙界| Game |
-| 2878420 | 菜市场模拟器| Game |
-| 320 | Half-Life 2: Deathmatch| game |
-| 321360 | Primal Carnage: Extinction| Game |
-| 33770 | Drakensang The River of Time| game |
-| 3021100 |  阿西, 美女室友竟然...？| Game |
-| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
-| 730 | Counter-Strike 2| Game |
-| 917080 | This Is the Police 2 - Soundtrack| Music |
+| 1002270 | PiiSim| Game |
+| 1002490 | Roulette Simulator 2| Game |
+| 10130 | TimeShift| game |
+| 1019630 | ECCHI NEKO GIRLS PUZZLE| Game |
+| 1023980 | V.L.A.D.i.K| Game |
+| 1054120 | SEXXXNATOR: Adult Sandbox RPG| Game |
+| 1056050 | LONGING RING OF ESCA| Game |
+| 1056690 | Drink More Glurp| Game |
+| 1062260 | 末法仙路| Game |
+| 1076790 | Cube Runner 2| Game |
+| 1087330 | Royal Merchant| Game |
+| 1094920 | 彼岸晴空| Game |
+| 1094100 | The Lost Game| Game |
