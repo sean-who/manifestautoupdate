@@ -1,38 +1,54 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-17 12:26:47
+## 更新时间：2024-11-17 12:47:07
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2128750 | Your Waifu JUICE| Game |
-| 2152350 | PARADISE CLEANING - Married Woman Cosplay Life -| Game |
-| 2162810 | 异常状态少女 ~魔纹/禁书/寄生篇~| Game |
-| 2163270 | 柒愿传说| Game |
-| 2367240 | 普莉西亚公主塔防R18 DLC| DLC |
-| 2162790 | 普莉西亚公主塔防| Game |
-| 2533110 | 和你在一起生活的日子 - 全年龄版故事情节 & 绘图追加 DLC| DLC |
-| 2172940 | Aconite| Game |
-| 2149840 | Goblins Strike Back -Instant Fuck Heroines-| Game |
-| 2158030 | RetroRealms| Game |
-| 2176060 | Paradise Cleaning!- sex-loving family -| Game |
-| 2178410 | Last Tour 終末旅行| Game |
-| 21800 | Tom Clancy's EndWar| game |
-| 2183190 | OSAWARI HOCKEY えんこちゃん| Game |
-| 2182020 | Assassins Guild| Game |
-| 2189530 | 倾国九尾・白银泡妖狐的快乐堕落恋爱RPG| Game |
-| 2230870 | Cow Girl 2 Adult Only Content 18+| DLC |
-| 221001 | FTL: Faster Than Light - Soundtrack| Music |
-| 2215650 | 关于我转生变成魅魔这档事| Game |
-| 2218210 | 圣骑士大人与魅魔从者| Game |
-| 2218030 | 公主游记| Game |
-| 222750 | Wargame: AirLand Battle| Game |
-| 2221490 | Tom Clancy's The Division 2| Game |
-| 2227080 | Snow Moon Flower| Game |
-| 2231520 | Touch and Hypnosis ～ kunochi ninja Kunai ～| Game |
-| 2131640 | METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version| Game |
-| 2237200 | Fire Shark| Game |
-| 2229940 | [REDACTED]| Game |
-| 2237190 | Hellfire| Game |
-| 2240710 | Sakura Mirror 18+ Adult Only Content| DLC |
-| 2243980 | 棉花糖☆妹妹☆魅魔| Game |
-| 2244110 | Save The Girls| Game |
-| 22380 | Fallout: New Vegas| game |
+| 2250270 | 复兴游记| Game |
+| 22490 | Fallout: New Vegas PCR| game |
+| 22610 | Alien Breed: Impact| game |
+| 22650 | Alien Breed 2: Assault| game |
+| 2273890 | My Neighbor Neko 18+ Adult Only Content| DLC |
+| 2261660 | My Neighbor Neko| Game |
+| 2262990 | 店长实在有够忙！ ～被擄走的店員～| Game |
+| 227080 | Papo & Yo| Game |
+| 2279310 | 茜镇怪异录2| Game |
+| 2272900 | 欢欣森活| Game |
+| 2289560 | 从0开始的VUP生活| Game |
+| 2288480 | Kiss Effect| Game |
+| 228260 | Fallen Enchantress: Legendary Heroes| Game |
+| 2311800 | Neko-chan's Club - NSFW Content| DLC |
+| 2298730 | Neko-chan's Club| Game |
+| 3280600 | Operation: Polygon Storm - Chernobyl DLC| DLC |
+| 2307300 | 纯情的可洛妮 ~星降之村的见习魔女~| Game |
+| 2311670 | Girls of the Lust City and the Avenger ~欲望都市的少女与复仇者~| Game |
+| 2275710 | 亚香里与地狱宫的深渊| Game |
+| 2317310 | Hentai　HOTLADY| Game |
+| 3058340 | Voice Love on Air Official Strategy Guide (mandarin only)| DLC |
+| 3052430 | Voice Love on Air - Freely Match Performance Types Pass| DLC |
+| 2319290 | 梦之拼图大学| Game |
+| 2311840 | 流浪剑士柯伦| Game |
+| 2326780 | 全裸徘徊的女子大学生~害羞的椎名酱| Game |
+| 2326590 | 淫习的幽世村 ~绝对不能曝光女性身分的时间~| Game |
+| 2274530 | 降魔彩风| Game |
+| 2350310 | 买房新妻莫妮卡| Game |
+| 2332810 | Hybrislave -混血奴隶-| Game |
+| 2369270 | Profi Girls - NSFW Content| DLC |
+| 2350370 | Profi Girls| Game |
+| 2346530 | 淫咒的芙蕾希娅| Game |
+| 2370820 | NSFW Content - Neko Office: Nightlife Adventures| DLC |
+| 2350390 | Neko Office: Nightlife Adventures| Game |
+| 2337090 | 超潜视界| Game |
+| 2353700 | 奴役的秘境| Game |
+| 2355670 |  我将服从您，女士| Game |
+| 2364630 | Swipe Tennis| Game |
+| 2369400 | Dormitory Hentai Clicker| Game |
+| 2377420 | 厄里斯绝色讨灭传| Game |
+| 2382210 | 太空守卫者| Game |
+| 2418330 | NSFW Content - Hime's Blossom| DLC |
+| 2268300 | AngelLink| Game |
+| 239140 | Dying Light| Game |
+| 2386350 | 反乌托邦的掠夺者：The weakest go to the wall| Game |
+| 2581090 | GLASS 2 - Art Book| DLC |
+| 2654500 | GLASS 2 - Part 2| DLC |
+| 2392760 | 镜花水月2| Game |
+| 2390000 | 炼金幻想R ~ 少女的炼金炉 ~| Game |
