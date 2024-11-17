@@ -1,18 +1,20 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-17 09:06:28
+## 更新时间：2024-11-17 09:21:37
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1002270 | PiiSim| Game |
-| 1002490 | Roulette Simulator 2| Game |
-| 10130 | TimeShift| game |
-| 1019630 | ECCHI NEKO GIRLS PUZZLE| Game |
-| 1023980 | V.L.A.D.i.K| Game |
-| 1054120 | SEXXXNATOR: Adult Sandbox RPG| Game |
-| 1056050 | LONGING RING OF ESCA| Game |
-| 1056690 | Drink More Glurp| Game |
-| 1062260 | 末法仙路| Game |
-| 1076790 | Cube Runner 2| Game |
-| 1087330 | Royal Merchant| Game |
-| 1094920 | 彼岸晴空| Game |
-| 1094100 | The Lost Game| Game |
+| 1109820 | Pile Up| Game |
+| 1111810 | Sex Simulator| Game |
+| 1102930 | KoboldKare| Game |
+| 1123550 | Desire Gambling House/欲望赌馆| Game |
+| 1127540 | 伊甸骑士 淫悦的圣魔骑士露西菲尔篇| Game |
+| 1142480 | Anthophobia| Game |
+| 1147330 | Lifeless Moon| Game |
+| 1153550 | Dark Fairy Fantasy| Game |
+| 1482290 | Alisa Quest - 18+ Adult Only Content| DLC |
+| 1148360 | 阿丽莎游记| Game |
+| 1173740 | Woodle Tree 2: Deluxe+| Game |
+| 1187420 | Hasfax| Game |
+| 1195070 | Ninja JaJaMaru: The Great Yokai Battle + Hell| Game |
+| 1196620 | 佣兵战歌| Game |
+| 1196750 | Hentai Match Fantasy Stories| Game |
