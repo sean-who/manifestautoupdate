@@ -1,23 +1,41 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-17 10:45:54
+## 更新时间：2024-11-17 10:54:59
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1808040 | 独自一人：刺激的新世界冒险| Game |
-| 1823320 | 与爆乳魔王的同居生活| Game |
-| 1836420 | Monster Girl Invasion RPG| Game |
-| 1859640 | SIMULATTE - Coffee Shop Simulator| Game |
-| 1850520 | CODE: PANDORA| Game |
-| 2640430 | 欢迎来到阿鲁毕恩！ - 全年龄版故事情节 & 绘图追加 DLC| DLC |
-| 2308450 | 猫又奇谭 - 成人故事情节&绘图追加DLC| DLC |
-| 1885520 | 欢迎来到阿鲁毕恩！| Game |
-| 1894370 | 猫又奇谭| Game |
-| 2641820 | 小桃的纠结 - 全年龄版故事情节 & 绘图追加 DLC| DLC |
-| 1896800 | 小桃的纠结| Game |
-| 1901260 | 幸运宝石| Game |
-| 1879400 | 妄想症：恶灵密室| Game |
-| 1909380 | Furry Sex| Game |
-| 2378850 | 某个教团的潜入搜查 - 全年龄版故事情节 & 绘图追加 DLC| DLC |
-| 1912590 | vision\memory\maze| Game |
-| 1912870 | Inyoku Shoujo| Game |
-| 1892220 | My Ex Sister in Law| Game |
+| 1916380 | Idol Hunter| Game |
+| 1936450 | 罪人之籠| Game |
+| 1932741 | 《The Sims™ 4 大漠奢华套件包》| DLC |
+| 1930740 | Muse:Valkiri&Dungeon| Game |
+| 1937220 | 捕鱼王国Fishing Kingdom| Game |
+| 1940590 | METAL SLUG Soundtrack| Music |
+| 1947530 | Fidget Spinner RPG| Game |
+| 1938090 | 使命召唤®| Game |
+| 2305690 | 魅魔梅尔尼亚 - 成人故事情节&绘图追加DLC| DLC |
+| 1934360 | 魅魔梅尔尼亚| Game |
+| 1958810 | My Bunny Girl| Game |
+| 1970170 | Ninja JaJaMaru: The Great Yokai Battle + Hell OriginalSoundTrack| Music |
+| 1970550 | Mystery Quest| Game |
+| 1981160 | BANCHOU TACTICS| Game |
+| 1951040 | 黑帮英豪| Game |
+| 1989360 | Sargasso on Steam| Game |
+| 2325300 | 奴隶们 - 全年龄版故事情节 & 绘图追加 DLC| DLC |
+| 1963060 | 奴隶们| Game |
+| 1987970 |  万鬼夜行| Game |
+| 1990840 | Golf Gang Soundtrack| Music |
+| 2339750 | オムニ・マジック！ - アダルトストーリー&グラフィック追加DLC| DLC |
+| 1994450 | 全能・魔法！| Game |
+| 1994070 | 奴隶人偶| Game |
+| 1997420 | 眼眸之城与梦境少女| Game |
+| 2495170 | 光樱闪姫普利塞 - 全年龄版故事情节 & 绘图追加 DLC| DLC |
+| 1965280 | 光樱闪姫普利塞| Game |
+| 1997430 | 与魅魔缔结契约的同居生活| Game |
+| 2323450 | 佩兹的骑士艾莲与迷宫城镇索多姆 - 成人故事情节&绘图追加DLC| DLC |
+| 1997130 | 佩兹　的骑士　艾莲　与迷宫城镇索多姆| Game |
+| 2339770 | hopeless. - 成人故事情节&绘图追加DLC| DLC |
+| 1995280 | hopeless.| Game |
+| 1987220 | 埃那托斯 -转世英雄与失忆少女-| Game |
+| 1943400 | Momo's Eternal Adventure| Game |
+| 2282180 | Creators' talks and project designs DLC (18+)| DLC |
+| 2127420 | Ghost Girl Lasling DLC - R18 ASMR| DLC |
+| 1948470 | 幽灵少女莱斯灵| Game |
