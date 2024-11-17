@@ -1,24 +1,28 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-17 09:48:35
+## 更新时间：2024-11-17 09:59:36
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1284760 | Hentai Simulator| Game |
-| 1290880 | Coloring Game: Girls| Game |
-| 1287130 | 监狱岛的女看守| Game |
-| 1291930 | Wizard Lady - Artbook 18+| DLC |
-| 1287510 | Wizard Lady| Game |
-| 1299750 | Wizodd| Game |
-| 1327080 | Tower and Sword of Succubus| Game |
-| 1328890 | 魅魔之恋| Game |
-| 1341930 | Furry Woof| Game |
-| 1342240 | GUNBARICH| Game |
-| 1344450 | Black Smith2| Game |
-| 1358250 | City of Broken Dreamers: Book One| Game |
-| 1368571 | The Sims™ 4 灵异追击组合| DLC |
-| 1372550 | The Nightmare| Game |
-| 1370580 | Toilet Paper Unleashed| Game |
-| 1322310 | Guilty Hell 纯白女神与亡者之都| Game |
-| 1385700 | True Hate| Game |
-| 1384780 | Paradise Killer Soundtrack| Music |
-| 1380060 | Urban Trial Tricky| Game |
+| 1388320 | Game Company Simulator: Back To 2000| Game |
+| 1392390 | 罗刹天圣扎兰达拉~湿婆之仪式| Game |
+| 1390680 | Music Maker Free Steam Edition| Application |
+| 1401760 | 赫雷斯的角斗场 Original Soundtrack| Music |
+| 1402410 | Funny Business with My Precious Coach (Anipuzzle Series)| Game |
+| 1416620 | Gothic Girls - Artbook 18+| DLC |
+| 1417770 | 原始行星：終戰天使| Game |
+| 1418830 | 再会了，黄金时代| Game |
+| 1426950 | Heart of Dungeon| Game |
+| 1507810 | 镜花水月  塞莱斯蒂娜 18+ Adult Only| DLC |
+| 1436990 | Feign| Game |
+| 2205990 | 小小镜花水月| DLC |
+| 1770860 | 镜花水月 - 望月伊诺卡　18+ Adult Only| DLC |
+| 1694070 | 镜花水月 - 弗里纳锡尔　18+ Adult Only| DLC |
+| 1438870 | Feel Up a Sexy Lifeguard!| Game |
+| 1770870 | 镜花水月 - 色情巫師 - 黑宫卡蘇米　18+ Adult Only| DLC |
+| 1488280 | 镜花水月画册| DLC |
+| 1461960 | Baby Goat Billy| Game |
+| 1472160 | NEKO PAPALA| Game |
+| 1480440 | Desktop NEKO Girl| Game |
+| 1463570 | 失落之白 EP2- 躲藏于黑暗中的人们| Game |
+| 1474930 | Heavy Cargo - The Truck Simulator| Game |
+| 1462150 | R.B.I. Baseball 21| Game |
