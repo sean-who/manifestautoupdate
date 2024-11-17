@@ -1,19 +1,16 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-17 15:24:25
+## 更新时间：2024-11-17 15:35:58
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 398000 | Twinsen's Little Big Adventure 2 Classic| Game |
-| 395560 | Lost Horizon 2| Game |
-| 400800 | MXGP2 - The Official Motocross Videogame| Game |
-| 410430 | Morphine| Game |
-| 411310 | Codename: Panzers, Phase One| Game |
-| 423590 | 小小英亩 / The Little Acre| Game |
-| 41800 | Gratuitous Space Battles| game |
-| 439490 | BLUE REVOLVER| Game |
-| 441550 | STAR WARS™ Rebellion| Game |
-| 445420 | Aselia the Eternal -The Spirit of Eternity Sword-| Game |
-| 441830 | I am Setsuna| Game |
-| 450500 | Ace of Seafood| Game |
-| 434030 | Aerofly FS 2 Flight Simulator| Game |
-| 463700 | Super Cloudbuilt | Game |
+| 471330 | Versus Squad| Game |
+| 4730 | OutRun 2006: Coast 2 Coast| game |
+| 485380 | Welcome to the Game| Game |
+| 4850 | Cossacks: Back to War| game |
+| 486650 | Potato Thriller Steamed Potato Edition| Game |
+| 490510 | Pixel Puzzles 2: Christmas| Game |
+| 492710 | VR Ping Pong| Game |
+| 503480 | Mahluk:Dark demon| Game |
+| 516040 | Everything is Peachy| Game |
+| 530500 | The Rosefinch Curse（Ning's Wing 1）| Game |
+| 534250 | NTR幻想之我的藤木同学| Game |
