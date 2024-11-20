@@ -1,6 +1,6 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-21 05:18:42
+## 更新时间：2024-11-21 05:26:08
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 3332950 | 潜行者2：切尔诺贝利之心原声和原画| Music |
+| 927730 | 3D Earth Time Lapse PC Live Wallpaper| Application |
