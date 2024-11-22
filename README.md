@@ -1,7 +1,8 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-22 10:12:24
+## 更新时间：2024-11-22 10:29:45
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 3032980 | Anomalous Crossing ~Shibuya~ \| 異変交差点 ～渋谷～| Game |
-| 2178070 | Towers of Aghasba| Game |
+| 1045050 | Furry Girl 🐺| Game |
+| 1054170 | Lair Land Story 蘭島物語/兰岛物语 レアランドストーリー| Game |
+| 1084400 | Hentai Arena \| Battle Royale| Game |
