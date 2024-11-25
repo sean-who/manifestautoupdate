@@ -1,8 +1,6 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-25 22:36:46
+## 更新时间：2024-11-25 22:40:36
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 1738850 | Plumber 3| Game |
-| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
-| 521720 | Uncharted Waters| Game |
+| 730 | Counter-Strike 2| Game |
