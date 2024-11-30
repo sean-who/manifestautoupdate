@@ -1,19 +1,16 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-11-30 17:03:34
+## 更新时间：2024-11-30 17:24:12
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
+| 7210 | Runaway: A Road Adventure| game |
+| 58560 | Runaway: A Twist of Fate| game |
+| 295550 | Royal Quest| Game |
+| 259410 | Sneaky Sneaky| Game |
+| 235720 | Cubetractor| Game |
 | 730 | Counter-Strike 2| Game |
-| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
-| 223850 | 3DMark| Application |
-| 1468810 | 鬼谷八荒| Game |
-| 240 | Counter-Strike: Source| game |
-| 636750 | Oxygen Not Included Uploader| Tool |
-| 2394010 | Palworld Dedicated Server| Tool |
-| 844930 | Fox Hime Zero| Game |
-| 956680 | M.A.S.S. Builder| Game |
-| 222750 | Wargame: AirLand Battle| Game |
-| 2171630 | 地心归途| Game |
-| 1260320 | 猛兽派对| Game |
-| 736190 | 中国式家长| Game |
-| 1360810 | 职场浮生记| Game |
+| 277870 | Diehard Dungeon| Game |
+| 300840 | JUJU| Game |
+| 765800 | Agents: Biohunters| Game |
+| 1385510 | Back 4 Blood Beta| Game |
+| 2240860 | Harry Potter: Quidditch Champions Playtest| Game |
