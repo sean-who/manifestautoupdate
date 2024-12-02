@@ -1,12 +1,13 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-02 22:12:10
+## 更新时间：2024-12-02 22:58:08
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 3052420 | The Better Deal| Game |
-| 3085890 | 世外桃源| Game |
-| 3166710 | JR EAST Train Simulator: Utsunomiya Line (Kuroiso to Tokyo) E233-3000 series| DLC |
-| 320 | Half-Life 2: Deathmatch| game |
-| 3244740 | 魔饮心语：风暴骤起| DLC |
-| 33780 | Drakensang 2 - Phileasson's Secret| game |
-| 509081 | CLANNAD - Mabinogi Arrange Album| Music |
+| 2350160 | 三国志汉末霸业-美术升级包| DLC |
+| 3171550 | 三国志汉末霸业-出类拔萃| DLC |
+| 624822 | Counter-Strike: Global Offensive Steam China Edition| Config |
+| 635260 | CarX Drift Racing Online| Game |
+| 711860 | Yomawari: Midnight Shadows - Digital Soundtrack| Music |
+| 736190 | 中国式家长| Game |
+| 917080 | This Is the Police 2 - Soundtrack| Music |
+| 1977570 | A Dance of Fire and Ice - Neo Cosmos| DLC |
