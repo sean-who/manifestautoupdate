@@ -1,6 +1,6 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-06 16:28:41
+## 更新时间：2024-12-06 16:32:22
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 2602030 | Entropy Survivors| Game |
+| 3065990 | FANTASIAN Neo Dimension Vibran Secret Stone| DLC |
