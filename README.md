@@ -1,23 +1,15 @@
 ## 注：清单库已加密想要入库请使用 ([入库工具](https://github.com/BlankTMing/ManifestAutoUpdate/releases))
 
-## 更新时间：2024-12-07 09:55:10
+## 更新时间：2024-12-07 16:28:55
 | AppID | 名称 | 类型  |
 | :-------------------- | :----------------------------- | :----------- |
-| 730 | Counter-Strike 2| Game |
 | 570 | Dota 2| game |
-| 240 | Counter-Strike: Source| game |
-| 1315980 | 罐舱逃生指南 Tin Can| Game |
-| 581630 | Sword With Sauce| Game |
-| 613100 | 房产达人| Game |
-| 222750 | Wargame: AirLand Battle| Game |
-| 1435790 | 密室逃脱模拟器| Game |
-| 1210320 | 药剂工艺：炼金模拟器| Game |
-| 1302240 | Labyrinthine| Game |
-| 1397130 | 未元物质 Primateria| Game |
-| 2171630 | 地心归途| Game |
-| 770810 | 可口的披萨，美味的披萨| Game |
-| 505460 | Foxhole| Game |
-| 571740 | Golf It!| Game |
-| 2430930 | ARK: Survival Ascended Dedicated Server| Tool |
-| 2272900 | 欢欣森活| Game |
-| 34470 | Sid Meier's Civilization IV: Colonization| Config |
+| 740 | Counter-Strike Global Offensive - Dedicated Server| Tool |
+| 3168260 | 黑荆棘角斗场：重铸版| Game |
+| 1455910 | 领地：种田与征战| Game |
+| 1274570 | DEVOUR| Game |
+| 320 | Half-Life 2: Deathmatch| game |
+| 573410 | AI War 2| Game |
+| 1364780 | Street Fighter 6| Game |
+| 16810 | Sid Meier's Civilization IV: Colonization| game |
+| 1861610 | Endorphin Vice| Game |
